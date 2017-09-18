@@ -1,0 +1,456 @@
+, , Treatment = C/0
+
+    treatment
+day  C LB LH LH + LB
+  0  3  0  0       0
+  10 0  0  0       0
+  30 0  0  0       0
+  92 0  0  0       0
+
+, , Treatment = C/10
+
+    treatment
+day  C LB LH LH + LB
+  0  0  0  0       0
+  10 3  0  0       0
+  30 0  0  0       0
+  92 0  0  0       0
+
+, , Treatment = C/30
+
+    treatment
+day  C LB LH LH + LB
+  0  0  0  0       0
+  10 0  0  0       0
+  30 3  0  0       0
+  92 0  0  0       0
+
+, , Treatment = C/92
+
+    treatment
+day  C LB LH LH + LB
+  0  0  0  0       0
+  10 0  0  0       0
+  30 0  0  0       0
+  92 3  0  0       0
+
+, , Treatment = LB/10
+
+    treatment
+day  C LB LH LH + LB
+  0  0  0  0       0
+  10 0  3  0       0
+  30 0  0  0       0
+  92 0  0  0       0
+
+, , Treatment = LB/30
+
+    treatment
+day  C LB LH LH + LB
+  0  0  0  0       0
+  10 0  0  0       0
+  30 0  3  0       0
+  92 0  0  0       0
+
+, , Treatment = LB/92
+
+    treatment
+day  C LB LH LH + LB
+  0  0  0  0       0
+  10 0  0  0       0
+  30 0  0  0       0
+  92 0  3  0       0
+
+, , Treatment = LH/10
+
+    treatment
+day  C LB LH LH + LB
+  0  0  0  0       0
+  10 0  0  3       0
+  30 0  0  0       0
+  92 0  0  0       0
+
+, , Treatment = LH/30
+
+    treatment
+day  C LB LH LH + LB
+  0  0  0  0       0
+  10 0  0  0       0
+  30 0  0  3       0
+  92 0  0  0       0
+
+, , Treatment = LH/92
+
+    treatment
+day  C LB LH LH + LB
+  0  0  0  0       0
+  10 0  0  0       0
+  30 0  0  0       0
+  92 0  0  3       0
+
+, , Treatment = LH + LB/10
+
+    treatment
+day  C LB LH LH + LB
+  0  0  0  0       0
+  10 0  0  0       3
+  30 0  0  0       0
+  92 0  0  0       0
+
+, , Treatment = LH + LB/30
+
+    treatment
+day  C LB LH LH + LB
+  0  0  0  0       0
+  10 0  0  0       0
+  30 0  0  0       3
+  92 0  0  0       0
+
+, , Treatment = LH + LB/92
+
+    treatment
+day  C LB LH LH + LB
+  0  0  0  0       0
+  10 0  0  0       0
+  30 0  0  0       0
+  92 0  0  0       3
+
+phyloseq-class experiment-level object
+otu_table()   OTU Table:         [ 1169 taxa and 38 samples ]
+sample_data() Sample Data:       [ 38 samples by 8 sample variables ]
+tax_table()   Taxonomy Table:    [ 1169 taxa by 14 taxonomic ranks ]
+Warning messages:
+1: In strsplit(msg, "\n") : input string 1 is invalid in this locale
+2: In parseFunction(i$metadata$taxonomy) :
+  No greengenes prefixes were found. 
+Consider using parse_taxonomy_default() instead if true for all OTUs. 
+Dummy ranks may be included among taxonomic ranks now.
+3: In parseFunction(i$metadata$taxonomy) :
+  No greengenes prefixes were found. 
+Consider using parse_taxonomy_default() instead if true for all OTUs. 
+Dummy ranks may be included among taxonomic ranks now.
+4: In parseFunction(i$metadata$taxonomy) :
+  No greengenes prefixes were found. 
+Consider using parse_taxonomy_default() instead if true for all OTUs. 
+Dummy ranks may be included among taxonomic ranks now.
+5: In parseFunction(i$metadata$taxonomy) :
+  No greengenes prefixes were found. 
+Consider using parse_taxonomy_default() instead if true for all OTUs. 
+Dummy ranks may be included among taxonomic ranks now.
+6: In parseFunction(i$metadata$taxonomy) :
+  No greengenes prefixes were found. 
+Consider using parse_taxonomy_default() instead if true for all OTUs. 
+Dummy ranks may be included among taxonomic ranks now.
+7: In parseFunction(i$metadata$taxonomy) :
+  No greengenes prefixes were found. 
+Consider using parse_taxonomy_default() instead if true for all OTUs. 
+Dummy ranks may be included among taxonomic ranks now.
+8: In parseFunction(i$metadata$taxonomy) :
+  No greengenes prefixes were found. 
+Consider using parse_taxonomy_default() instead if true for all OTUs. 
+Dummy ranks may be included among taxonomic ranks now.
+
+FALSE 
+ 1162 
+
+FALSE 
+ 1162 
+Error in prune_taxa(!mito.flag, phylo) : 
+  logical argument to taxa is wrong length. Should equal ntaxa(x)
+[1] 1162   38
+Warning message:
+In class(X) <- NULL :
+  Setting class(x) to NULL;   result will no longer be an S4 object
+
+----- ----------- ----------- ----- ------ ------ ------ ------- ------- -------
+                   Treatment   C/0   C/10   C/30   C/92   LB/10   LB/30   LB/92 
+
+ day   treatment                                                                
+
+  0        C                    3     0      0      0       0       0       0   
+
+          LB                    0     0      0      0       0       0       0   
+
+          LH                    0     0      0      0       0       0       0   
+
+        LH + LB                 0     0      0      0       0       0       0   
+
+ 10        C                    0     2      0      0       0       0       0   
+
+          LB                    0     0      0      0       3       0       0   
+
+          LH                    0     0      0      0       0       0       0   
+
+        LH + LB                 0     0      0      0       0       0       0   
+
+ 30        C                    0     0      3      0       0       0       0   
+
+          LB                    0     0      0      0       0       3       0   
+
+          LH                    0     0      0      0       0       0       0   
+
+        LH + LB                 0     0      0      0       0       0       0   
+
+ 92        C                    0     0      0      3       0       0       0   
+
+          LB                    0     0      0      0       0       0       3   
+
+          LH                    0     0      0      0       0       0       0   
+
+        LH + LB                 0     0      0      0       0       0       0   
+----- ----------- ----------- ----- ------ ------ ------ ------- ------- -------
+
+Table: Table continues below
+
+ 
+------- ------- ------- ------------ ------------ ------------
+ LH/10   LH/30   LH/92   LH + LB/10   LH + LB/30   LH + LB/92 
+
+                                                              
+
+   0       0       0         0            0            0      
+
+   0       0       0         0            0            0      
+
+   0       0       0         0            0            0      
+
+   0       0       0         0            0            0      
+
+   0       0       0         0            0            0      
+
+   0       0       0         0            0            0      
+
+   3       0       0         0            0            0      
+
+   0       0       0         3            0            0      
+
+   0       0       0         0            0            0      
+
+   0       0       0         0            0            0      
+
+   0       3       0         0            0            0      
+
+   0       0       0         0            3            0      
+
+   0       0       0         0            0            0      
+
+   0       0       0         0            0            0      
+
+   0       0       3         0            0            0      
+
+   0       0       0         0            0            3      
+------- ------- ------- ------------ ------------ ------------
+
+NULL
+NULL
+, , Treatment = C/0
+
+    treatment
+day  C LB LH LH + LB
+  0  3  0  0       0
+  10 0  0  0       0
+  30 0  0  0       0
+  92 0  0  0       0
+
+, , Treatment = C/10
+
+    treatment
+day  C LB LH LH + LB
+  0  0  0  0       0
+  10 2  0  0       0
+  30 0  0  0       0
+  92 0  0  0       0
+
+, , Treatment = C/30
+
+    treatment
+day  C LB LH LH + LB
+  0  0  0  0       0
+  10 0  0  0       0
+  30 3  0  0       0
+  92 0  0  0       0
+
+, , Treatment = C/92
+
+    treatment
+day  C LB LH LH + LB
+  0  0  0  0       0
+  10 0  0  0       0
+  30 0  0  0       0
+  92 3  0  0       0
+
+, , Treatment = LB/10
+
+    treatment
+day  C LB LH LH + LB
+  0  0  0  0       0
+  10 0  3  0       0
+  30 0  0  0       0
+  92 0  0  0       0
+
+, , Treatment = LB/30
+
+    treatment
+day  C LB LH LH + LB
+  0  0  0  0       0
+  10 0  0  0       0
+  30 0  3  0       0
+  92 0  0  0       0
+
+, , Treatment = LB/92
+
+    treatment
+day  C LB LH LH + LB
+  0  0  0  0       0
+  10 0  0  0       0
+  30 0  0  0       0
+  92 0  3  0       0
+
+, , Treatment = LH/10
+
+    treatment
+day  C LB LH LH + LB
+  0  0  0  0       0
+  10 0  0  3       0
+  30 0  0  0       0
+  92 0  0  0       0
+
+, , Treatment = LH/30
+
+    treatment
+day  C LB LH LH + LB
+  0  0  0  0       0
+  10 0  0  0       0
+  30 0  0  3       0
+  92 0  0  0       0
+
+, , Treatment = LH/92
+
+    treatment
+day  C LB LH LH + LB
+  0  0  0  0       0
+  10 0  0  0       0
+  30 0  0  0       0
+  92 0  0  3       0
+
+, , Treatment = LH + LB/10
+
+    treatment
+day  C LB LH LH + LB
+  0  0  0  0       0
+  10 0  0  0       3
+  30 0  0  0       0
+  92 0  0  0       0
+
+, , Treatment = LH + LB/30
+
+    treatment
+day  C LB LH LH + LB
+  0  0  0  0       0
+  10 0  0  0       0
+  30 0  0  0       3
+  92 0  0  0       0
+
+, , Treatment = LH + LB/92
+
+    treatment
+day  C LB LH LH + LB
+  0  0  0  0       0
+  10 0  0  0       0
+  30 0  0  0       0
+  92 0  0  0       3
+
+[1] "15_Hil_HMC"
+[1] "Fungi"
+Warning message:
+Removed 114 rows containing missing values (geom_errorbar). 
+DCA
+CCA
+RDA
+NMDS
+Square root transformation
+Wisconsin double standardization
+Run 0 stress 0.2112238 
+Run 1 stress 0.2118199 
+Run 2 stress 0.2126324 
+Run 3 stress 0.2148862 
+Run 4 stress 0.2151202 
+Run 5 stress 0.2170633 
+Run 6 stress 0.216882 
+Run 7 stress 0.2126332 
+Run 8 stress 0.2110552 
+... New best solution
+... Procrustes: rmse 0.06398604  max resid 0.2594781 
+Run 9 stress 0.2128419 
+Run 10 stress 0.210553 
+... New best solution
+... Procrustes: rmse 0.06863579  max resid 0.2629935 
+Run 11 stress 0.2136141 
+Run 12 stress 0.2101202 
+... New best solution
+... Procrustes: rmse 0.03527422  max resid 0.1955186 
+Run 13 stress 0.2101204 
+... Procrustes: rmse 0.0001720387  max resid 0.0006792361 
+... Similar to previous best
+Run 14 stress 0.2108279 
+Run 15 stress 0.2114914 
+Run 16 stress 0.2319952 
+Run 17 stress 0.211431 
+Run 18 stress 0.2107161 
+Run 19 stress 0.2106641 
+Run 20 stress 0.2101824 
+... Procrustes: rmse 0.04054912  max resid 0.2148852 
+*** Solution reached
+MDS
+PCoA
+Warning messages:
+1: In RColorBrewer::brewer.pal(n, pal) :
+  n too large, allowed maximum for palette Paired is 12
+Returning the palette you asked for with that many colors
+
+2: In RColorBrewer::brewer.pal(n, pal) :
+  n too large, allowed maximum for palette Paired is 12
+Returning the palette you asked for with that many colors
+
+3: Removed 18 rows containing missing values (geom_point). 
+phyloseq-class experiment-level object
+otu_table()   OTU Table:         [ 1162 taxa and 38 samples ]
+sample_data() Sample Data:       [ 38 samples by 8 sample variables ]
+tax_table()   Taxonomy Table:    [ 1162 taxa by 14 taxonomic ranks ]
+[1] "Treatment"
+[1] "C/0"
+    Group.1    Group.2  distance
+14      C/0       C/10 0.9744451
+27      C/0       C/30 0.9246110
+79      C/0      LB/92 0.9136884
+40      C/0       C/92 0.9109380
+105     C/0      LH/30 0.9101953
+157     C/0 LH + LB/92 0.8955076
+118     C/0      LH/92 0.8947195
+144     C/0 LH + LB/30 0.8887378
+53      C/0      LB/10 0.8176598
+131     C/0 LH + LB/10 0.8057752
+66      C/0      LB/30 0.7638686
+92      C/0      LH/10 0.7164032
+1       C/0        C/0 0.1749393
+Warning message:
+Transformation introduced infinite values in discrete y-axis 
+phyloseq-class experiment-level object
+otu_table()   OTU Table:         [ 1162 taxa and 38 samples ]
+sample_data() Sample Data:       [ 38 samples by 8 sample variables ]
+tax_table()   Taxonomy Table:    [ 1162 taxa by 14 taxonomic ranks ]
+converting counts to integer mode
+using pre-existing size factors
+estimating dispersions
+gene-wise dispersion estimates
+mean-dispersion relationship
+final dispersion estimates
+fitting model and testing
+ [1] "Intercept"  "C.0"        "C.10"       "C.30"       "C.92"       "LB.10"      "LB.30"      "LB.92"     
+ [9] "LH.10"      "LH.30"      "LH.92"      "LH...LB.10" "LH...LB.30" "LH...LB.92"
+                   log2FoldChange       pvalue       padj Kingdom     Phylum           Class             Order
+New.ReferenceOTU18      -6.453072 7.505436e-05 0.04323131   Fungi Ascomycota Saccharomycetes Saccharomycetales
+                               Family        Genus
+New.ReferenceOTU18 Saccharomycetaceae Kazachstania
+pdf 
+  2 

@@ -1,0 +1,17 @@
+Input file paths
+Sequence read filepath: /home/mark/gitstage/uderica/nordqiime/V-HMC/Fungi/fungi_raw_data/extendedFrags/844.extendedFrags.fastq (md5: cb3186dafcb04b2a1fc82c2b4ee2059e)
+Quality filter results
+Total number of input sequences: 36736
+Barcode not in mapping file: 0
+Read too short after quality truncation: 3402
+Count of N characters exceeds limit: 28
+Illumina quality digit = 0: 0
+Barcode errors exceed max: 0
+
+Result summary (after quality filtering)
+Median sequence length: 260.00
+844	33306
+
+Total number seqs written	33306
+---
+

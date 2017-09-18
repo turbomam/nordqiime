@@ -1,0 +1,63 @@
+BlastTaxonAssigner parameters:
+Application:blastn/megablast
+Max E value:0.001
+Min percent identity:90.0
+blast_db:/home/mark/gitstage/uderica/nordqiime/Lal_Stress/Silva_5101Raw05052017/Fungi/raw_data/pick/blast_assigned_taxonomy/BTA_pKgBV_/97_otus.fasta
+id_to_taxonomy_filepath:/home/mark/gitstage/uderica/silage/its_12_11_otus/taxonomy/97_otu_taxonomy.txt
+Number of sequences inspected: 113
+Number with no blast hits: 0
+Result path: /tmp/assign-taxMEEwOG
+BlastTaxonAssigner parameters:
+Application:blastn/megablast
+Max E value:0.001
+Min percent identity:90.0
+blast_db:/home/mark/gitstage/uderica/nordqiime/Lal_Stress/Silva_5101Raw05052017/Fungi/raw_data/pick/blast_assigned_taxonomy/BTA_pKgBV_/97_otus.fasta
+id_to_taxonomy_filepath:/home/mark/gitstage/uderica/silage/its_12_11_otus/taxonomy/97_otu_taxonomy.txt
+Number of sequences inspected: 113
+Number with no blast hits: 0
+Result path: /tmp/assign-taxYTHpdI
+BlastTaxonAssigner parameters:
+Application:blastn/megablast
+Max E value:0.001
+Min percent identity:90.0
+blast_db:/home/mark/gitstage/uderica/nordqiime/Lal_Stress/Silva_5101Raw05052017/Fungi/raw_data/pick/blast_assigned_taxonomy/BTA_pKgBV_/97_otus.fasta
+id_to_taxonomy_filepath:/home/mark/gitstage/uderica/silage/its_12_11_otus/taxonomy/97_otu_taxonomy.txt
+Number of sequences inspected: 113
+Number with no blast hits: 0
+Result path: /tmp/assign-taxto2PUh
+BlastTaxonAssigner parameters:
+Application:blastn/megablast
+Max E value:0.001
+Min percent identity:90.0
+blast_db:/home/mark/gitstage/uderica/nordqiime/Lal_Stress/Silva_5101Raw05052017/Fungi/raw_data/pick/blast_assigned_taxonomy/BTA_pKgBV_/97_otus.fasta
+id_to_taxonomy_filepath:/home/mark/gitstage/uderica/silage/its_12_11_otus/taxonomy/97_otu_taxonomy.txt
+Number of sequences inspected: 113
+Number with no blast hits: 0
+Result path: /tmp/assign-taxxQpNe4
+BlastTaxonAssigner parameters:
+Application:blastn/megablast
+Max E value:0.001
+Min percent identity:90.0
+blast_db:/home/mark/gitstage/uderica/nordqiime/Lal_Stress/Silva_5101Raw05052017/Fungi/raw_data/pick/blast_assigned_taxonomy/BTA_pKgBV_/97_otus.fasta
+id_to_taxonomy_filepath:/home/mark/gitstage/uderica/silage/its_12_11_otus/taxonomy/97_otu_taxonomy.txt
+Number of sequences inspected: 113
+Number with no blast hits: 0
+Result path: /tmp/assign-taxMPIUdw
+BlastTaxonAssigner parameters:
+Application:blastn/megablast
+Max E value:0.001
+Min percent identity:90.0
+blast_db:/home/mark/gitstage/uderica/nordqiime/Lal_Stress/Silva_5101Raw05052017/Fungi/raw_data/pick/blast_assigned_taxonomy/BTA_pKgBV_/97_otus.fasta
+id_to_taxonomy_filepath:/home/mark/gitstage/uderica/silage/its_12_11_otus/taxonomy/97_otu_taxonomy.txt
+Number of sequences inspected: 113
+Number with no blast hits: 0
+Result path: /tmp/assign-taxIpkuUU
+BlastTaxonAssigner parameters:
+Application:blastn/megablast
+Max E value:0.001
+Min percent identity:90.0
+blast_db:/home/mark/gitstage/uderica/nordqiime/Lal_Stress/Silva_5101Raw05052017/Fungi/raw_data/pick/blast_assigned_taxonomy/BTA_pKgBV_/97_otus.fasta
+id_to_taxonomy_filepath:/home/mark/gitstage/uderica/silage/its_12_11_otus/taxonomy/97_otu_taxonomy.txt
+Number of sequences inspected: 107
+Number with no blast hits: 0
+Result path: /tmp/assign-taxdNkCCa

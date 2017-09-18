@@ -1,0 +1,181 @@
+     treatment
+day   C C-EARLY C-LATE C-NO LB500-EARLY LB500-LATE LB500-NO
+  0   4       0      0    0           0          0        0
+  126 0       4      4    4           4          4        4
+phyloseq-class experiment-level object
+otu_table()   OTU Table:         [ 5745 taxa and 28 samples ]
+sample_data() Sample Data:       [ 28 samples by 7 sample variables ]
+tax_table()   Taxonomy Table:    [ 5745 taxa by 14 taxonomic ranks ]
+phy_tree()    Phylogenetic Tree: [ 5745 tips and 5743 internal nodes ]
+There were 50 or more warnings (use warnings() to see the first 50)
+
+FALSE  TRUE 
+ 5250   110 
+
+FALSE  TRUE 
+ 5066    29 
+Error in prune_taxa(!mito.flag, phylo) : 
+  logical argument to taxa is wrong length. Should equal ntaxa(x)
+[1] 5250   28
+Warning message:
+In class(X) <- NULL :
+  Setting class(x) to NULL;   result will no longer be an S4 object
+
+-----------------------------------------------------------------------------
+ &nbsp;    C   C-EARLY   C-LATE   C-NO   LB500-EARLY   LB500-LATE   LB500-NO 
+--------- --- --------- -------- ------ ------------- ------------ ----------
+  **0**    4      0        0       0          0            0           0     
+
+ **126**   0      4        4       4          4            4           4     
+-----------------------------------------------------------------------------
+
+NULL
+NULL
+     treatment
+day   C C-EARLY C-LATE C-NO LB500-EARLY LB500-LATE LB500-NO
+  0   4       0      0    0           0          0        0
+  126 0       4      4    4           4          4        4
+[1] "all levels have 4 repeats"
+[1] "LalStress"
+[1] "Bacteria"
+Warning message:
+Removed 84 rows containing missing values (geom_errorbar). 
+DCA
+CCA
+RDA
+NMDS
+Square root transformation
+Wisconsin double standardization
+Run 0 stress 0.0673367 
+Run 1 stress 0.0878856 
+Run 2 stress 0.06761933 
+... Procrustes: rmse 0.006945584  max resid 0.02579041 
+Run 3 stress 0.08788571 
+Run 4 stress 0.08779375 
+Run 5 stress 0.06733675 
+... Procrustes: rmse 0.0001176885  max resid 0.000342301 
+... Similar to previous best
+Run 6 stress 0.06733685 
+... Procrustes: rmse 7.171147e-05  max resid 0.0001629648 
+... Similar to previous best
+Run 7 stress 0.06733672 
+... Procrustes: rmse 0.0001438899  max resid 0.000409049 
+... Similar to previous best
+Run 8 stress 0.06733674 
+... Procrustes: rmse 4.084496e-05  max resid 0.0001360436 
+... Similar to previous best
+Run 9 stress 0.087728 
+Run 10 stress 0.06761926 
+... Procrustes: rmse 0.006921563  max resid 0.02573905 
+Run 11 stress 0.06761927 
+... Procrustes: rmse 0.00692132  max resid 0.02573685 
+Run 12 stress 0.06733661 
+... New best solution
+... Procrustes: rmse 7.668986e-05  max resid 0.000211718 
+... Similar to previous best
+Run 13 stress 0.06733666 
+... Procrustes: rmse 4.940425e-05  max resid 0.0001410042 
+... Similar to previous best
+Run 14 stress 0.06733673 
+... Procrustes: rmse 9.94849e-05  max resid 0.0002934308 
+... Similar to previous best
+Run 15 stress 0.08779358 
+Run 16 stress 0.06733661 
+... Procrustes: rmse 3.339986e-05  max resid 0.0001187926 
+... Similar to previous best
+Run 17 stress 0.06733664 
+... Procrustes: rmse 5.139179e-05  max resid 0.0001680601 
+... Similar to previous best
+Run 18 stress 0.06733662 
+... Procrustes: rmse 4.718251e-05  max resid 0.000157981 
+... Similar to previous best
+Run 19 stress 0.06733662 
+... Procrustes: rmse 3.105346e-05  max resid 9.387215e-05 
+... Similar to previous best
+Run 20 stress 0.0673366 
+... New best solution
+... Procrustes: rmse 2.28402e-05  max resid 6.651584e-05 
+... Similar to previous best
+*** Solution reached
+MDS
+PCoA
+phyloseq-class experiment-level object
+otu_table()   OTU Table:         [ 5250 taxa and 28 samples ]
+sample_data() Sample Data:       [ 28 samples by 7 sample variables ]
+tax_table()   Taxonomy Table:    [ 5250 taxa by 14 taxonomic ranks ]
+phy_tree()    Phylogenetic Tree: [ 5250 tips and 5248 internal nodes ]
+[1] "treatment"
+[1] "C"
+   Group.1     Group.2  distance
+15       C      C-LATE 0.9933669
+36       C  LB500-LATE 0.9902355
+29       C LB500-EARLY 0.9876753
+8        C     C-EARLY 0.9864525
+22       C        C-NO 0.9854532
+43       C    LB500-NO 0.9548973
+1        C           C 0.3498005
+Warning message:
+Transformation introduced infinite values in discrete y-axis 
+phyloseq-class experiment-level object
+otu_table()   OTU Table:         [ 5250 taxa and 28 samples ]
+sample_data() Sample Data:       [ 28 samples by 7 sample variables ]
+tax_table()   Taxonomy Table:    [ 5250 taxa by 14 taxonomic ranks ]
+phy_tree()    Phylogenetic Tree: [ 5250 tips and 5248 internal nodes ]
+converting counts to integer mode
+using pre-existing size factors
+estimating dispersions
+gene-wise dispersion estimates
+mean-dispersion relationship
+final dispersion estimates
+fitting model and testing
+[1] "Intercept"   "C"           "C.EARLY"     "C.LATE"      "C.NO"        "LB500.EARLY" "LB500.LATE"  "LB500.NO"   
+                             log2FoldChange       pvalue         padj  Kingdom         Phylum               Class
+656774                             5.184013 6.267540e-05 1.338304e-02 Bacteria Proteobacteria  Betaproteobacteria
+1083508                            4.263854 8.773699e-05 1.676238e-02 Bacteria Proteobacteria Gammaproteobacteria
+814176                             5.319575 3.135447e-04 4.948554e-02 Bacteria Proteobacteria  Betaproteobacteria
+821080                             4.870497 1.950346e-04 3.371312e-02 Bacteria Proteobacteria Gammaproteobacteria
+123510                             4.531860 6.002449e-05 1.338304e-02 Bacteria Proteobacteria Gammaproteobacteria
+819999                             4.526673 4.940435e-05 1.195585e-02 Bacteria Proteobacteria Gammaproteobacteria
+New.CleanUp.ReferenceOTU1620      -6.000929 1.447064e-06 6.566052e-04 Bacteria     Firmicutes             Bacilli
+New.CleanUp.ReferenceOTU5735      -6.717833 7.366973e-09 4.457018e-06 Bacteria     Firmicutes             Bacilli
+975918                            -5.194802 8.971284e-06 2.960524e-03 Bacteria     Firmicutes             Bacilli
+716286                            -9.166244 6.010627e-21 1.090929e-17 Bacteria     Firmicutes             Bacilli
+1134031                           -7.919449 5.838875e-14 7.065038e-11 Bacteria     Firmicutes             Bacilli
+New.CleanUp.ReferenceOTU5790      -4.439139 3.119093e-04 4.948554e-02 Bacteria     Firmicutes             Bacilli
+1108350                            5.502960 9.691793e-05 1.759060e-02 Bacteria Actinobacteria      Actinobacteria
+New.CleanUp.ReferenceOTU8609      -5.097883 4.776203e-05 1.195585e-02 Bacteria     Firmicutes             Bacilli
+4358821                           -5.922549 2.433055e-06 9.813322e-04 Bacteria     Firmicutes             Bacilli
+1110317                           -6.252253 2.031193e-09 1.474646e-06 Bacteria     Firmicutes             Bacilli
+1991307                           -6.105031 9.108524e-07 4.723420e-04 Bacteria     Firmicutes             Bacilli
+604966                            -9.287011 1.922005e-22 6.976878e-19 Bacteria     Firmicutes             Bacilli
+3851582                           -5.543398 1.289377e-05 3.900366e-03 Bacteria     Firmicutes             Bacilli
+New.CleanUp.ReferenceOTU8107      -7.205467 3.335602e-10 3.027059e-07 Bacteria     Firmicutes             Bacilli
+24271                             -5.624166 5.133334e-06 1.863400e-03 Bacteria     Firmicutes             Bacilli
+891031                             5.276259 3.608201e-05 1.007521e-02 Bacteria  Bacteroidetes    Sphingobacteriia
+992510                             4.618850 7.359843e-05 1.484235e-02 Bacteria Proteobacteria Alphaproteobacteria
+                                          Order              Family            Genus
+656774                          Burkholderiales      Comamonadaceae             <NA>
+1083508                         Xanthomonadales    Xanthomonadaceae Stenotrophomonas
+814176                          Burkholderiales    Burkholderiaceae     Burkholderia
+821080                        Enterobacteriales  Enterobacteriaceae             <NA>
+123510                        Enterobacteriales  Enterobacteriaceae       Klebsiella
+819999                        Enterobacteriales  Enterobacteriaceae       Klebsiella
+New.CleanUp.ReferenceOTU1620    Lactobacillales    Lactobacillaceae    Lactobacillus
+New.CleanUp.ReferenceOTU5735    Lactobacillales    Lactobacillaceae    Lactobacillus
+975918                          Lactobacillales    Lactobacillaceae    Lactobacillus
+716286                          Lactobacillales    Lactobacillaceae    Lactobacillus
+1134031                         Lactobacillales    Lactobacillaceae    Lactobacillus
+New.CleanUp.ReferenceOTU5790    Lactobacillales    Lactobacillaceae    Lactobacillus
+1108350                         Actinomycetales   Microbacteriaceae   Microbacterium
+New.CleanUp.ReferenceOTU8609    Lactobacillales    Lactobacillaceae    Lactobacillus
+4358821                         Lactobacillales    Lactobacillaceae    Lactobacillus
+1110317                         Lactobacillales    Lactobacillaceae    Lactobacillus
+1991307                         Lactobacillales    Lactobacillaceae    Lactobacillus
+604966                          Lactobacillales    Lactobacillaceae    Lactobacillus
+3851582                         Lactobacillales    Lactobacillaceae    Lactobacillus
+New.CleanUp.ReferenceOTU8107    Lactobacillales    Lactobacillaceae    Lactobacillus
+24271                           Lactobacillales    Lactobacillaceae    Lactobacillus
+891031                       Sphingobacteriales Sphingobacteriaceae Sphingobacterium
+992510                         Sphingomonadales   Sphingomonadaceae     Sphingomonas
+pdf 
+  2 

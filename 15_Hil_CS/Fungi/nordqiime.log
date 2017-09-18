@@ -1,0 +1,2963 @@
+/home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/15_Hil_CS_Fungi_nordqiime_envvars.sh: line 21: /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS: Is a directory
+-rw-rw-r-- 1 mark mark 10891405 Sep  6 12:54 /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-146-Control-0d-CS-ITS_S96_L001_R1_001.fastq.gz
+-rw-rw-r-- 1 mark mark 11086678 Sep  6 12:54 /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-146-Control-0d-CS-ITS_S96_L001_R2_001.fastq.gz
+Started analysis of LALL-PD-KC2015-146-Control-0d-CS-ITS_S96_L001_R1_001.fastq.gz
+Approx 5% complete for LALL-PD-KC2015-146-Control-0d-CS-ITS_S96_L001_R1_001.fastq.gz
+Approx 10% complete for LALL-PD-KC2015-146-Control-0d-CS-ITS_S96_L001_R1_001.fastq.gz
+Approx 15% complete for LALL-PD-KC2015-146-Control-0d-CS-ITS_S96_L001_R1_001.fastq.gz
+Approx 20% complete for LALL-PD-KC2015-146-Control-0d-CS-ITS_S96_L001_R1_001.fastq.gz
+Approx 25% complete for LALL-PD-KC2015-146-Control-0d-CS-ITS_S96_L001_R1_001.fastq.gz
+Approx 30% complete for LALL-PD-KC2015-146-Control-0d-CS-ITS_S96_L001_R1_001.fastq.gz
+Started analysis of LALL-PD-KC2015-146-Control-0d-CS-ITS_S96_L001_R2_001.fastq.gz
+Approx 35% complete for LALL-PD-KC2015-146-Control-0d-CS-ITS_S96_L001_R1_001.fastq.gz
+Approx 5% complete for LALL-PD-KC2015-146-Control-0d-CS-ITS_S96_L001_R2_001.fastq.gz
+Approx 40% complete for LALL-PD-KC2015-146-Control-0d-CS-ITS_S96_L001_R1_001.fastq.gz
+Approx 10% complete for LALL-PD-KC2015-146-Control-0d-CS-ITS_S96_L001_R2_001.fastq.gz
+Approx 45% complete for LALL-PD-KC2015-146-Control-0d-CS-ITS_S96_L001_R1_001.fastq.gz
+Approx 15% complete for LALL-PD-KC2015-146-Control-0d-CS-ITS_S96_L001_R2_001.fastq.gz
+Approx 50% complete for LALL-PD-KC2015-146-Control-0d-CS-ITS_S96_L001_R1_001.fastq.gz
+Approx 20% complete for LALL-PD-KC2015-146-Control-0d-CS-ITS_S96_L001_R2_001.fastq.gz
+Approx 55% complete for LALL-PD-KC2015-146-Control-0d-CS-ITS_S96_L001_R1_001.fastq.gz
+Approx 25% complete for LALL-PD-KC2015-146-Control-0d-CS-ITS_S96_L001_R2_001.fastq.gz
+Approx 60% complete for LALL-PD-KC2015-146-Control-0d-CS-ITS_S96_L001_R1_001.fastq.gz
+Approx 65% complete for LALL-PD-KC2015-146-Control-0d-CS-ITS_S96_L001_R1_001.fastq.gz
+Approx 30% complete for LALL-PD-KC2015-146-Control-0d-CS-ITS_S96_L001_R2_001.fastq.gz
+Approx 70% complete for LALL-PD-KC2015-146-Control-0d-CS-ITS_S96_L001_R1_001.fastq.gz
+Approx 35% complete for LALL-PD-KC2015-146-Control-0d-CS-ITS_S96_L001_R2_001.fastq.gz
+Approx 75% complete for LALL-PD-KC2015-146-Control-0d-CS-ITS_S96_L001_R1_001.fastq.gz
+Approx 40% complete for LALL-PD-KC2015-146-Control-0d-CS-ITS_S96_L001_R2_001.fastq.gz
+Approx 80% complete for LALL-PD-KC2015-146-Control-0d-CS-ITS_S96_L001_R1_001.fastq.gz
+Approx 45% complete for LALL-PD-KC2015-146-Control-0d-CS-ITS_S96_L001_R2_001.fastq.gz
+Approx 85% complete for LALL-PD-KC2015-146-Control-0d-CS-ITS_S96_L001_R1_001.fastq.gz
+Approx 50% complete for LALL-PD-KC2015-146-Control-0d-CS-ITS_S96_L001_R2_001.fastq.gz
+Approx 90% complete for LALL-PD-KC2015-146-Control-0d-CS-ITS_S96_L001_R1_001.fastq.gz
+Approx 55% complete for LALL-PD-KC2015-146-Control-0d-CS-ITS_S96_L001_R2_001.fastq.gz
+Approx 95% complete for LALL-PD-KC2015-146-Control-0d-CS-ITS_S96_L001_R1_001.fastq.gz
+Approx 60% complete for LALL-PD-KC2015-146-Control-0d-CS-ITS_S96_L001_R2_001.fastq.gz
+Analysis complete for LALL-PD-KC2015-146-Control-0d-CS-ITS_S96_L001_R1_001.fastq.gz
+Approx 65% complete for LALL-PD-KC2015-146-Control-0d-CS-ITS_S96_L001_R2_001.fastq.gz
+Approx 70% complete for LALL-PD-KC2015-146-Control-0d-CS-ITS_S96_L001_R2_001.fastq.gz
+Approx 75% complete for LALL-PD-KC2015-146-Control-0d-CS-ITS_S96_L001_R2_001.fastq.gz
+Approx 80% complete for LALL-PD-KC2015-146-Control-0d-CS-ITS_S96_L001_R2_001.fastq.gz
+Approx 85% complete for LALL-PD-KC2015-146-Control-0d-CS-ITS_S96_L001_R2_001.fastq.gz
+Approx 90% complete for LALL-PD-KC2015-146-Control-0d-CS-ITS_S96_L001_R2_001.fastq.gz
+Approx 95% complete for LALL-PD-KC2015-146-Control-0d-CS-ITS_S96_L001_R2_001.fastq.gz
+Analysis complete for LALL-PD-KC2015-146-Control-0d-CS-ITS_S96_L001_R2_001.fastq.gz
+-rw-rw-r-- 1 mark mark 7730991 Sep  6 12:54 /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-147-Control-0d-CS-ITS_S97_L001_R1_001.fastq.gz
+-rw-rw-r-- 1 mark mark 7926657 Sep  6 12:54 /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-147-Control-0d-CS-ITS_S97_L001_R2_001.fastq.gz
+Started analysis of LALL-PD-KC2015-147-Control-0d-CS-ITS_S97_L001_R1_001.fastq.gz
+Approx 5% complete for LALL-PD-KC2015-147-Control-0d-CS-ITS_S97_L001_R1_001.fastq.gz
+Approx 10% complete for LALL-PD-KC2015-147-Control-0d-CS-ITS_S97_L001_R1_001.fastq.gz
+Approx 15% complete for LALL-PD-KC2015-147-Control-0d-CS-ITS_S97_L001_R1_001.fastq.gz
+Approx 20% complete for LALL-PD-KC2015-147-Control-0d-CS-ITS_S97_L001_R1_001.fastq.gz
+Approx 25% complete for LALL-PD-KC2015-147-Control-0d-CS-ITS_S97_L001_R1_001.fastq.gz
+Approx 30% complete for LALL-PD-KC2015-147-Control-0d-CS-ITS_S97_L001_R1_001.fastq.gz
+Approx 35% complete for LALL-PD-KC2015-147-Control-0d-CS-ITS_S97_L001_R1_001.fastq.gz
+Started analysis of LALL-PD-KC2015-147-Control-0d-CS-ITS_S97_L001_R2_001.fastq.gz
+Approx 40% complete for LALL-PD-KC2015-147-Control-0d-CS-ITS_S97_L001_R1_001.fastq.gz
+Approx 5% complete for LALL-PD-KC2015-147-Control-0d-CS-ITS_S97_L001_R2_001.fastq.gz
+Approx 45% complete for LALL-PD-KC2015-147-Control-0d-CS-ITS_S97_L001_R1_001.fastq.gz
+Approx 10% complete for LALL-PD-KC2015-147-Control-0d-CS-ITS_S97_L001_R2_001.fastq.gz
+Approx 50% complete for LALL-PD-KC2015-147-Control-0d-CS-ITS_S97_L001_R1_001.fastq.gz
+Approx 15% complete for LALL-PD-KC2015-147-Control-0d-CS-ITS_S97_L001_R2_001.fastq.gz
+Approx 55% complete for LALL-PD-KC2015-147-Control-0d-CS-ITS_S97_L001_R1_001.fastq.gz
+Approx 20% complete for LALL-PD-KC2015-147-Control-0d-CS-ITS_S97_L001_R2_001.fastq.gz
+Approx 60% complete for LALL-PD-KC2015-147-Control-0d-CS-ITS_S97_L001_R1_001.fastq.gz
+Approx 25% complete for LALL-PD-KC2015-147-Control-0d-CS-ITS_S97_L001_R2_001.fastq.gz
+Approx 65% complete for LALL-PD-KC2015-147-Control-0d-CS-ITS_S97_L001_R1_001.fastq.gz
+Approx 30% complete for LALL-PD-KC2015-147-Control-0d-CS-ITS_S97_L001_R2_001.fastq.gz
+Approx 70% complete for LALL-PD-KC2015-147-Control-0d-CS-ITS_S97_L001_R1_001.fastq.gz
+Approx 35% complete for LALL-PD-KC2015-147-Control-0d-CS-ITS_S97_L001_R2_001.fastq.gz
+Approx 75% complete for LALL-PD-KC2015-147-Control-0d-CS-ITS_S97_L001_R1_001.fastq.gz
+Approx 40% complete for LALL-PD-KC2015-147-Control-0d-CS-ITS_S97_L001_R2_001.fastq.gz
+Approx 80% complete for LALL-PD-KC2015-147-Control-0d-CS-ITS_S97_L001_R1_001.fastq.gz
+Approx 45% complete for LALL-PD-KC2015-147-Control-0d-CS-ITS_S97_L001_R2_001.fastq.gz
+Approx 85% complete for LALL-PD-KC2015-147-Control-0d-CS-ITS_S97_L001_R1_001.fastq.gz
+Approx 50% complete for LALL-PD-KC2015-147-Control-0d-CS-ITS_S97_L001_R2_001.fastq.gz
+Approx 90% complete for LALL-PD-KC2015-147-Control-0d-CS-ITS_S97_L001_R1_001.fastq.gz
+Approx 55% complete for LALL-PD-KC2015-147-Control-0d-CS-ITS_S97_L001_R2_001.fastq.gz
+Approx 95% complete for LALL-PD-KC2015-147-Control-0d-CS-ITS_S97_L001_R1_001.fastq.gz
+Approx 60% complete for LALL-PD-KC2015-147-Control-0d-CS-ITS_S97_L001_R2_001.fastq.gz
+Analysis complete for LALL-PD-KC2015-147-Control-0d-CS-ITS_S97_L001_R1_001.fastq.gz
+Approx 65% complete for LALL-PD-KC2015-147-Control-0d-CS-ITS_S97_L001_R2_001.fastq.gz
+Approx 70% complete for LALL-PD-KC2015-147-Control-0d-CS-ITS_S97_L001_R2_001.fastq.gz
+Approx 75% complete for LALL-PD-KC2015-147-Control-0d-CS-ITS_S97_L001_R2_001.fastq.gz
+Approx 80% complete for LALL-PD-KC2015-147-Control-0d-CS-ITS_S97_L001_R2_001.fastq.gz
+Approx 85% complete for LALL-PD-KC2015-147-Control-0d-CS-ITS_S97_L001_R2_001.fastq.gz
+Approx 90% complete for LALL-PD-KC2015-147-Control-0d-CS-ITS_S97_L001_R2_001.fastq.gz
+Approx 95% complete for LALL-PD-KC2015-147-Control-0d-CS-ITS_S97_L001_R2_001.fastq.gz
+Analysis complete for LALL-PD-KC2015-147-Control-0d-CS-ITS_S97_L001_R2_001.fastq.gz
+-rw-rw-r-- 1 mark mark 10825938 Sep  6 12:54 /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-148-Control-0d-CS-ITS_S98_L001_R1_001.fastq.gz
+-rw-rw-r-- 1 mark mark 11922453 Sep  6 12:55 /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-148-Control-0d-CS-ITS_S98_L001_R2_001.fastq.gz
+Started analysis of LALL-PD-KC2015-148-Control-0d-CS-ITS_S98_L001_R1_001.fastq.gz
+Approx 5% complete for LALL-PD-KC2015-148-Control-0d-CS-ITS_S98_L001_R1_001.fastq.gz
+Approx 10% complete for LALL-PD-KC2015-148-Control-0d-CS-ITS_S98_L001_R1_001.fastq.gz
+Approx 15% complete for LALL-PD-KC2015-148-Control-0d-CS-ITS_S98_L001_R1_001.fastq.gz
+Approx 20% complete for LALL-PD-KC2015-148-Control-0d-CS-ITS_S98_L001_R1_001.fastq.gz
+Approx 25% complete for LALL-PD-KC2015-148-Control-0d-CS-ITS_S98_L001_R1_001.fastq.gz
+Started analysis of LALL-PD-KC2015-148-Control-0d-CS-ITS_S98_L001_R2_001.fastq.gz
+Approx 30% complete for LALL-PD-KC2015-148-Control-0d-CS-ITS_S98_L001_R1_001.fastq.gz
+Approx 5% complete for LALL-PD-KC2015-148-Control-0d-CS-ITS_S98_L001_R2_001.fastq.gz
+Approx 35% complete for LALL-PD-KC2015-148-Control-0d-CS-ITS_S98_L001_R1_001.fastq.gz
+Approx 10% complete for LALL-PD-KC2015-148-Control-0d-CS-ITS_S98_L001_R2_001.fastq.gz
+Approx 40% complete for LALL-PD-KC2015-148-Control-0d-CS-ITS_S98_L001_R1_001.fastq.gz
+Approx 15% complete for LALL-PD-KC2015-148-Control-0d-CS-ITS_S98_L001_R2_001.fastq.gz
+Approx 45% complete for LALL-PD-KC2015-148-Control-0d-CS-ITS_S98_L001_R1_001.fastq.gz
+Approx 20% complete for LALL-PD-KC2015-148-Control-0d-CS-ITS_S98_L001_R2_001.fastq.gz
+Approx 50% complete for LALL-PD-KC2015-148-Control-0d-CS-ITS_S98_L001_R1_001.fastq.gz
+Approx 25% complete for LALL-PD-KC2015-148-Control-0d-CS-ITS_S98_L001_R2_001.fastq.gz
+Approx 55% complete for LALL-PD-KC2015-148-Control-0d-CS-ITS_S98_L001_R1_001.fastq.gz
+Approx 30% complete for LALL-PD-KC2015-148-Control-0d-CS-ITS_S98_L001_R2_001.fastq.gz
+Approx 60% complete for LALL-PD-KC2015-148-Control-0d-CS-ITS_S98_L001_R1_001.fastq.gz
+Approx 35% complete for LALL-PD-KC2015-148-Control-0d-CS-ITS_S98_L001_R2_001.fastq.gz
+Approx 65% complete for LALL-PD-KC2015-148-Control-0d-CS-ITS_S98_L001_R1_001.fastq.gz
+Approx 70% complete for LALL-PD-KC2015-148-Control-0d-CS-ITS_S98_L001_R1_001.fastq.gz
+Approx 40% complete for LALL-PD-KC2015-148-Control-0d-CS-ITS_S98_L001_R2_001.fastq.gz
+Approx 75% complete for LALL-PD-KC2015-148-Control-0d-CS-ITS_S98_L001_R1_001.fastq.gz
+Approx 45% complete for LALL-PD-KC2015-148-Control-0d-CS-ITS_S98_L001_R2_001.fastq.gz
+Approx 80% complete for LALL-PD-KC2015-148-Control-0d-CS-ITS_S98_L001_R1_001.fastq.gz
+Approx 50% complete for LALL-PD-KC2015-148-Control-0d-CS-ITS_S98_L001_R2_001.fastq.gz
+Approx 85% complete for LALL-PD-KC2015-148-Control-0d-CS-ITS_S98_L001_R1_001.fastq.gz
+Approx 55% complete for LALL-PD-KC2015-148-Control-0d-CS-ITS_S98_L001_R2_001.fastq.gz
+Approx 90% complete for LALL-PD-KC2015-148-Control-0d-CS-ITS_S98_L001_R1_001.fastq.gz
+Approx 60% complete for LALL-PD-KC2015-148-Control-0d-CS-ITS_S98_L001_R2_001.fastq.gz
+Approx 95% complete for LALL-PD-KC2015-148-Control-0d-CS-ITS_S98_L001_R1_001.fastq.gz
+Approx 65% complete for LALL-PD-KC2015-148-Control-0d-CS-ITS_S98_L001_R2_001.fastq.gz
+Analysis complete for LALL-PD-KC2015-148-Control-0d-CS-ITS_S98_L001_R1_001.fastq.gz
+Approx 70% complete for LALL-PD-KC2015-148-Control-0d-CS-ITS_S98_L001_R2_001.fastq.gz
+Approx 75% complete for LALL-PD-KC2015-148-Control-0d-CS-ITS_S98_L001_R2_001.fastq.gz
+Approx 80% complete for LALL-PD-KC2015-148-Control-0d-CS-ITS_S98_L001_R2_001.fastq.gz
+Approx 85% complete for LALL-PD-KC2015-148-Control-0d-CS-ITS_S98_L001_R2_001.fastq.gz
+Approx 90% complete for LALL-PD-KC2015-148-Control-0d-CS-ITS_S98_L001_R2_001.fastq.gz
+Approx 95% complete for LALL-PD-KC2015-148-Control-0d-CS-ITS_S98_L001_R2_001.fastq.gz
+Analysis complete for LALL-PD-KC2015-148-Control-0d-CS-ITS_S98_L001_R2_001.fastq.gz
+-rw-rw-r-- 1 mark mark 3600554 Sep  6 12:55 /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-171-Control-30d-CS-ITS_S99_L001_R1_001.fastq.gz
+-rw-rw-r-- 1 mark mark 4118036 Sep  6 12:55 /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-171-Control-30d-CS-ITS_S99_L001_R2_001.fastq.gz
+Started analysis of LALL-PD-KC2015-171-Control-30d-CS-ITS_S99_L001_R1_001.fastq.gz
+Approx 5% complete for LALL-PD-KC2015-171-Control-30d-CS-ITS_S99_L001_R1_001.fastq.gz
+Approx 10% complete for LALL-PD-KC2015-171-Control-30d-CS-ITS_S99_L001_R1_001.fastq.gz
+Approx 15% complete for LALL-PD-KC2015-171-Control-30d-CS-ITS_S99_L001_R1_001.fastq.gz
+Approx 20% complete for LALL-PD-KC2015-171-Control-30d-CS-ITS_S99_L001_R1_001.fastq.gz
+Approx 25% complete for LALL-PD-KC2015-171-Control-30d-CS-ITS_S99_L001_R1_001.fastq.gz
+Approx 30% complete for LALL-PD-KC2015-171-Control-30d-CS-ITS_S99_L001_R1_001.fastq.gz
+Approx 35% complete for LALL-PD-KC2015-171-Control-30d-CS-ITS_S99_L001_R1_001.fastq.gz
+Approx 40% complete for LALL-PD-KC2015-171-Control-30d-CS-ITS_S99_L001_R1_001.fastq.gz
+Approx 45% complete for LALL-PD-KC2015-171-Control-30d-CS-ITS_S99_L001_R1_001.fastq.gz
+Approx 50% complete for LALL-PD-KC2015-171-Control-30d-CS-ITS_S99_L001_R1_001.fastq.gz
+Approx 55% complete for LALL-PD-KC2015-171-Control-30d-CS-ITS_S99_L001_R1_001.fastq.gz
+Approx 60% complete for LALL-PD-KC2015-171-Control-30d-CS-ITS_S99_L001_R1_001.fastq.gz
+Started analysis of LALL-PD-KC2015-171-Control-30d-CS-ITS_S99_L001_R2_001.fastq.gz
+Approx 65% complete for LALL-PD-KC2015-171-Control-30d-CS-ITS_S99_L001_R1_001.fastq.gz
+Approx 5% complete for LALL-PD-KC2015-171-Control-30d-CS-ITS_S99_L001_R2_001.fastq.gz
+Approx 70% complete for LALL-PD-KC2015-171-Control-30d-CS-ITS_S99_L001_R1_001.fastq.gz
+Approx 10% complete for LALL-PD-KC2015-171-Control-30d-CS-ITS_S99_L001_R2_001.fastq.gz
+Approx 75% complete for LALL-PD-KC2015-171-Control-30d-CS-ITS_S99_L001_R1_001.fastq.gz
+Approx 15% complete for LALL-PD-KC2015-171-Control-30d-CS-ITS_S99_L001_R2_001.fastq.gz
+Approx 80% complete for LALL-PD-KC2015-171-Control-30d-CS-ITS_S99_L001_R1_001.fastq.gz
+Approx 20% complete for LALL-PD-KC2015-171-Control-30d-CS-ITS_S99_L001_R2_001.fastq.gz
+Approx 85% complete for LALL-PD-KC2015-171-Control-30d-CS-ITS_S99_L001_R1_001.fastq.gz
+Approx 25% complete for LALL-PD-KC2015-171-Control-30d-CS-ITS_S99_L001_R2_001.fastq.gz
+Approx 90% complete for LALL-PD-KC2015-171-Control-30d-CS-ITS_S99_L001_R1_001.fastq.gz
+Approx 95% complete for LALL-PD-KC2015-171-Control-30d-CS-ITS_S99_L001_R1_001.fastq.gz
+Approx 30% complete for LALL-PD-KC2015-171-Control-30d-CS-ITS_S99_L001_R2_001.fastq.gz
+Analysis complete for LALL-PD-KC2015-171-Control-30d-CS-ITS_S99_L001_R1_001.fastq.gz
+Approx 35% complete for LALL-PD-KC2015-171-Control-30d-CS-ITS_S99_L001_R2_001.fastq.gz
+Approx 40% complete for LALL-PD-KC2015-171-Control-30d-CS-ITS_S99_L001_R2_001.fastq.gz
+Approx 45% complete for LALL-PD-KC2015-171-Control-30d-CS-ITS_S99_L001_R2_001.fastq.gz
+Approx 50% complete for LALL-PD-KC2015-171-Control-30d-CS-ITS_S99_L001_R2_001.fastq.gz
+Approx 55% complete for LALL-PD-KC2015-171-Control-30d-CS-ITS_S99_L001_R2_001.fastq.gz
+Approx 60% complete for LALL-PD-KC2015-171-Control-30d-CS-ITS_S99_L001_R2_001.fastq.gz
+Approx 65% complete for LALL-PD-KC2015-171-Control-30d-CS-ITS_S99_L001_R2_001.fastq.gz
+Approx 70% complete for LALL-PD-KC2015-171-Control-30d-CS-ITS_S99_L001_R2_001.fastq.gz
+Approx 75% complete for LALL-PD-KC2015-171-Control-30d-CS-ITS_S99_L001_R2_001.fastq.gz
+Approx 80% complete for LALL-PD-KC2015-171-Control-30d-CS-ITS_S99_L001_R2_001.fastq.gz
+Approx 85% complete for LALL-PD-KC2015-171-Control-30d-CS-ITS_S99_L001_R2_001.fastq.gz
+Approx 90% complete for LALL-PD-KC2015-171-Control-30d-CS-ITS_S99_L001_R2_001.fastq.gz
+Approx 95% complete for LALL-PD-KC2015-171-Control-30d-CS-ITS_S99_L001_R2_001.fastq.gz
+Analysis complete for LALL-PD-KC2015-171-Control-30d-CS-ITS_S99_L001_R2_001.fastq.gz
+-rw-rw-r-- 1 mark mark 8960403 Sep  6 12:56 /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-172-Control-30d-CS-ITS_S100_L001_R1_001.fastq.gz
+-rw-rw-r-- 1 mark mark 10234584 Sep  6 12:56 /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-172-Control-30d-CS-ITS_S100_L001_R2_001.fastq.gz
+Started analysis of LALL-PD-KC2015-172-Control-30d-CS-ITS_S100_L001_R1_001.fastq.gz
+Approx 5% complete for LALL-PD-KC2015-172-Control-30d-CS-ITS_S100_L001_R1_001.fastq.gz
+Approx 10% complete for LALL-PD-KC2015-172-Control-30d-CS-ITS_S100_L001_R1_001.fastq.gz
+Approx 15% complete for LALL-PD-KC2015-172-Control-30d-CS-ITS_S100_L001_R1_001.fastq.gz
+Approx 20% complete for LALL-PD-KC2015-172-Control-30d-CS-ITS_S100_L001_R1_001.fastq.gz
+Approx 25% complete for LALL-PD-KC2015-172-Control-30d-CS-ITS_S100_L001_R1_001.fastq.gz
+Approx 30% complete for LALL-PD-KC2015-172-Control-30d-CS-ITS_S100_L001_R1_001.fastq.gz
+Started analysis of LALL-PD-KC2015-172-Control-30d-CS-ITS_S100_L001_R2_001.fastq.gz
+Approx 5% complete for LALL-PD-KC2015-172-Control-30d-CS-ITS_S100_L001_R2_001.fastq.gz
+Approx 35% complete for LALL-PD-KC2015-172-Control-30d-CS-ITS_S100_L001_R1_001.fastq.gz
+Approx 40% complete for LALL-PD-KC2015-172-Control-30d-CS-ITS_S100_L001_R1_001.fastq.gz
+Approx 10% complete for LALL-PD-KC2015-172-Control-30d-CS-ITS_S100_L001_R2_001.fastq.gz
+Approx 45% complete for LALL-PD-KC2015-172-Control-30d-CS-ITS_S100_L001_R1_001.fastq.gz
+Approx 15% complete for LALL-PD-KC2015-172-Control-30d-CS-ITS_S100_L001_R2_001.fastq.gz
+Approx 50% complete for LALL-PD-KC2015-172-Control-30d-CS-ITS_S100_L001_R1_001.fastq.gz
+Approx 20% complete for LALL-PD-KC2015-172-Control-30d-CS-ITS_S100_L001_R2_001.fastq.gz
+Approx 55% complete for LALL-PD-KC2015-172-Control-30d-CS-ITS_S100_L001_R1_001.fastq.gz
+Approx 25% complete for LALL-PD-KC2015-172-Control-30d-CS-ITS_S100_L001_R2_001.fastq.gz
+Approx 60% complete for LALL-PD-KC2015-172-Control-30d-CS-ITS_S100_L001_R1_001.fastq.gz
+Approx 30% complete for LALL-PD-KC2015-172-Control-30d-CS-ITS_S100_L001_R2_001.fastq.gz
+Approx 65% complete for LALL-PD-KC2015-172-Control-30d-CS-ITS_S100_L001_R1_001.fastq.gz
+Approx 35% complete for LALL-PD-KC2015-172-Control-30d-CS-ITS_S100_L001_R2_001.fastq.gz
+Approx 70% complete for LALL-PD-KC2015-172-Control-30d-CS-ITS_S100_L001_R1_001.fastq.gz
+Approx 40% complete for LALL-PD-KC2015-172-Control-30d-CS-ITS_S100_L001_R2_001.fastq.gz
+Approx 75% complete for LALL-PD-KC2015-172-Control-30d-CS-ITS_S100_L001_R1_001.fastq.gz
+Approx 45% complete for LALL-PD-KC2015-172-Control-30d-CS-ITS_S100_L001_R2_001.fastq.gz
+Approx 80% complete for LALL-PD-KC2015-172-Control-30d-CS-ITS_S100_L001_R1_001.fastq.gz
+Approx 50% complete for LALL-PD-KC2015-172-Control-30d-CS-ITS_S100_L001_R2_001.fastq.gz
+Approx 85% complete for LALL-PD-KC2015-172-Control-30d-CS-ITS_S100_L001_R1_001.fastq.gz
+Approx 90% complete for LALL-PD-KC2015-172-Control-30d-CS-ITS_S100_L001_R1_001.fastq.gz
+Approx 55% complete for LALL-PD-KC2015-172-Control-30d-CS-ITS_S100_L001_R2_001.fastq.gz
+Approx 60% complete for LALL-PD-KC2015-172-Control-30d-CS-ITS_S100_L001_R2_001.fastq.gz
+Approx 95% complete for LALL-PD-KC2015-172-Control-30d-CS-ITS_S100_L001_R1_001.fastq.gz
+Analysis complete for LALL-PD-KC2015-172-Control-30d-CS-ITS_S100_L001_R1_001.fastq.gz
+Approx 65% complete for LALL-PD-KC2015-172-Control-30d-CS-ITS_S100_L001_R2_001.fastq.gz
+Approx 70% complete for LALL-PD-KC2015-172-Control-30d-CS-ITS_S100_L001_R2_001.fastq.gz
+Approx 75% complete for LALL-PD-KC2015-172-Control-30d-CS-ITS_S100_L001_R2_001.fastq.gz
+Approx 80% complete for LALL-PD-KC2015-172-Control-30d-CS-ITS_S100_L001_R2_001.fastq.gz
+Approx 85% complete for LALL-PD-KC2015-172-Control-30d-CS-ITS_S100_L001_R2_001.fastq.gz
+Approx 90% complete for LALL-PD-KC2015-172-Control-30d-CS-ITS_S100_L001_R2_001.fastq.gz
+Approx 95% complete for LALL-PD-KC2015-172-Control-30d-CS-ITS_S100_L001_R2_001.fastq.gz
+Analysis complete for LALL-PD-KC2015-172-Control-30d-CS-ITS_S100_L001_R2_001.fastq.gz
+-rw-rw-r-- 1 mark mark 9152452 Sep  6 12:57 /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-173-Control-30d-CS-ITS_S101_L001_R1_001.fastq.gz
+-rw-rw-r-- 1 mark mark 11522753 Sep  6 12:57 /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-173-Control-30d-CS-ITS_S101_L001_R2_001.fastq.gz
+Started analysis of LALL-PD-KC2015-173-Control-30d-CS-ITS_S101_L001_R1_001.fastq.gz
+Approx 5% complete for LALL-PD-KC2015-173-Control-30d-CS-ITS_S101_L001_R1_001.fastq.gz
+Approx 10% complete for LALL-PD-KC2015-173-Control-30d-CS-ITS_S101_L001_R1_001.fastq.gz
+Approx 15% complete for LALL-PD-KC2015-173-Control-30d-CS-ITS_S101_L001_R1_001.fastq.gz
+Approx 20% complete for LALL-PD-KC2015-173-Control-30d-CS-ITS_S101_L001_R1_001.fastq.gz
+Approx 25% complete for LALL-PD-KC2015-173-Control-30d-CS-ITS_S101_L001_R1_001.fastq.gz
+Approx 30% complete for LALL-PD-KC2015-173-Control-30d-CS-ITS_S101_L001_R1_001.fastq.gz
+Started analysis of LALL-PD-KC2015-173-Control-30d-CS-ITS_S101_L001_R2_001.fastq.gz
+Approx 35% complete for LALL-PD-KC2015-173-Control-30d-CS-ITS_S101_L001_R1_001.fastq.gz
+Approx 5% complete for LALL-PD-KC2015-173-Control-30d-CS-ITS_S101_L001_R2_001.fastq.gz
+Approx 40% complete for LALL-PD-KC2015-173-Control-30d-CS-ITS_S101_L001_R1_001.fastq.gz
+Approx 10% complete for LALL-PD-KC2015-173-Control-30d-CS-ITS_S101_L001_R2_001.fastq.gz
+Approx 45% complete for LALL-PD-KC2015-173-Control-30d-CS-ITS_S101_L001_R1_001.fastq.gz
+Approx 15% complete for LALL-PD-KC2015-173-Control-30d-CS-ITS_S101_L001_R2_001.fastq.gz
+Approx 50% complete for LALL-PD-KC2015-173-Control-30d-CS-ITS_S101_L001_R1_001.fastq.gz
+Approx 20% complete for LALL-PD-KC2015-173-Control-30d-CS-ITS_S101_L001_R2_001.fastq.gz
+Approx 55% complete for LALL-PD-KC2015-173-Control-30d-CS-ITS_S101_L001_R1_001.fastq.gz
+Approx 25% complete for LALL-PD-KC2015-173-Control-30d-CS-ITS_S101_L001_R2_001.fastq.gz
+Approx 60% complete for LALL-PD-KC2015-173-Control-30d-CS-ITS_S101_L001_R1_001.fastq.gz
+Approx 30% complete for LALL-PD-KC2015-173-Control-30d-CS-ITS_S101_L001_R2_001.fastq.gz
+Approx 65% complete for LALL-PD-KC2015-173-Control-30d-CS-ITS_S101_L001_R1_001.fastq.gz
+Approx 35% complete for LALL-PD-KC2015-173-Control-30d-CS-ITS_S101_L001_R2_001.fastq.gz
+Approx 70% complete for LALL-PD-KC2015-173-Control-30d-CS-ITS_S101_L001_R1_001.fastq.gz
+Approx 40% complete for LALL-PD-KC2015-173-Control-30d-CS-ITS_S101_L001_R2_001.fastq.gz
+Approx 75% complete for LALL-PD-KC2015-173-Control-30d-CS-ITS_S101_L001_R1_001.fastq.gz
+Approx 45% complete for LALL-PD-KC2015-173-Control-30d-CS-ITS_S101_L001_R2_001.fastq.gz
+Approx 80% complete for LALL-PD-KC2015-173-Control-30d-CS-ITS_S101_L001_R1_001.fastq.gz
+Approx 50% complete for LALL-PD-KC2015-173-Control-30d-CS-ITS_S101_L001_R2_001.fastq.gz
+Approx 85% complete for LALL-PD-KC2015-173-Control-30d-CS-ITS_S101_L001_R1_001.fastq.gz
+Approx 90% complete for LALL-PD-KC2015-173-Control-30d-CS-ITS_S101_L001_R1_001.fastq.gz
+Approx 55% complete for LALL-PD-KC2015-173-Control-30d-CS-ITS_S101_L001_R2_001.fastq.gz
+Approx 60% complete for LALL-PD-KC2015-173-Control-30d-CS-ITS_S101_L001_R2_001.fastq.gz
+Approx 95% complete for LALL-PD-KC2015-173-Control-30d-CS-ITS_S101_L001_R1_001.fastq.gz
+Analysis complete for LALL-PD-KC2015-173-Control-30d-CS-ITS_S101_L001_R1_001.fastq.gz
+Approx 65% complete for LALL-PD-KC2015-173-Control-30d-CS-ITS_S101_L001_R2_001.fastq.gz
+Approx 70% complete for LALL-PD-KC2015-173-Control-30d-CS-ITS_S101_L001_R2_001.fastq.gz
+Approx 75% complete for LALL-PD-KC2015-173-Control-30d-CS-ITS_S101_L001_R2_001.fastq.gz
+Approx 80% complete for LALL-PD-KC2015-173-Control-30d-CS-ITS_S101_L001_R2_001.fastq.gz
+Approx 85% complete for LALL-PD-KC2015-173-Control-30d-CS-ITS_S101_L001_R2_001.fastq.gz
+Approx 90% complete for LALL-PD-KC2015-173-Control-30d-CS-ITS_S101_L001_R2_001.fastq.gz
+Approx 95% complete for LALL-PD-KC2015-173-Control-30d-CS-ITS_S101_L001_R2_001.fastq.gz
+Analysis complete for LALL-PD-KC2015-173-Control-30d-CS-ITS_S101_L001_R2_001.fastq.gz
+-rw-rw-r-- 1 mark mark 5669781 Sep  6 12:58 /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-176-LH-30d-CS-ITS_S102_L001_R1_001.fastq.gz
+-rw-rw-r-- 1 mark mark 6500340 Sep  6 12:58 /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-176-LH-30d-CS-ITS_S102_L001_R2_001.fastq.gz
+Started analysis of LALL-PD-KC2015-176-LH-30d-CS-ITS_S102_L001_R1_001.fastq.gz
+Approx 5% complete for LALL-PD-KC2015-176-LH-30d-CS-ITS_S102_L001_R1_001.fastq.gz
+Approx 10% complete for LALL-PD-KC2015-176-LH-30d-CS-ITS_S102_L001_R1_001.fastq.gz
+Approx 15% complete for LALL-PD-KC2015-176-LH-30d-CS-ITS_S102_L001_R1_001.fastq.gz
+Approx 20% complete for LALL-PD-KC2015-176-LH-30d-CS-ITS_S102_L001_R1_001.fastq.gz
+Approx 25% complete for LALL-PD-KC2015-176-LH-30d-CS-ITS_S102_L001_R1_001.fastq.gz
+Approx 30% complete for LALL-PD-KC2015-176-LH-30d-CS-ITS_S102_L001_R1_001.fastq.gz
+Approx 35% complete for LALL-PD-KC2015-176-LH-30d-CS-ITS_S102_L001_R1_001.fastq.gz
+Approx 40% complete for LALL-PD-KC2015-176-LH-30d-CS-ITS_S102_L001_R1_001.fastq.gz
+Approx 45% complete for LALL-PD-KC2015-176-LH-30d-CS-ITS_S102_L001_R1_001.fastq.gz
+Started analysis of LALL-PD-KC2015-176-LH-30d-CS-ITS_S102_L001_R2_001.fastq.gz
+Approx 50% complete for LALL-PD-KC2015-176-LH-30d-CS-ITS_S102_L001_R1_001.fastq.gz
+Approx 5% complete for LALL-PD-KC2015-176-LH-30d-CS-ITS_S102_L001_R2_001.fastq.gz
+Approx 55% complete for LALL-PD-KC2015-176-LH-30d-CS-ITS_S102_L001_R1_001.fastq.gz
+Approx 10% complete for LALL-PD-KC2015-176-LH-30d-CS-ITS_S102_L001_R2_001.fastq.gz
+Approx 60% complete for LALL-PD-KC2015-176-LH-30d-CS-ITS_S102_L001_R1_001.fastq.gz
+Approx 15% complete for LALL-PD-KC2015-176-LH-30d-CS-ITS_S102_L001_R2_001.fastq.gz
+Approx 65% complete for LALL-PD-KC2015-176-LH-30d-CS-ITS_S102_L001_R1_001.fastq.gz
+Approx 20% complete for LALL-PD-KC2015-176-LH-30d-CS-ITS_S102_L001_R2_001.fastq.gz
+Approx 70% complete for LALL-PD-KC2015-176-LH-30d-CS-ITS_S102_L001_R1_001.fastq.gz
+Approx 25% complete for LALL-PD-KC2015-176-LH-30d-CS-ITS_S102_L001_R2_001.fastq.gz
+Approx 75% complete for LALL-PD-KC2015-176-LH-30d-CS-ITS_S102_L001_R1_001.fastq.gz
+Approx 30% complete for LALL-PD-KC2015-176-LH-30d-CS-ITS_S102_L001_R2_001.fastq.gz
+Approx 80% complete for LALL-PD-KC2015-176-LH-30d-CS-ITS_S102_L001_R1_001.fastq.gz
+Approx 35% complete for LALL-PD-KC2015-176-LH-30d-CS-ITS_S102_L001_R2_001.fastq.gz
+Approx 85% complete for LALL-PD-KC2015-176-LH-30d-CS-ITS_S102_L001_R1_001.fastq.gz
+Approx 40% complete for LALL-PD-KC2015-176-LH-30d-CS-ITS_S102_L001_R2_001.fastq.gz
+Approx 90% complete for LALL-PD-KC2015-176-LH-30d-CS-ITS_S102_L001_R1_001.fastq.gz
+Approx 45% complete for LALL-PD-KC2015-176-LH-30d-CS-ITS_S102_L001_R2_001.fastq.gz
+Approx 95% complete for LALL-PD-KC2015-176-LH-30d-CS-ITS_S102_L001_R1_001.fastq.gz
+Analysis complete for LALL-PD-KC2015-176-LH-30d-CS-ITS_S102_L001_R1_001.fastq.gz
+Approx 50% complete for LALL-PD-KC2015-176-LH-30d-CS-ITS_S102_L001_R2_001.fastq.gz
+Approx 55% complete for LALL-PD-KC2015-176-LH-30d-CS-ITS_S102_L001_R2_001.fastq.gz
+Approx 60% complete for LALL-PD-KC2015-176-LH-30d-CS-ITS_S102_L001_R2_001.fastq.gz
+Approx 65% complete for LALL-PD-KC2015-176-LH-30d-CS-ITS_S102_L001_R2_001.fastq.gz
+Approx 70% complete for LALL-PD-KC2015-176-LH-30d-CS-ITS_S102_L001_R2_001.fastq.gz
+Approx 75% complete for LALL-PD-KC2015-176-LH-30d-CS-ITS_S102_L001_R2_001.fastq.gz
+Approx 80% complete for LALL-PD-KC2015-176-LH-30d-CS-ITS_S102_L001_R2_001.fastq.gz
+Approx 85% complete for LALL-PD-KC2015-176-LH-30d-CS-ITS_S102_L001_R2_001.fastq.gz
+Approx 90% complete for LALL-PD-KC2015-176-LH-30d-CS-ITS_S102_L001_R2_001.fastq.gz
+Approx 95% complete for LALL-PD-KC2015-176-LH-30d-CS-ITS_S102_L001_R2_001.fastq.gz
+Analysis complete for LALL-PD-KC2015-176-LH-30d-CS-ITS_S102_L001_R2_001.fastq.gz
+-rw-rw-r-- 1 mark mark 4360376 Sep  6 12:58 /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-177-LH-30d-CS-ITS_S103_L001_R1_001.fastq.gz
+-rw-rw-r-- 1 mark mark 5150809 Sep  6 12:58 /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-177-LH-30d-CS-ITS_S103_L001_R2_001.fastq.gz
+Started analysis of LALL-PD-KC2015-177-LH-30d-CS-ITS_S103_L001_R1_001.fastq.gz
+Approx 5% complete for LALL-PD-KC2015-177-LH-30d-CS-ITS_S103_L001_R1_001.fastq.gz
+Approx 10% complete for LALL-PD-KC2015-177-LH-30d-CS-ITS_S103_L001_R1_001.fastq.gz
+Approx 15% complete for LALL-PD-KC2015-177-LH-30d-CS-ITS_S103_L001_R1_001.fastq.gz
+Approx 20% complete for LALL-PD-KC2015-177-LH-30d-CS-ITS_S103_L001_R1_001.fastq.gz
+Approx 25% complete for LALL-PD-KC2015-177-LH-30d-CS-ITS_S103_L001_R1_001.fastq.gz
+Approx 30% complete for LALL-PD-KC2015-177-LH-30d-CS-ITS_S103_L001_R1_001.fastq.gz
+Approx 35% complete for LALL-PD-KC2015-177-LH-30d-CS-ITS_S103_L001_R1_001.fastq.gz
+Approx 40% complete for LALL-PD-KC2015-177-LH-30d-CS-ITS_S103_L001_R1_001.fastq.gz
+Approx 45% complete for LALL-PD-KC2015-177-LH-30d-CS-ITS_S103_L001_R1_001.fastq.gz
+Approx 50% complete for LALL-PD-KC2015-177-LH-30d-CS-ITS_S103_L001_R1_001.fastq.gz
+Started analysis of LALL-PD-KC2015-177-LH-30d-CS-ITS_S103_L001_R2_001.fastq.gz
+Approx 55% complete for LALL-PD-KC2015-177-LH-30d-CS-ITS_S103_L001_R1_001.fastq.gz
+Approx 5% complete for LALL-PD-KC2015-177-LH-30d-CS-ITS_S103_L001_R2_001.fastq.gz
+Approx 60% complete for LALL-PD-KC2015-177-LH-30d-CS-ITS_S103_L001_R1_001.fastq.gz
+Approx 65% complete for LALL-PD-KC2015-177-LH-30d-CS-ITS_S103_L001_R1_001.fastq.gz
+Approx 10% complete for LALL-PD-KC2015-177-LH-30d-CS-ITS_S103_L001_R2_001.fastq.gz
+Approx 15% complete for LALL-PD-KC2015-177-LH-30d-CS-ITS_S103_L001_R2_001.fastq.gz
+Approx 70% complete for LALL-PD-KC2015-177-LH-30d-CS-ITS_S103_L001_R1_001.fastq.gz
+Approx 20% complete for LALL-PD-KC2015-177-LH-30d-CS-ITS_S103_L001_R2_001.fastq.gz
+Approx 75% complete for LALL-PD-KC2015-177-LH-30d-CS-ITS_S103_L001_R1_001.fastq.gz
+Approx 80% complete for LALL-PD-KC2015-177-LH-30d-CS-ITS_S103_L001_R1_001.fastq.gz
+Approx 25% complete for LALL-PD-KC2015-177-LH-30d-CS-ITS_S103_L001_R2_001.fastq.gz
+Approx 30% complete for LALL-PD-KC2015-177-LH-30d-CS-ITS_S103_L001_R2_001.fastq.gz
+Approx 85% complete for LALL-PD-KC2015-177-LH-30d-CS-ITS_S103_L001_R1_001.fastq.gz
+Approx 90% complete for LALL-PD-KC2015-177-LH-30d-CS-ITS_S103_L001_R1_001.fastq.gz
+Approx 35% complete for LALL-PD-KC2015-177-LH-30d-CS-ITS_S103_L001_R2_001.fastq.gz
+Approx 95% complete for LALL-PD-KC2015-177-LH-30d-CS-ITS_S103_L001_R1_001.fastq.gz
+Approx 40% complete for LALL-PD-KC2015-177-LH-30d-CS-ITS_S103_L001_R2_001.fastq.gz
+Analysis complete for LALL-PD-KC2015-177-LH-30d-CS-ITS_S103_L001_R1_001.fastq.gz
+Approx 45% complete for LALL-PD-KC2015-177-LH-30d-CS-ITS_S103_L001_R2_001.fastq.gz
+Approx 50% complete for LALL-PD-KC2015-177-LH-30d-CS-ITS_S103_L001_R2_001.fastq.gz
+Approx 55% complete for LALL-PD-KC2015-177-LH-30d-CS-ITS_S103_L001_R2_001.fastq.gz
+Approx 60% complete for LALL-PD-KC2015-177-LH-30d-CS-ITS_S103_L001_R2_001.fastq.gz
+Approx 65% complete for LALL-PD-KC2015-177-LH-30d-CS-ITS_S103_L001_R2_001.fastq.gz
+Approx 70% complete for LALL-PD-KC2015-177-LH-30d-CS-ITS_S103_L001_R2_001.fastq.gz
+Approx 75% complete for LALL-PD-KC2015-177-LH-30d-CS-ITS_S103_L001_R2_001.fastq.gz
+Approx 80% complete for LALL-PD-KC2015-177-LH-30d-CS-ITS_S103_L001_R2_001.fastq.gz
+Approx 85% complete for LALL-PD-KC2015-177-LH-30d-CS-ITS_S103_L001_R2_001.fastq.gz
+Approx 90% complete for LALL-PD-KC2015-177-LH-30d-CS-ITS_S103_L001_R2_001.fastq.gz
+Approx 95% complete for LALL-PD-KC2015-177-LH-30d-CS-ITS_S103_L001_R2_001.fastq.gz
+Analysis complete for LALL-PD-KC2015-177-LH-30d-CS-ITS_S103_L001_R2_001.fastq.gz
+-rw-rw-r-- 1 mark mark 5578271 Sep  6 12:58 /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-178-LH-30d-CS-ITS-fixed_S104_L001_R1_001.fastq.gz
+-rw-rw-r-- 1 mark mark 6517758 Sep  6 12:58 /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-178-LH-30d-CS-ITS-fixed_S104_L001_R2_001.fastq.gz
+Started analysis of LALL-PD-KC2015-178-LH-30d-CS-ITS-fixed_S104_L001_R1_001.fastq.gz
+Approx 5% complete for LALL-PD-KC2015-178-LH-30d-CS-ITS-fixed_S104_L001_R1_001.fastq.gz
+Approx 10% complete for LALL-PD-KC2015-178-LH-30d-CS-ITS-fixed_S104_L001_R1_001.fastq.gz
+Approx 15% complete for LALL-PD-KC2015-178-LH-30d-CS-ITS-fixed_S104_L001_R1_001.fastq.gz
+Approx 20% complete for LALL-PD-KC2015-178-LH-30d-CS-ITS-fixed_S104_L001_R1_001.fastq.gz
+Approx 25% complete for LALL-PD-KC2015-178-LH-30d-CS-ITS-fixed_S104_L001_R1_001.fastq.gz
+Approx 30% complete for LALL-PD-KC2015-178-LH-30d-CS-ITS-fixed_S104_L001_R1_001.fastq.gz
+Approx 35% complete for LALL-PD-KC2015-178-LH-30d-CS-ITS-fixed_S104_L001_R1_001.fastq.gz
+Approx 40% complete for LALL-PD-KC2015-178-LH-30d-CS-ITS-fixed_S104_L001_R1_001.fastq.gz
+Started analysis of LALL-PD-KC2015-178-LH-30d-CS-ITS-fixed_S104_L001_R2_001.fastq.gz
+Approx 45% complete for LALL-PD-KC2015-178-LH-30d-CS-ITS-fixed_S104_L001_R1_001.fastq.gz
+Approx 50% complete for LALL-PD-KC2015-178-LH-30d-CS-ITS-fixed_S104_L001_R1_001.fastq.gz
+Approx 5% complete for LALL-PD-KC2015-178-LH-30d-CS-ITS-fixed_S104_L001_R2_001.fastq.gz
+Approx 55% complete for LALL-PD-KC2015-178-LH-30d-CS-ITS-fixed_S104_L001_R1_001.fastq.gz
+Approx 10% complete for LALL-PD-KC2015-178-LH-30d-CS-ITS-fixed_S104_L001_R2_001.fastq.gz
+Approx 60% complete for LALL-PD-KC2015-178-LH-30d-CS-ITS-fixed_S104_L001_R1_001.fastq.gz
+Approx 15% complete for LALL-PD-KC2015-178-LH-30d-CS-ITS-fixed_S104_L001_R2_001.fastq.gz
+Approx 65% complete for LALL-PD-KC2015-178-LH-30d-CS-ITS-fixed_S104_L001_R1_001.fastq.gz
+Approx 20% complete for LALL-PD-KC2015-178-LH-30d-CS-ITS-fixed_S104_L001_R2_001.fastq.gz
+Approx 70% complete for LALL-PD-KC2015-178-LH-30d-CS-ITS-fixed_S104_L001_R1_001.fastq.gz
+Approx 25% complete for LALL-PD-KC2015-178-LH-30d-CS-ITS-fixed_S104_L001_R2_001.fastq.gz
+Approx 75% complete for LALL-PD-KC2015-178-LH-30d-CS-ITS-fixed_S104_L001_R1_001.fastq.gz
+Approx 30% complete for LALL-PD-KC2015-178-LH-30d-CS-ITS-fixed_S104_L001_R2_001.fastq.gz
+Approx 80% complete for LALL-PD-KC2015-178-LH-30d-CS-ITS-fixed_S104_L001_R1_001.fastq.gz
+Approx 35% complete for LALL-PD-KC2015-178-LH-30d-CS-ITS-fixed_S104_L001_R2_001.fastq.gz
+Approx 85% complete for LALL-PD-KC2015-178-LH-30d-CS-ITS-fixed_S104_L001_R1_001.fastq.gz
+Approx 90% complete for LALL-PD-KC2015-178-LH-30d-CS-ITS-fixed_S104_L001_R1_001.fastq.gz
+Approx 40% complete for LALL-PD-KC2015-178-LH-30d-CS-ITS-fixed_S104_L001_R2_001.fastq.gz
+Approx 95% complete for LALL-PD-KC2015-178-LH-30d-CS-ITS-fixed_S104_L001_R1_001.fastq.gz
+Approx 45% complete for LALL-PD-KC2015-178-LH-30d-CS-ITS-fixed_S104_L001_R2_001.fastq.gz
+Analysis complete for LALL-PD-KC2015-178-LH-30d-CS-ITS-fixed_S104_L001_R1_001.fastq.gz
+Approx 50% complete for LALL-PD-KC2015-178-LH-30d-CS-ITS-fixed_S104_L001_R2_001.fastq.gz
+Approx 55% complete for LALL-PD-KC2015-178-LH-30d-CS-ITS-fixed_S104_L001_R2_001.fastq.gz
+Approx 60% complete for LALL-PD-KC2015-178-LH-30d-CS-ITS-fixed_S104_L001_R2_001.fastq.gz
+Approx 65% complete for LALL-PD-KC2015-178-LH-30d-CS-ITS-fixed_S104_L001_R2_001.fastq.gz
+Approx 70% complete for LALL-PD-KC2015-178-LH-30d-CS-ITS-fixed_S104_L001_R2_001.fastq.gz
+Approx 75% complete for LALL-PD-KC2015-178-LH-30d-CS-ITS-fixed_S104_L001_R2_001.fastq.gz
+Approx 80% complete for LALL-PD-KC2015-178-LH-30d-CS-ITS-fixed_S104_L001_R2_001.fastq.gz
+Approx 85% complete for LALL-PD-KC2015-178-LH-30d-CS-ITS-fixed_S104_L001_R2_001.fastq.gz
+Approx 90% complete for LALL-PD-KC2015-178-LH-30d-CS-ITS-fixed_S104_L001_R2_001.fastq.gz
+Approx 95% complete for LALL-PD-KC2015-178-LH-30d-CS-ITS-fixed_S104_L001_R2_001.fastq.gz
+Analysis complete for LALL-PD-KC2015-178-LH-30d-CS-ITS-fixed_S104_L001_R2_001.fastq.gz
+-rw-rw-r-- 1 mark mark 8179836 Sep  6 12:58 /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-181-LH-LB-30d-CS-ITS_S105_L001_R1_001.fastq.gz
+-rw-rw-r-- 1 mark mark 9566174 Sep  6 12:59 /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-181-LH-LB-30d-CS-ITS_S105_L001_R2_001.fastq.gz
+Started analysis of LALL-PD-KC2015-181-LH-LB-30d-CS-ITS_S105_L001_R1_001.fastq.gz
+Approx 5% complete for LALL-PD-KC2015-181-LH-LB-30d-CS-ITS_S105_L001_R1_001.fastq.gz
+Approx 10% complete for LALL-PD-KC2015-181-LH-LB-30d-CS-ITS_S105_L001_R1_001.fastq.gz
+Approx 15% complete for LALL-PD-KC2015-181-LH-LB-30d-CS-ITS_S105_L001_R1_001.fastq.gz
+Approx 20% complete for LALL-PD-KC2015-181-LH-LB-30d-CS-ITS_S105_L001_R1_001.fastq.gz
+Approx 25% complete for LALL-PD-KC2015-181-LH-LB-30d-CS-ITS_S105_L001_R1_001.fastq.gz
+Approx 30% complete for LALL-PD-KC2015-181-LH-LB-30d-CS-ITS_S105_L001_R1_001.fastq.gz
+Approx 35% complete for LALL-PD-KC2015-181-LH-LB-30d-CS-ITS_S105_L001_R1_001.fastq.gz
+Started analysis of LALL-PD-KC2015-181-LH-LB-30d-CS-ITS_S105_L001_R2_001.fastq.gz
+Approx 40% complete for LALL-PD-KC2015-181-LH-LB-30d-CS-ITS_S105_L001_R1_001.fastq.gz
+Approx 5% complete for LALL-PD-KC2015-181-LH-LB-30d-CS-ITS_S105_L001_R2_001.fastq.gz
+Approx 45% complete for LALL-PD-KC2015-181-LH-LB-30d-CS-ITS_S105_L001_R1_001.fastq.gz
+Approx 10% complete for LALL-PD-KC2015-181-LH-LB-30d-CS-ITS_S105_L001_R2_001.fastq.gz
+Approx 50% complete for LALL-PD-KC2015-181-LH-LB-30d-CS-ITS_S105_L001_R1_001.fastq.gz
+Approx 15% complete for LALL-PD-KC2015-181-LH-LB-30d-CS-ITS_S105_L001_R2_001.fastq.gz
+Approx 55% complete for LALL-PD-KC2015-181-LH-LB-30d-CS-ITS_S105_L001_R1_001.fastq.gz
+Approx 20% complete for LALL-PD-KC2015-181-LH-LB-30d-CS-ITS_S105_L001_R2_001.fastq.gz
+Approx 60% complete for LALL-PD-KC2015-181-LH-LB-30d-CS-ITS_S105_L001_R1_001.fastq.gz
+Approx 25% complete for LALL-PD-KC2015-181-LH-LB-30d-CS-ITS_S105_L001_R2_001.fastq.gz
+Approx 65% complete for LALL-PD-KC2015-181-LH-LB-30d-CS-ITS_S105_L001_R1_001.fastq.gz
+Approx 30% complete for LALL-PD-KC2015-181-LH-LB-30d-CS-ITS_S105_L001_R2_001.fastq.gz
+Approx 70% complete for LALL-PD-KC2015-181-LH-LB-30d-CS-ITS_S105_L001_R1_001.fastq.gz
+Approx 35% complete for LALL-PD-KC2015-181-LH-LB-30d-CS-ITS_S105_L001_R2_001.fastq.gz
+Approx 75% complete for LALL-PD-KC2015-181-LH-LB-30d-CS-ITS_S105_L001_R1_001.fastq.gz
+Approx 40% complete for LALL-PD-KC2015-181-LH-LB-30d-CS-ITS_S105_L001_R2_001.fastq.gz
+Approx 80% complete for LALL-PD-KC2015-181-LH-LB-30d-CS-ITS_S105_L001_R1_001.fastq.gz
+Approx 85% complete for LALL-PD-KC2015-181-LH-LB-30d-CS-ITS_S105_L001_R1_001.fastq.gz
+Approx 45% complete for LALL-PD-KC2015-181-LH-LB-30d-CS-ITS_S105_L001_R2_001.fastq.gz
+Approx 50% complete for LALL-PD-KC2015-181-LH-LB-30d-CS-ITS_S105_L001_R2_001.fastq.gz
+Approx 90% complete for LALL-PD-KC2015-181-LH-LB-30d-CS-ITS_S105_L001_R1_001.fastq.gz
+Approx 55% complete for LALL-PD-KC2015-181-LH-LB-30d-CS-ITS_S105_L001_R2_001.fastq.gz
+Approx 95% complete for LALL-PD-KC2015-181-LH-LB-30d-CS-ITS_S105_L001_R1_001.fastq.gz
+Analysis complete for LALL-PD-KC2015-181-LH-LB-30d-CS-ITS_S105_L001_R1_001.fastq.gz
+Approx 60% complete for LALL-PD-KC2015-181-LH-LB-30d-CS-ITS_S105_L001_R2_001.fastq.gz
+Approx 65% complete for LALL-PD-KC2015-181-LH-LB-30d-CS-ITS_S105_L001_R2_001.fastq.gz
+Approx 70% complete for LALL-PD-KC2015-181-LH-LB-30d-CS-ITS_S105_L001_R2_001.fastq.gz
+Approx 75% complete for LALL-PD-KC2015-181-LH-LB-30d-CS-ITS_S105_L001_R2_001.fastq.gz
+Approx 80% complete for LALL-PD-KC2015-181-LH-LB-30d-CS-ITS_S105_L001_R2_001.fastq.gz
+Approx 85% complete for LALL-PD-KC2015-181-LH-LB-30d-CS-ITS_S105_L001_R2_001.fastq.gz
+Approx 90% complete for LALL-PD-KC2015-181-LH-LB-30d-CS-ITS_S105_L001_R2_001.fastq.gz
+Approx 95% complete for LALL-PD-KC2015-181-LH-LB-30d-CS-ITS_S105_L001_R2_001.fastq.gz
+Analysis complete for LALL-PD-KC2015-181-LH-LB-30d-CS-ITS_S105_L001_R2_001.fastq.gz
+-rw-rw-r-- 1 mark mark 9421693 Sep  6 12:59 /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-182-LH-LB-30d-CS-ITS_S106_L001_R1_001.fastq.gz
+-rw-rw-r-- 1 mark mark 10786485 Sep  6 12:59 /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-182-LH-LB-30d-CS-ITS_S106_L001_R2_001.fastq.gz
+Started analysis of LALL-PD-KC2015-182-LH-LB-30d-CS-ITS_S106_L001_R1_001.fastq.gz
+Approx 5% complete for LALL-PD-KC2015-182-LH-LB-30d-CS-ITS_S106_L001_R1_001.fastq.gz
+Approx 10% complete for LALL-PD-KC2015-182-LH-LB-30d-CS-ITS_S106_L001_R1_001.fastq.gz
+Approx 15% complete for LALL-PD-KC2015-182-LH-LB-30d-CS-ITS_S106_L001_R1_001.fastq.gz
+Approx 20% complete for LALL-PD-KC2015-182-LH-LB-30d-CS-ITS_S106_L001_R1_001.fastq.gz
+Approx 25% complete for LALL-PD-KC2015-182-LH-LB-30d-CS-ITS_S106_L001_R1_001.fastq.gz
+Approx 30% complete for LALL-PD-KC2015-182-LH-LB-30d-CS-ITS_S106_L001_R1_001.fastq.gz
+Started analysis of LALL-PD-KC2015-182-LH-LB-30d-CS-ITS_S106_L001_R2_001.fastq.gz
+Approx 35% complete for LALL-PD-KC2015-182-LH-LB-30d-CS-ITS_S106_L001_R1_001.fastq.gz
+Approx 5% complete for LALL-PD-KC2015-182-LH-LB-30d-CS-ITS_S106_L001_R2_001.fastq.gz
+Approx 40% complete for LALL-PD-KC2015-182-LH-LB-30d-CS-ITS_S106_L001_R1_001.fastq.gz
+Approx 10% complete for LALL-PD-KC2015-182-LH-LB-30d-CS-ITS_S106_L001_R2_001.fastq.gz
+Approx 45% complete for LALL-PD-KC2015-182-LH-LB-30d-CS-ITS_S106_L001_R1_001.fastq.gz
+Approx 15% complete for LALL-PD-KC2015-182-LH-LB-30d-CS-ITS_S106_L001_R2_001.fastq.gz
+Approx 50% complete for LALL-PD-KC2015-182-LH-LB-30d-CS-ITS_S106_L001_R1_001.fastq.gz
+Approx 20% complete for LALL-PD-KC2015-182-LH-LB-30d-CS-ITS_S106_L001_R2_001.fastq.gz
+Approx 55% complete for LALL-PD-KC2015-182-LH-LB-30d-CS-ITS_S106_L001_R1_001.fastq.gz
+Approx 25% complete for LALL-PD-KC2015-182-LH-LB-30d-CS-ITS_S106_L001_R2_001.fastq.gz
+Approx 60% complete for LALL-PD-KC2015-182-LH-LB-30d-CS-ITS_S106_L001_R1_001.fastq.gz
+Approx 65% complete for LALL-PD-KC2015-182-LH-LB-30d-CS-ITS_S106_L001_R1_001.fastq.gz
+Approx 30% complete for LALL-PD-KC2015-182-LH-LB-30d-CS-ITS_S106_L001_R2_001.fastq.gz
+Approx 70% complete for LALL-PD-KC2015-182-LH-LB-30d-CS-ITS_S106_L001_R1_001.fastq.gz
+Approx 35% complete for LALL-PD-KC2015-182-LH-LB-30d-CS-ITS_S106_L001_R2_001.fastq.gz
+Approx 75% complete for LALL-PD-KC2015-182-LH-LB-30d-CS-ITS_S106_L001_R1_001.fastq.gz
+Approx 40% complete for LALL-PD-KC2015-182-LH-LB-30d-CS-ITS_S106_L001_R2_001.fastq.gz
+Approx 80% complete for LALL-PD-KC2015-182-LH-LB-30d-CS-ITS_S106_L001_R1_001.fastq.gz
+Approx 45% complete for LALL-PD-KC2015-182-LH-LB-30d-CS-ITS_S106_L001_R2_001.fastq.gz
+Approx 85% complete for LALL-PD-KC2015-182-LH-LB-30d-CS-ITS_S106_L001_R1_001.fastq.gz
+Approx 50% complete for LALL-PD-KC2015-182-LH-LB-30d-CS-ITS_S106_L001_R2_001.fastq.gz
+Approx 90% complete for LALL-PD-KC2015-182-LH-LB-30d-CS-ITS_S106_L001_R1_001.fastq.gz
+Approx 55% complete for LALL-PD-KC2015-182-LH-LB-30d-CS-ITS_S106_L001_R2_001.fastq.gz
+Approx 95% complete for LALL-PD-KC2015-182-LH-LB-30d-CS-ITS_S106_L001_R1_001.fastq.gz
+Approx 60% complete for LALL-PD-KC2015-182-LH-LB-30d-CS-ITS_S106_L001_R2_001.fastq.gz
+Analysis complete for LALL-PD-KC2015-182-LH-LB-30d-CS-ITS_S106_L001_R1_001.fastq.gz
+Approx 65% complete for LALL-PD-KC2015-182-LH-LB-30d-CS-ITS_S106_L001_R2_001.fastq.gz
+Approx 70% complete for LALL-PD-KC2015-182-LH-LB-30d-CS-ITS_S106_L001_R2_001.fastq.gz
+Approx 75% complete for LALL-PD-KC2015-182-LH-LB-30d-CS-ITS_S106_L001_R2_001.fastq.gz
+Approx 80% complete for LALL-PD-KC2015-182-LH-LB-30d-CS-ITS_S106_L001_R2_001.fastq.gz
+Approx 85% complete for LALL-PD-KC2015-182-LH-LB-30d-CS-ITS_S106_L001_R2_001.fastq.gz
+Approx 90% complete for LALL-PD-KC2015-182-LH-LB-30d-CS-ITS_S106_L001_R2_001.fastq.gz
+Approx 95% complete for LALL-PD-KC2015-182-LH-LB-30d-CS-ITS_S106_L001_R2_001.fastq.gz
+Analysis complete for LALL-PD-KC2015-182-LH-LB-30d-CS-ITS_S106_L001_R2_001.fastq.gz
+-rw-rw-r-- 1 mark mark 9607998 Sep  6 13:00 /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-183-LH-LB-30d-CS-ITS_S107_L001_R1_001.fastq.gz
+-rw-rw-r-- 1 mark mark 11083648 Sep  6 13:00 /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-183-LH-LB-30d-CS-ITS_S107_L001_R2_001.fastq.gz
+Started analysis of LALL-PD-KC2015-183-LH-LB-30d-CS-ITS_S107_L001_R1_001.fastq.gz
+Approx 5% complete for LALL-PD-KC2015-183-LH-LB-30d-CS-ITS_S107_L001_R1_001.fastq.gz
+Approx 10% complete for LALL-PD-KC2015-183-LH-LB-30d-CS-ITS_S107_L001_R1_001.fastq.gz
+Approx 15% complete for LALL-PD-KC2015-183-LH-LB-30d-CS-ITS_S107_L001_R1_001.fastq.gz
+Approx 20% complete for LALL-PD-KC2015-183-LH-LB-30d-CS-ITS_S107_L001_R1_001.fastq.gz
+Approx 25% complete for LALL-PD-KC2015-183-LH-LB-30d-CS-ITS_S107_L001_R1_001.fastq.gz
+Started analysis of LALL-PD-KC2015-183-LH-LB-30d-CS-ITS_S107_L001_R2_001.fastq.gz
+Approx 30% complete for LALL-PD-KC2015-183-LH-LB-30d-CS-ITS_S107_L001_R1_001.fastq.gz
+Approx 5% complete for LALL-PD-KC2015-183-LH-LB-30d-CS-ITS_S107_L001_R2_001.fastq.gz
+Approx 35% complete for LALL-PD-KC2015-183-LH-LB-30d-CS-ITS_S107_L001_R1_001.fastq.gz
+Approx 10% complete for LALL-PD-KC2015-183-LH-LB-30d-CS-ITS_S107_L001_R2_001.fastq.gz
+Approx 40% complete for LALL-PD-KC2015-183-LH-LB-30d-CS-ITS_S107_L001_R1_001.fastq.gz
+Approx 45% complete for LALL-PD-KC2015-183-LH-LB-30d-CS-ITS_S107_L001_R1_001.fastq.gz
+Approx 15% complete for LALL-PD-KC2015-183-LH-LB-30d-CS-ITS_S107_L001_R2_001.fastq.gz
+Approx 50% complete for LALL-PD-KC2015-183-LH-LB-30d-CS-ITS_S107_L001_R1_001.fastq.gz
+Approx 20% complete for LALL-PD-KC2015-183-LH-LB-30d-CS-ITS_S107_L001_R2_001.fastq.gz
+Approx 55% complete for LALL-PD-KC2015-183-LH-LB-30d-CS-ITS_S107_L001_R1_001.fastq.gz
+Approx 25% complete for LALL-PD-KC2015-183-LH-LB-30d-CS-ITS_S107_L001_R2_001.fastq.gz
+Approx 30% complete for LALL-PD-KC2015-183-LH-LB-30d-CS-ITS_S107_L001_R2_001.fastq.gz
+Approx 60% complete for LALL-PD-KC2015-183-LH-LB-30d-CS-ITS_S107_L001_R1_001.fastq.gz
+Approx 65% complete for LALL-PD-KC2015-183-LH-LB-30d-CS-ITS_S107_L001_R1_001.fastq.gz
+Approx 35% complete for LALL-PD-KC2015-183-LH-LB-30d-CS-ITS_S107_L001_R2_001.fastq.gz
+Approx 70% complete for LALL-PD-KC2015-183-LH-LB-30d-CS-ITS_S107_L001_R1_001.fastq.gz
+Approx 40% complete for LALL-PD-KC2015-183-LH-LB-30d-CS-ITS_S107_L001_R2_001.fastq.gz
+Approx 75% complete for LALL-PD-KC2015-183-LH-LB-30d-CS-ITS_S107_L001_R1_001.fastq.gz
+Approx 45% complete for LALL-PD-KC2015-183-LH-LB-30d-CS-ITS_S107_L001_R2_001.fastq.gz
+Approx 80% complete for LALL-PD-KC2015-183-LH-LB-30d-CS-ITS_S107_L001_R1_001.fastq.gz
+Approx 50% complete for LALL-PD-KC2015-183-LH-LB-30d-CS-ITS_S107_L001_R2_001.fastq.gz
+Approx 85% complete for LALL-PD-KC2015-183-LH-LB-30d-CS-ITS_S107_L001_R1_001.fastq.gz
+Approx 55% complete for LALL-PD-KC2015-183-LH-LB-30d-CS-ITS_S107_L001_R2_001.fastq.gz
+Approx 90% complete for LALL-PD-KC2015-183-LH-LB-30d-CS-ITS_S107_L001_R1_001.fastq.gz
+Approx 60% complete for LALL-PD-KC2015-183-LH-LB-30d-CS-ITS_S107_L001_R2_001.fastq.gz
+Approx 95% complete for LALL-PD-KC2015-183-LH-LB-30d-CS-ITS_S107_L001_R1_001.fastq.gz
+Approx 65% complete for LALL-PD-KC2015-183-LH-LB-30d-CS-ITS_S107_L001_R2_001.fastq.gz
+Analysis complete for LALL-PD-KC2015-183-LH-LB-30d-CS-ITS_S107_L001_R1_001.fastq.gz
+Approx 70% complete for LALL-PD-KC2015-183-LH-LB-30d-CS-ITS_S107_L001_R2_001.fastq.gz
+Approx 75% complete for LALL-PD-KC2015-183-LH-LB-30d-CS-ITS_S107_L001_R2_001.fastq.gz
+Approx 80% complete for LALL-PD-KC2015-183-LH-LB-30d-CS-ITS_S107_L001_R2_001.fastq.gz
+Approx 85% complete for LALL-PD-KC2015-183-LH-LB-30d-CS-ITS_S107_L001_R2_001.fastq.gz
+Approx 90% complete for LALL-PD-KC2015-183-LH-LB-30d-CS-ITS_S107_L001_R2_001.fastq.gz
+Approx 95% complete for LALL-PD-KC2015-183-LH-LB-30d-CS-ITS_S107_L001_R2_001.fastq.gz
+Analysis complete for LALL-PD-KC2015-183-LH-LB-30d-CS-ITS_S107_L001_R2_001.fastq.gz
+-rw-rw-r-- 1 mark mark 9580092 Sep  6 13:00 /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-186-LB-30d-CS-ITS_S108_L001_R1_001.fastq.gz
+-rw-rw-r-- 1 mark mark 10737372 Sep  6 13:00 /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-186-LB-30d-CS-ITS_S108_L001_R2_001.fastq.gz
+Started analysis of LALL-PD-KC2015-186-LB-30d-CS-ITS_S108_L001_R1_001.fastq.gz
+Approx 5% complete for LALL-PD-KC2015-186-LB-30d-CS-ITS_S108_L001_R1_001.fastq.gz
+Approx 10% complete for LALL-PD-KC2015-186-LB-30d-CS-ITS_S108_L001_R1_001.fastq.gz
+Approx 15% complete for LALL-PD-KC2015-186-LB-30d-CS-ITS_S108_L001_R1_001.fastq.gz
+Approx 20% complete for LALL-PD-KC2015-186-LB-30d-CS-ITS_S108_L001_R1_001.fastq.gz
+Approx 25% complete for LALL-PD-KC2015-186-LB-30d-CS-ITS_S108_L001_R1_001.fastq.gz
+Approx 30% complete for LALL-PD-KC2015-186-LB-30d-CS-ITS_S108_L001_R1_001.fastq.gz
+Started analysis of LALL-PD-KC2015-186-LB-30d-CS-ITS_S108_L001_R2_001.fastq.gz
+Approx 35% complete for LALL-PD-KC2015-186-LB-30d-CS-ITS_S108_L001_R1_001.fastq.gz
+Approx 5% complete for LALL-PD-KC2015-186-LB-30d-CS-ITS_S108_L001_R2_001.fastq.gz
+Approx 40% complete for LALL-PD-KC2015-186-LB-30d-CS-ITS_S108_L001_R1_001.fastq.gz
+Approx 10% complete for LALL-PD-KC2015-186-LB-30d-CS-ITS_S108_L001_R2_001.fastq.gz
+Approx 45% complete for LALL-PD-KC2015-186-LB-30d-CS-ITS_S108_L001_R1_001.fastq.gz
+Approx 15% complete for LALL-PD-KC2015-186-LB-30d-CS-ITS_S108_L001_R2_001.fastq.gz
+Approx 50% complete for LALL-PD-KC2015-186-LB-30d-CS-ITS_S108_L001_R1_001.fastq.gz
+Approx 20% complete for LALL-PD-KC2015-186-LB-30d-CS-ITS_S108_L001_R2_001.fastq.gz
+Approx 55% complete for LALL-PD-KC2015-186-LB-30d-CS-ITS_S108_L001_R1_001.fastq.gz
+Approx 25% complete for LALL-PD-KC2015-186-LB-30d-CS-ITS_S108_L001_R2_001.fastq.gz
+Approx 60% complete for LALL-PD-KC2015-186-LB-30d-CS-ITS_S108_L001_R1_001.fastq.gz
+Approx 30% complete for LALL-PD-KC2015-186-LB-30d-CS-ITS_S108_L001_R2_001.fastq.gz
+Approx 65% complete for LALL-PD-KC2015-186-LB-30d-CS-ITS_S108_L001_R1_001.fastq.gz
+Approx 35% complete for LALL-PD-KC2015-186-LB-30d-CS-ITS_S108_L001_R2_001.fastq.gz
+Approx 70% complete for LALL-PD-KC2015-186-LB-30d-CS-ITS_S108_L001_R1_001.fastq.gz
+Approx 40% complete for LALL-PD-KC2015-186-LB-30d-CS-ITS_S108_L001_R2_001.fastq.gz
+Approx 75% complete for LALL-PD-KC2015-186-LB-30d-CS-ITS_S108_L001_R1_001.fastq.gz
+Approx 45% complete for LALL-PD-KC2015-186-LB-30d-CS-ITS_S108_L001_R2_001.fastq.gz
+Approx 80% complete for LALL-PD-KC2015-186-LB-30d-CS-ITS_S108_L001_R1_001.fastq.gz
+Approx 50% complete for LALL-PD-KC2015-186-LB-30d-CS-ITS_S108_L001_R2_001.fastq.gz
+Approx 85% complete for LALL-PD-KC2015-186-LB-30d-CS-ITS_S108_L001_R1_001.fastq.gz
+Approx 55% complete for LALL-PD-KC2015-186-LB-30d-CS-ITS_S108_L001_R2_001.fastq.gz
+Approx 90% complete for LALL-PD-KC2015-186-LB-30d-CS-ITS_S108_L001_R1_001.fastq.gz
+Approx 60% complete for LALL-PD-KC2015-186-LB-30d-CS-ITS_S108_L001_R2_001.fastq.gz
+Approx 95% complete for LALL-PD-KC2015-186-LB-30d-CS-ITS_S108_L001_R1_001.fastq.gz
+Analysis complete for LALL-PD-KC2015-186-LB-30d-CS-ITS_S108_L001_R1_001.fastq.gz
+Approx 65% complete for LALL-PD-KC2015-186-LB-30d-CS-ITS_S108_L001_R2_001.fastq.gz
+Approx 70% complete for LALL-PD-KC2015-186-LB-30d-CS-ITS_S108_L001_R2_001.fastq.gz
+Approx 75% complete for LALL-PD-KC2015-186-LB-30d-CS-ITS_S108_L001_R2_001.fastq.gz
+Approx 80% complete for LALL-PD-KC2015-186-LB-30d-CS-ITS_S108_L001_R2_001.fastq.gz
+Approx 85% complete for LALL-PD-KC2015-186-LB-30d-CS-ITS_S108_L001_R2_001.fastq.gz
+Approx 90% complete for LALL-PD-KC2015-186-LB-30d-CS-ITS_S108_L001_R2_001.fastq.gz
+Approx 95% complete for LALL-PD-KC2015-186-LB-30d-CS-ITS_S108_L001_R2_001.fastq.gz
+Analysis complete for LALL-PD-KC2015-186-LB-30d-CS-ITS_S108_L001_R2_001.fastq.gz
+-rw-rw-r-- 1 mark mark 4932452 Sep  6 13:00 /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-187-LB-30d-CS-ITS_S109_L001_R1_001.fastq.gz
+-rw-rw-r-- 1 mark mark 5691802 Sep  6 13:00 /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-187-LB-30d-CS-ITS_S109_L001_R2_001.fastq.gz
+Started analysis of LALL-PD-KC2015-187-LB-30d-CS-ITS_S109_L001_R1_001.fastq.gz
+Approx 5% complete for LALL-PD-KC2015-187-LB-30d-CS-ITS_S109_L001_R1_001.fastq.gz
+Approx 10% complete for LALL-PD-KC2015-187-LB-30d-CS-ITS_S109_L001_R1_001.fastq.gz
+Approx 15% complete for LALL-PD-KC2015-187-LB-30d-CS-ITS_S109_L001_R1_001.fastq.gz
+Approx 20% complete for LALL-PD-KC2015-187-LB-30d-CS-ITS_S109_L001_R1_001.fastq.gz
+Approx 25% complete for LALL-PD-KC2015-187-LB-30d-CS-ITS_S109_L001_R1_001.fastq.gz
+Approx 30% complete for LALL-PD-KC2015-187-LB-30d-CS-ITS_S109_L001_R1_001.fastq.gz
+Approx 35% complete for LALL-PD-KC2015-187-LB-30d-CS-ITS_S109_L001_R1_001.fastq.gz
+Approx 40% complete for LALL-PD-KC2015-187-LB-30d-CS-ITS_S109_L001_R1_001.fastq.gz
+Approx 45% complete for LALL-PD-KC2015-187-LB-30d-CS-ITS_S109_L001_R1_001.fastq.gz
+Approx 50% complete for LALL-PD-KC2015-187-LB-30d-CS-ITS_S109_L001_R1_001.fastq.gz
+Started analysis of LALL-PD-KC2015-187-LB-30d-CS-ITS_S109_L001_R2_001.fastq.gz
+Approx 55% complete for LALL-PD-KC2015-187-LB-30d-CS-ITS_S109_L001_R1_001.fastq.gz
+Approx 5% complete for LALL-PD-KC2015-187-LB-30d-CS-ITS_S109_L001_R2_001.fastq.gz
+Approx 60% complete for LALL-PD-KC2015-187-LB-30d-CS-ITS_S109_L001_R1_001.fastq.gz
+Approx 10% complete for LALL-PD-KC2015-187-LB-30d-CS-ITS_S109_L001_R2_001.fastq.gz
+Approx 65% complete for LALL-PD-KC2015-187-LB-30d-CS-ITS_S109_L001_R1_001.fastq.gz
+Approx 15% complete for LALL-PD-KC2015-187-LB-30d-CS-ITS_S109_L001_R2_001.fastq.gz
+Approx 70% complete for LALL-PD-KC2015-187-LB-30d-CS-ITS_S109_L001_R1_001.fastq.gz
+Approx 20% complete for LALL-PD-KC2015-187-LB-30d-CS-ITS_S109_L001_R2_001.fastq.gz
+Approx 75% complete for LALL-PD-KC2015-187-LB-30d-CS-ITS_S109_L001_R1_001.fastq.gz
+Approx 25% complete for LALL-PD-KC2015-187-LB-30d-CS-ITS_S109_L001_R2_001.fastq.gz
+Approx 80% complete for LALL-PD-KC2015-187-LB-30d-CS-ITS_S109_L001_R1_001.fastq.gz
+Approx 85% complete for LALL-PD-KC2015-187-LB-30d-CS-ITS_S109_L001_R1_001.fastq.gz
+Approx 30% complete for LALL-PD-KC2015-187-LB-30d-CS-ITS_S109_L001_R2_001.fastq.gz
+Approx 90% complete for LALL-PD-KC2015-187-LB-30d-CS-ITS_S109_L001_R1_001.fastq.gz
+Approx 35% complete for LALL-PD-KC2015-187-LB-30d-CS-ITS_S109_L001_R2_001.fastq.gz
+Approx 40% complete for LALL-PD-KC2015-187-LB-30d-CS-ITS_S109_L001_R2_001.fastq.gz
+Approx 95% complete for LALL-PD-KC2015-187-LB-30d-CS-ITS_S109_L001_R1_001.fastq.gz
+Analysis complete for LALL-PD-KC2015-187-LB-30d-CS-ITS_S109_L001_R1_001.fastq.gz
+Approx 45% complete for LALL-PD-KC2015-187-LB-30d-CS-ITS_S109_L001_R2_001.fastq.gz
+Approx 50% complete for LALL-PD-KC2015-187-LB-30d-CS-ITS_S109_L001_R2_001.fastq.gz
+Approx 55% complete for LALL-PD-KC2015-187-LB-30d-CS-ITS_S109_L001_R2_001.fastq.gz
+Approx 60% complete for LALL-PD-KC2015-187-LB-30d-CS-ITS_S109_L001_R2_001.fastq.gz
+Approx 65% complete for LALL-PD-KC2015-187-LB-30d-CS-ITS_S109_L001_R2_001.fastq.gz
+Approx 70% complete for LALL-PD-KC2015-187-LB-30d-CS-ITS_S109_L001_R2_001.fastq.gz
+Approx 75% complete for LALL-PD-KC2015-187-LB-30d-CS-ITS_S109_L001_R2_001.fastq.gz
+Approx 80% complete for LALL-PD-KC2015-187-LB-30d-CS-ITS_S109_L001_R2_001.fastq.gz
+Approx 85% complete for LALL-PD-KC2015-187-LB-30d-CS-ITS_S109_L001_R2_001.fastq.gz
+Approx 90% complete for LALL-PD-KC2015-187-LB-30d-CS-ITS_S109_L001_R2_001.fastq.gz
+Approx 95% complete for LALL-PD-KC2015-187-LB-30d-CS-ITS_S109_L001_R2_001.fastq.gz
+Analysis complete for LALL-PD-KC2015-187-LB-30d-CS-ITS_S109_L001_R2_001.fastq.gz
+-rw-rw-r-- 1 mark mark 7042986 Sep  6 13:01 /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-188-LB-30d-CS-ITS_S110_L001_R1_001.fastq.gz
+-rw-rw-r-- 1 mark mark 8463077 Sep  6 13:01 /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-188-LB-30d-CS-ITS_S110_L001_R2_001.fastq.gz
+Started analysis of LALL-PD-KC2015-188-LB-30d-CS-ITS_S110_L001_R1_001.fastq.gz
+Approx 5% complete for LALL-PD-KC2015-188-LB-30d-CS-ITS_S110_L001_R1_001.fastq.gz
+Approx 10% complete for LALL-PD-KC2015-188-LB-30d-CS-ITS_S110_L001_R1_001.fastq.gz
+Approx 15% complete for LALL-PD-KC2015-188-LB-30d-CS-ITS_S110_L001_R1_001.fastq.gz
+Approx 20% complete for LALL-PD-KC2015-188-LB-30d-CS-ITS_S110_L001_R1_001.fastq.gz
+Approx 25% complete for LALL-PD-KC2015-188-LB-30d-CS-ITS_S110_L001_R1_001.fastq.gz
+Approx 30% complete for LALL-PD-KC2015-188-LB-30d-CS-ITS_S110_L001_R1_001.fastq.gz
+Approx 35% complete for LALL-PD-KC2015-188-LB-30d-CS-ITS_S110_L001_R1_001.fastq.gz
+Started analysis of LALL-PD-KC2015-188-LB-30d-CS-ITS_S110_L001_R2_001.fastq.gz
+Approx 40% complete for LALL-PD-KC2015-188-LB-30d-CS-ITS_S110_L001_R1_001.fastq.gz
+Approx 5% complete for LALL-PD-KC2015-188-LB-30d-CS-ITS_S110_L001_R2_001.fastq.gz
+Approx 45% complete for LALL-PD-KC2015-188-LB-30d-CS-ITS_S110_L001_R1_001.fastq.gz
+Approx 50% complete for LALL-PD-KC2015-188-LB-30d-CS-ITS_S110_L001_R1_001.fastq.gz
+Approx 10% complete for LALL-PD-KC2015-188-LB-30d-CS-ITS_S110_L001_R2_001.fastq.gz
+Approx 55% complete for LALL-PD-KC2015-188-LB-30d-CS-ITS_S110_L001_R1_001.fastq.gz
+Approx 15% complete for LALL-PD-KC2015-188-LB-30d-CS-ITS_S110_L001_R2_001.fastq.gz
+Approx 60% complete for LALL-PD-KC2015-188-LB-30d-CS-ITS_S110_L001_R1_001.fastq.gz
+Approx 20% complete for LALL-PD-KC2015-188-LB-30d-CS-ITS_S110_L001_R2_001.fastq.gz
+Approx 65% complete for LALL-PD-KC2015-188-LB-30d-CS-ITS_S110_L001_R1_001.fastq.gz
+Approx 25% complete for LALL-PD-KC2015-188-LB-30d-CS-ITS_S110_L001_R2_001.fastq.gz
+Approx 70% complete for LALL-PD-KC2015-188-LB-30d-CS-ITS_S110_L001_R1_001.fastq.gz
+Approx 30% complete for LALL-PD-KC2015-188-LB-30d-CS-ITS_S110_L001_R2_001.fastq.gz
+Approx 75% complete for LALL-PD-KC2015-188-LB-30d-CS-ITS_S110_L001_R1_001.fastq.gz
+Approx 35% complete for LALL-PD-KC2015-188-LB-30d-CS-ITS_S110_L001_R2_001.fastq.gz
+Approx 80% complete for LALL-PD-KC2015-188-LB-30d-CS-ITS_S110_L001_R1_001.fastq.gz
+Approx 40% complete for LALL-PD-KC2015-188-LB-30d-CS-ITS_S110_L001_R2_001.fastq.gz
+Approx 85% complete for LALL-PD-KC2015-188-LB-30d-CS-ITS_S110_L001_R1_001.fastq.gz
+Approx 45% complete for LALL-PD-KC2015-188-LB-30d-CS-ITS_S110_L001_R2_001.fastq.gz
+Approx 90% complete for LALL-PD-KC2015-188-LB-30d-CS-ITS_S110_L001_R1_001.fastq.gz
+Approx 50% complete for LALL-PD-KC2015-188-LB-30d-CS-ITS_S110_L001_R2_001.fastq.gz
+Approx 95% complete for LALL-PD-KC2015-188-LB-30d-CS-ITS_S110_L001_R1_001.fastq.gz
+Approx 55% complete for LALL-PD-KC2015-188-LB-30d-CS-ITS_S110_L001_R2_001.fastq.gz
+Analysis complete for LALL-PD-KC2015-188-LB-30d-CS-ITS_S110_L001_R1_001.fastq.gz
+Approx 60% complete for LALL-PD-KC2015-188-LB-30d-CS-ITS_S110_L001_R2_001.fastq.gz
+Approx 65% complete for LALL-PD-KC2015-188-LB-30d-CS-ITS_S110_L001_R2_001.fastq.gz
+Approx 70% complete for LALL-PD-KC2015-188-LB-30d-CS-ITS_S110_L001_R2_001.fastq.gz
+Approx 75% complete for LALL-PD-KC2015-188-LB-30d-CS-ITS_S110_L001_R2_001.fastq.gz
+Approx 80% complete for LALL-PD-KC2015-188-LB-30d-CS-ITS_S110_L001_R2_001.fastq.gz
+Approx 85% complete for LALL-PD-KC2015-188-LB-30d-CS-ITS_S110_L001_R2_001.fastq.gz
+Approx 90% complete for LALL-PD-KC2015-188-LB-30d-CS-ITS_S110_L001_R2_001.fastq.gz
+Approx 95% complete for LALL-PD-KC2015-188-LB-30d-CS-ITS_S110_L001_R2_001.fastq.gz
+Analysis complete for LALL-PD-KC2015-188-LB-30d-CS-ITS_S110_L001_R2_001.fastq.gz
+-rw-rw-r-- 1 mark mark 4982982 Sep  6 13:01 /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-191-Control-112d-CS-ITS_S111_L001_R1_001.fastq.gz
+-rw-rw-r-- 1 mark mark 5752319 Sep  6 13:01 /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-191-Control-112d-CS-ITS_S111_L001_R2_001.fastq.gz
+Started analysis of LALL-PD-KC2015-191-Control-112d-CS-ITS_S111_L001_R1_001.fastq.gz
+Approx 5% complete for LALL-PD-KC2015-191-Control-112d-CS-ITS_S111_L001_R1_001.fastq.gz
+Approx 10% complete for LALL-PD-KC2015-191-Control-112d-CS-ITS_S111_L001_R1_001.fastq.gz
+Approx 15% complete for LALL-PD-KC2015-191-Control-112d-CS-ITS_S111_L001_R1_001.fastq.gz
+Approx 20% complete for LALL-PD-KC2015-191-Control-112d-CS-ITS_S111_L001_R1_001.fastq.gz
+Approx 25% complete for LALL-PD-KC2015-191-Control-112d-CS-ITS_S111_L001_R1_001.fastq.gz
+Approx 30% complete for LALL-PD-KC2015-191-Control-112d-CS-ITS_S111_L001_R1_001.fastq.gz
+Approx 35% complete for LALL-PD-KC2015-191-Control-112d-CS-ITS_S111_L001_R1_001.fastq.gz
+Approx 40% complete for LALL-PD-KC2015-191-Control-112d-CS-ITS_S111_L001_R1_001.fastq.gz
+Approx 45% complete for LALL-PD-KC2015-191-Control-112d-CS-ITS_S111_L001_R1_001.fastq.gz
+Approx 50% complete for LALL-PD-KC2015-191-Control-112d-CS-ITS_S111_L001_R1_001.fastq.gz
+Started analysis of LALL-PD-KC2015-191-Control-112d-CS-ITS_S111_L001_R2_001.fastq.gz
+Approx 5% complete for LALL-PD-KC2015-191-Control-112d-CS-ITS_S111_L001_R2_001.fastq.gz
+Approx 55% complete for LALL-PD-KC2015-191-Control-112d-CS-ITS_S111_L001_R1_001.fastq.gz
+Approx 10% complete for LALL-PD-KC2015-191-Control-112d-CS-ITS_S111_L001_R2_001.fastq.gz
+Approx 60% complete for LALL-PD-KC2015-191-Control-112d-CS-ITS_S111_L001_R1_001.fastq.gz
+Approx 15% complete for LALL-PD-KC2015-191-Control-112d-CS-ITS_S111_L001_R2_001.fastq.gz
+Approx 65% complete for LALL-PD-KC2015-191-Control-112d-CS-ITS_S111_L001_R1_001.fastq.gz
+Approx 20% complete for LALL-PD-KC2015-191-Control-112d-CS-ITS_S111_L001_R2_001.fastq.gz
+Approx 70% complete for LALL-PD-KC2015-191-Control-112d-CS-ITS_S111_L001_R1_001.fastq.gz
+Approx 25% complete for LALL-PD-KC2015-191-Control-112d-CS-ITS_S111_L001_R2_001.fastq.gz
+Approx 75% complete for LALL-PD-KC2015-191-Control-112d-CS-ITS_S111_L001_R1_001.fastq.gz
+Approx 30% complete for LALL-PD-KC2015-191-Control-112d-CS-ITS_S111_L001_R2_001.fastq.gz
+Approx 80% complete for LALL-PD-KC2015-191-Control-112d-CS-ITS_S111_L001_R1_001.fastq.gz
+Approx 35% complete for LALL-PD-KC2015-191-Control-112d-CS-ITS_S111_L001_R2_001.fastq.gz
+Approx 85% complete for LALL-PD-KC2015-191-Control-112d-CS-ITS_S111_L001_R1_001.fastq.gz
+Approx 90% complete for LALL-PD-KC2015-191-Control-112d-CS-ITS_S111_L001_R1_001.fastq.gz
+Approx 40% complete for LALL-PD-KC2015-191-Control-112d-CS-ITS_S111_L001_R2_001.fastq.gz
+Approx 45% complete for LALL-PD-KC2015-191-Control-112d-CS-ITS_S111_L001_R2_001.fastq.gz
+Approx 95% complete for LALL-PD-KC2015-191-Control-112d-CS-ITS_S111_L001_R1_001.fastq.gz
+Approx 50% complete for LALL-PD-KC2015-191-Control-112d-CS-ITS_S111_L001_R2_001.fastq.gz
+Analysis complete for LALL-PD-KC2015-191-Control-112d-CS-ITS_S111_L001_R1_001.fastq.gz
+Approx 55% complete for LALL-PD-KC2015-191-Control-112d-CS-ITS_S111_L001_R2_001.fastq.gz
+Approx 60% complete for LALL-PD-KC2015-191-Control-112d-CS-ITS_S111_L001_R2_001.fastq.gz
+Approx 65% complete for LALL-PD-KC2015-191-Control-112d-CS-ITS_S111_L001_R2_001.fastq.gz
+Approx 70% complete for LALL-PD-KC2015-191-Control-112d-CS-ITS_S111_L001_R2_001.fastq.gz
+Approx 75% complete for LALL-PD-KC2015-191-Control-112d-CS-ITS_S111_L001_R2_001.fastq.gz
+Approx 80% complete for LALL-PD-KC2015-191-Control-112d-CS-ITS_S111_L001_R2_001.fastq.gz
+Approx 85% complete for LALL-PD-KC2015-191-Control-112d-CS-ITS_S111_L001_R2_001.fastq.gz
+Approx 90% complete for LALL-PD-KC2015-191-Control-112d-CS-ITS_S111_L001_R2_001.fastq.gz
+Approx 95% complete for LALL-PD-KC2015-191-Control-112d-CS-ITS_S111_L001_R2_001.fastq.gz
+Analysis complete for LALL-PD-KC2015-191-Control-112d-CS-ITS_S111_L001_R2_001.fastq.gz
+-rw-rw-r-- 1 mark mark 6166673 Sep  6 13:01 /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-192-Control-112d-CS-ITS_S112_L001_R1_001.fastq.gz
+-rw-rw-r-- 1 mark mark 7330209 Sep  6 13:01 /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-192-Control-112d-CS-ITS_S112_L001_R2_001.fastq.gz
+Started analysis of LALL-PD-KC2015-192-Control-112d-CS-ITS_S112_L001_R1_001.fastq.gz
+Approx 5% complete for LALL-PD-KC2015-192-Control-112d-CS-ITS_S112_L001_R1_001.fastq.gz
+Approx 10% complete for LALL-PD-KC2015-192-Control-112d-CS-ITS_S112_L001_R1_001.fastq.gz
+Approx 15% complete for LALL-PD-KC2015-192-Control-112d-CS-ITS_S112_L001_R1_001.fastq.gz
+Approx 20% complete for LALL-PD-KC2015-192-Control-112d-CS-ITS_S112_L001_R1_001.fastq.gz
+Approx 25% complete for LALL-PD-KC2015-192-Control-112d-CS-ITS_S112_L001_R1_001.fastq.gz
+Approx 30% complete for LALL-PD-KC2015-192-Control-112d-CS-ITS_S112_L001_R1_001.fastq.gz
+Approx 35% complete for LALL-PD-KC2015-192-Control-112d-CS-ITS_S112_L001_R1_001.fastq.gz
+Approx 40% complete for LALL-PD-KC2015-192-Control-112d-CS-ITS_S112_L001_R1_001.fastq.gz
+Started analysis of LALL-PD-KC2015-192-Control-112d-CS-ITS_S112_L001_R2_001.fastq.gz
+Approx 45% complete for LALL-PD-KC2015-192-Control-112d-CS-ITS_S112_L001_R1_001.fastq.gz
+Approx 5% complete for LALL-PD-KC2015-192-Control-112d-CS-ITS_S112_L001_R2_001.fastq.gz
+Approx 50% complete for LALL-PD-KC2015-192-Control-112d-CS-ITS_S112_L001_R1_001.fastq.gz
+Approx 10% complete for LALL-PD-KC2015-192-Control-112d-CS-ITS_S112_L001_R2_001.fastq.gz
+Approx 55% complete for LALL-PD-KC2015-192-Control-112d-CS-ITS_S112_L001_R1_001.fastq.gz
+Approx 60% complete for LALL-PD-KC2015-192-Control-112d-CS-ITS_S112_L001_R1_001.fastq.gz
+Approx 15% complete for LALL-PD-KC2015-192-Control-112d-CS-ITS_S112_L001_R2_001.fastq.gz
+Approx 65% complete for LALL-PD-KC2015-192-Control-112d-CS-ITS_S112_L001_R1_001.fastq.gz
+Approx 20% complete for LALL-PD-KC2015-192-Control-112d-CS-ITS_S112_L001_R2_001.fastq.gz
+Approx 70% complete for LALL-PD-KC2015-192-Control-112d-CS-ITS_S112_L001_R1_001.fastq.gz
+Approx 25% complete for LALL-PD-KC2015-192-Control-112d-CS-ITS_S112_L001_R2_001.fastq.gz
+Approx 75% complete for LALL-PD-KC2015-192-Control-112d-CS-ITS_S112_L001_R1_001.fastq.gz
+Approx 30% complete for LALL-PD-KC2015-192-Control-112d-CS-ITS_S112_L001_R2_001.fastq.gz
+Approx 80% complete for LALL-PD-KC2015-192-Control-112d-CS-ITS_S112_L001_R1_001.fastq.gz
+Approx 35% complete for LALL-PD-KC2015-192-Control-112d-CS-ITS_S112_L001_R2_001.fastq.gz
+Approx 85% complete for LALL-PD-KC2015-192-Control-112d-CS-ITS_S112_L001_R1_001.fastq.gz
+Approx 40% complete for LALL-PD-KC2015-192-Control-112d-CS-ITS_S112_L001_R2_001.fastq.gz
+Approx 90% complete for LALL-PD-KC2015-192-Control-112d-CS-ITS_S112_L001_R1_001.fastq.gz
+Approx 45% complete for LALL-PD-KC2015-192-Control-112d-CS-ITS_S112_L001_R2_001.fastq.gz
+Approx 95% complete for LALL-PD-KC2015-192-Control-112d-CS-ITS_S112_L001_R1_001.fastq.gz
+Approx 50% complete for LALL-PD-KC2015-192-Control-112d-CS-ITS_S112_L001_R2_001.fastq.gz
+Analysis complete for LALL-PD-KC2015-192-Control-112d-CS-ITS_S112_L001_R1_001.fastq.gz
+Approx 55% complete for LALL-PD-KC2015-192-Control-112d-CS-ITS_S112_L001_R2_001.fastq.gz
+Approx 60% complete for LALL-PD-KC2015-192-Control-112d-CS-ITS_S112_L001_R2_001.fastq.gz
+Approx 65% complete for LALL-PD-KC2015-192-Control-112d-CS-ITS_S112_L001_R2_001.fastq.gz
+Approx 70% complete for LALL-PD-KC2015-192-Control-112d-CS-ITS_S112_L001_R2_001.fastq.gz
+Approx 75% complete for LALL-PD-KC2015-192-Control-112d-CS-ITS_S112_L001_R2_001.fastq.gz
+Approx 80% complete for LALL-PD-KC2015-192-Control-112d-CS-ITS_S112_L001_R2_001.fastq.gz
+Approx 85% complete for LALL-PD-KC2015-192-Control-112d-CS-ITS_S112_L001_R2_001.fastq.gz
+Approx 90% complete for LALL-PD-KC2015-192-Control-112d-CS-ITS_S112_L001_R2_001.fastq.gz
+Approx 95% complete for LALL-PD-KC2015-192-Control-112d-CS-ITS_S112_L001_R2_001.fastq.gz
+Analysis complete for LALL-PD-KC2015-192-Control-112d-CS-ITS_S112_L001_R2_001.fastq.gz
+-rw-rw-r-- 1 mark mark 6124830 Sep  6 13:01 /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-193-Control-112d-CS-ITS_S113_L001_R1_001.fastq.gz
+-rw-rw-r-- 1 mark mark 7023600 Sep  6 13:01 /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-193-Control-112d-CS-ITS_S113_L001_R2_001.fastq.gz
+Started analysis of LALL-PD-KC2015-193-Control-112d-CS-ITS_S113_L001_R1_001.fastq.gz
+Approx 5% complete for LALL-PD-KC2015-193-Control-112d-CS-ITS_S113_L001_R1_001.fastq.gz
+Approx 10% complete for LALL-PD-KC2015-193-Control-112d-CS-ITS_S113_L001_R1_001.fastq.gz
+Approx 15% complete for LALL-PD-KC2015-193-Control-112d-CS-ITS_S113_L001_R1_001.fastq.gz
+Approx 20% complete for LALL-PD-KC2015-193-Control-112d-CS-ITS_S113_L001_R1_001.fastq.gz
+Approx 25% complete for LALL-PD-KC2015-193-Control-112d-CS-ITS_S113_L001_R1_001.fastq.gz
+Approx 30% complete for LALL-PD-KC2015-193-Control-112d-CS-ITS_S113_L001_R1_001.fastq.gz
+Approx 35% complete for LALL-PD-KC2015-193-Control-112d-CS-ITS_S113_L001_R1_001.fastq.gz
+Approx 40% complete for LALL-PD-KC2015-193-Control-112d-CS-ITS_S113_L001_R1_001.fastq.gz
+Started analysis of LALL-PD-KC2015-193-Control-112d-CS-ITS_S113_L001_R2_001.fastq.gz
+Approx 45% complete for LALL-PD-KC2015-193-Control-112d-CS-ITS_S113_L001_R1_001.fastq.gz
+Approx 50% complete for LALL-PD-KC2015-193-Control-112d-CS-ITS_S113_L001_R1_001.fastq.gz
+Approx 5% complete for LALL-PD-KC2015-193-Control-112d-CS-ITS_S113_L001_R2_001.fastq.gz
+Approx 55% complete for LALL-PD-KC2015-193-Control-112d-CS-ITS_S113_L001_R1_001.fastq.gz
+Approx 10% complete for LALL-PD-KC2015-193-Control-112d-CS-ITS_S113_L001_R2_001.fastq.gz
+Approx 60% complete for LALL-PD-KC2015-193-Control-112d-CS-ITS_S113_L001_R1_001.fastq.gz
+Approx 15% complete for LALL-PD-KC2015-193-Control-112d-CS-ITS_S113_L001_R2_001.fastq.gz
+Approx 65% complete for LALL-PD-KC2015-193-Control-112d-CS-ITS_S113_L001_R1_001.fastq.gz
+Approx 20% complete for LALL-PD-KC2015-193-Control-112d-CS-ITS_S113_L001_R2_001.fastq.gz
+Approx 70% complete for LALL-PD-KC2015-193-Control-112d-CS-ITS_S113_L001_R1_001.fastq.gz
+Approx 25% complete for LALL-PD-KC2015-193-Control-112d-CS-ITS_S113_L001_R2_001.fastq.gz
+Approx 75% complete for LALL-PD-KC2015-193-Control-112d-CS-ITS_S113_L001_R1_001.fastq.gz
+Approx 30% complete for LALL-PD-KC2015-193-Control-112d-CS-ITS_S113_L001_R2_001.fastq.gz
+Approx 80% complete for LALL-PD-KC2015-193-Control-112d-CS-ITS_S113_L001_R1_001.fastq.gz
+Approx 35% complete for LALL-PD-KC2015-193-Control-112d-CS-ITS_S113_L001_R2_001.fastq.gz
+Approx 85% complete for LALL-PD-KC2015-193-Control-112d-CS-ITS_S113_L001_R1_001.fastq.gz
+Approx 40% complete for LALL-PD-KC2015-193-Control-112d-CS-ITS_S113_L001_R2_001.fastq.gz
+Approx 90% complete for LALL-PD-KC2015-193-Control-112d-CS-ITS_S113_L001_R1_001.fastq.gz
+Approx 45% complete for LALL-PD-KC2015-193-Control-112d-CS-ITS_S113_L001_R2_001.fastq.gz
+Approx 95% complete for LALL-PD-KC2015-193-Control-112d-CS-ITS_S113_L001_R1_001.fastq.gz
+Approx 50% complete for LALL-PD-KC2015-193-Control-112d-CS-ITS_S113_L001_R2_001.fastq.gz
+Analysis complete for LALL-PD-KC2015-193-Control-112d-CS-ITS_S113_L001_R1_001.fastq.gz
+Approx 55% complete for LALL-PD-KC2015-193-Control-112d-CS-ITS_S113_L001_R2_001.fastq.gz
+Approx 60% complete for LALL-PD-KC2015-193-Control-112d-CS-ITS_S113_L001_R2_001.fastq.gz
+Approx 65% complete for LALL-PD-KC2015-193-Control-112d-CS-ITS_S113_L001_R2_001.fastq.gz
+Approx 70% complete for LALL-PD-KC2015-193-Control-112d-CS-ITS_S113_L001_R2_001.fastq.gz
+Approx 75% complete for LALL-PD-KC2015-193-Control-112d-CS-ITS_S113_L001_R2_001.fastq.gz
+Approx 80% complete for LALL-PD-KC2015-193-Control-112d-CS-ITS_S113_L001_R2_001.fastq.gz
+Approx 85% complete for LALL-PD-KC2015-193-Control-112d-CS-ITS_S113_L001_R2_001.fastq.gz
+Approx 90% complete for LALL-PD-KC2015-193-Control-112d-CS-ITS_S113_L001_R2_001.fastq.gz
+Approx 95% complete for LALL-PD-KC2015-193-Control-112d-CS-ITS_S113_L001_R2_001.fastq.gz
+Analysis complete for LALL-PD-KC2015-193-Control-112d-CS-ITS_S113_L001_R2_001.fastq.gz
+-rw-rw-r-- 1 mark mark 7097104 Sep  6 13:01 /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-196-LH-112d-CS-ITS_S114_L001_R1_001.fastq.gz
+-rw-rw-r-- 1 mark mark 8175007 Sep  6 13:01 /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-196-LH-112d-CS-ITS_S114_L001_R2_001.fastq.gz
+Started analysis of LALL-PD-KC2015-196-LH-112d-CS-ITS_S114_L001_R1_001.fastq.gz
+Approx 5% complete for LALL-PD-KC2015-196-LH-112d-CS-ITS_S114_L001_R1_001.fastq.gz
+Approx 10% complete for LALL-PD-KC2015-196-LH-112d-CS-ITS_S114_L001_R1_001.fastq.gz
+Approx 15% complete for LALL-PD-KC2015-196-LH-112d-CS-ITS_S114_L001_R1_001.fastq.gz
+Approx 20% complete for LALL-PD-KC2015-196-LH-112d-CS-ITS_S114_L001_R1_001.fastq.gz
+Approx 25% complete for LALL-PD-KC2015-196-LH-112d-CS-ITS_S114_L001_R1_001.fastq.gz
+Approx 30% complete for LALL-PD-KC2015-196-LH-112d-CS-ITS_S114_L001_R1_001.fastq.gz
+Approx 35% complete for LALL-PD-KC2015-196-LH-112d-CS-ITS_S114_L001_R1_001.fastq.gz
+Started analysis of LALL-PD-KC2015-196-LH-112d-CS-ITS_S114_L001_R2_001.fastq.gz
+Approx 40% complete for LALL-PD-KC2015-196-LH-112d-CS-ITS_S114_L001_R1_001.fastq.gz
+Approx 5% complete for LALL-PD-KC2015-196-LH-112d-CS-ITS_S114_L001_R2_001.fastq.gz
+Approx 45% complete for LALL-PD-KC2015-196-LH-112d-CS-ITS_S114_L001_R1_001.fastq.gz
+Approx 50% complete for LALL-PD-KC2015-196-LH-112d-CS-ITS_S114_L001_R1_001.fastq.gz
+Approx 10% complete for LALL-PD-KC2015-196-LH-112d-CS-ITS_S114_L001_R2_001.fastq.gz
+Approx 55% complete for LALL-PD-KC2015-196-LH-112d-CS-ITS_S114_L001_R1_001.fastq.gz
+Approx 15% complete for LALL-PD-KC2015-196-LH-112d-CS-ITS_S114_L001_R2_001.fastq.gz
+Approx 60% complete for LALL-PD-KC2015-196-LH-112d-CS-ITS_S114_L001_R1_001.fastq.gz
+Approx 20% complete for LALL-PD-KC2015-196-LH-112d-CS-ITS_S114_L001_R2_001.fastq.gz
+Approx 25% complete for LALL-PD-KC2015-196-LH-112d-CS-ITS_S114_L001_R2_001.fastq.gz
+Approx 65% complete for LALL-PD-KC2015-196-LH-112d-CS-ITS_S114_L001_R1_001.fastq.gz
+Approx 70% complete for LALL-PD-KC2015-196-LH-112d-CS-ITS_S114_L001_R1_001.fastq.gz
+Approx 30% complete for LALL-PD-KC2015-196-LH-112d-CS-ITS_S114_L001_R2_001.fastq.gz
+Approx 75% complete for LALL-PD-KC2015-196-LH-112d-CS-ITS_S114_L001_R1_001.fastq.gz
+Approx 35% complete for LALL-PD-KC2015-196-LH-112d-CS-ITS_S114_L001_R2_001.fastq.gz
+Approx 80% complete for LALL-PD-KC2015-196-LH-112d-CS-ITS_S114_L001_R1_001.fastq.gz
+Approx 40% complete for LALL-PD-KC2015-196-LH-112d-CS-ITS_S114_L001_R2_001.fastq.gz
+Approx 85% complete for LALL-PD-KC2015-196-LH-112d-CS-ITS_S114_L001_R1_001.fastq.gz
+Approx 45% complete for LALL-PD-KC2015-196-LH-112d-CS-ITS_S114_L001_R2_001.fastq.gz
+Approx 90% complete for LALL-PD-KC2015-196-LH-112d-CS-ITS_S114_L001_R1_001.fastq.gz
+Approx 50% complete for LALL-PD-KC2015-196-LH-112d-CS-ITS_S114_L001_R2_001.fastq.gz
+Approx 95% complete for LALL-PD-KC2015-196-LH-112d-CS-ITS_S114_L001_R1_001.fastq.gz
+Approx 55% complete for LALL-PD-KC2015-196-LH-112d-CS-ITS_S114_L001_R2_001.fastq.gz
+Analysis complete for LALL-PD-KC2015-196-LH-112d-CS-ITS_S114_L001_R1_001.fastq.gz
+Approx 60% complete for LALL-PD-KC2015-196-LH-112d-CS-ITS_S114_L001_R2_001.fastq.gz
+Approx 65% complete for LALL-PD-KC2015-196-LH-112d-CS-ITS_S114_L001_R2_001.fastq.gz
+Approx 70% complete for LALL-PD-KC2015-196-LH-112d-CS-ITS_S114_L001_R2_001.fastq.gz
+Approx 75% complete for LALL-PD-KC2015-196-LH-112d-CS-ITS_S114_L001_R2_001.fastq.gz
+Approx 80% complete for LALL-PD-KC2015-196-LH-112d-CS-ITS_S114_L001_R2_001.fastq.gz
+Approx 85% complete for LALL-PD-KC2015-196-LH-112d-CS-ITS_S114_L001_R2_001.fastq.gz
+Approx 90% complete for LALL-PD-KC2015-196-LH-112d-CS-ITS_S114_L001_R2_001.fastq.gz
+Approx 95% complete for LALL-PD-KC2015-196-LH-112d-CS-ITS_S114_L001_R2_001.fastq.gz
+Analysis complete for LALL-PD-KC2015-196-LH-112d-CS-ITS_S114_L001_R2_001.fastq.gz
+-rw-rw-r-- 1 mark mark 4851355 Sep  6 13:01 /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-197-LH-112d-CS-ITS_S115_L001_R1_001.fastq.gz
+-rw-rw-r-- 1 mark mark 5735195 Sep  6 13:02 /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-197-LH-112d-CS-ITS_S115_L001_R2_001.fastq.gz
+Started analysis of LALL-PD-KC2015-197-LH-112d-CS-ITS_S115_L001_R1_001.fastq.gz
+Approx 5% complete for LALL-PD-KC2015-197-LH-112d-CS-ITS_S115_L001_R1_001.fastq.gz
+Approx 10% complete for LALL-PD-KC2015-197-LH-112d-CS-ITS_S115_L001_R1_001.fastq.gz
+Approx 15% complete for LALL-PD-KC2015-197-LH-112d-CS-ITS_S115_L001_R1_001.fastq.gz
+Approx 20% complete for LALL-PD-KC2015-197-LH-112d-CS-ITS_S115_L001_R1_001.fastq.gz
+Approx 25% complete for LALL-PD-KC2015-197-LH-112d-CS-ITS_S115_L001_R1_001.fastq.gz
+Approx 30% complete for LALL-PD-KC2015-197-LH-112d-CS-ITS_S115_L001_R1_001.fastq.gz
+Approx 35% complete for LALL-PD-KC2015-197-LH-112d-CS-ITS_S115_L001_R1_001.fastq.gz
+Approx 40% complete for LALL-PD-KC2015-197-LH-112d-CS-ITS_S115_L001_R1_001.fastq.gz
+Approx 45% complete for LALL-PD-KC2015-197-LH-112d-CS-ITS_S115_L001_R1_001.fastq.gz
+Approx 50% complete for LALL-PD-KC2015-197-LH-112d-CS-ITS_S115_L001_R1_001.fastq.gz
+Started analysis of LALL-PD-KC2015-197-LH-112d-CS-ITS_S115_L001_R2_001.fastq.gz
+Approx 55% complete for LALL-PD-KC2015-197-LH-112d-CS-ITS_S115_L001_R1_001.fastq.gz
+Approx 5% complete for LALL-PD-KC2015-197-LH-112d-CS-ITS_S115_L001_R2_001.fastq.gz
+Approx 60% complete for LALL-PD-KC2015-197-LH-112d-CS-ITS_S115_L001_R1_001.fastq.gz
+Approx 10% complete for LALL-PD-KC2015-197-LH-112d-CS-ITS_S115_L001_R2_001.fastq.gz
+Approx 65% complete for LALL-PD-KC2015-197-LH-112d-CS-ITS_S115_L001_R1_001.fastq.gz
+Approx 15% complete for LALL-PD-KC2015-197-LH-112d-CS-ITS_S115_L001_R2_001.fastq.gz
+Approx 70% complete for LALL-PD-KC2015-197-LH-112d-CS-ITS_S115_L001_R1_001.fastq.gz
+Approx 20% complete for LALL-PD-KC2015-197-LH-112d-CS-ITS_S115_L001_R2_001.fastq.gz
+Approx 75% complete for LALL-PD-KC2015-197-LH-112d-CS-ITS_S115_L001_R1_001.fastq.gz
+Approx 25% complete for LALL-PD-KC2015-197-LH-112d-CS-ITS_S115_L001_R2_001.fastq.gz
+Approx 80% complete for LALL-PD-KC2015-197-LH-112d-CS-ITS_S115_L001_R1_001.fastq.gz
+Approx 30% complete for LALL-PD-KC2015-197-LH-112d-CS-ITS_S115_L001_R2_001.fastq.gz
+Approx 85% complete for LALL-PD-KC2015-197-LH-112d-CS-ITS_S115_L001_R1_001.fastq.gz
+Approx 35% complete for LALL-PD-KC2015-197-LH-112d-CS-ITS_S115_L001_R2_001.fastq.gz
+Approx 90% complete for LALL-PD-KC2015-197-LH-112d-CS-ITS_S115_L001_R1_001.fastq.gz
+Approx 40% complete for LALL-PD-KC2015-197-LH-112d-CS-ITS_S115_L001_R2_001.fastq.gz
+Approx 95% complete for LALL-PD-KC2015-197-LH-112d-CS-ITS_S115_L001_R1_001.fastq.gz
+Approx 45% complete for LALL-PD-KC2015-197-LH-112d-CS-ITS_S115_L001_R2_001.fastq.gz
+Analysis complete for LALL-PD-KC2015-197-LH-112d-CS-ITS_S115_L001_R1_001.fastq.gz
+Approx 50% complete for LALL-PD-KC2015-197-LH-112d-CS-ITS_S115_L001_R2_001.fastq.gz
+Approx 55% complete for LALL-PD-KC2015-197-LH-112d-CS-ITS_S115_L001_R2_001.fastq.gz
+Approx 60% complete for LALL-PD-KC2015-197-LH-112d-CS-ITS_S115_L001_R2_001.fastq.gz
+Approx 65% complete for LALL-PD-KC2015-197-LH-112d-CS-ITS_S115_L001_R2_001.fastq.gz
+Approx 70% complete for LALL-PD-KC2015-197-LH-112d-CS-ITS_S115_L001_R2_001.fastq.gz
+Approx 75% complete for LALL-PD-KC2015-197-LH-112d-CS-ITS_S115_L001_R2_001.fastq.gz
+Approx 80% complete for LALL-PD-KC2015-197-LH-112d-CS-ITS_S115_L001_R2_001.fastq.gz
+Approx 85% complete for LALL-PD-KC2015-197-LH-112d-CS-ITS_S115_L001_R2_001.fastq.gz
+Approx 90% complete for LALL-PD-KC2015-197-LH-112d-CS-ITS_S115_L001_R2_001.fastq.gz
+Approx 95% complete for LALL-PD-KC2015-197-LH-112d-CS-ITS_S115_L001_R2_001.fastq.gz
+Analysis complete for LALL-PD-KC2015-197-LH-112d-CS-ITS_S115_L001_R2_001.fastq.gz
+-rw-rw-r-- 1 mark mark 6742950 Sep  6 13:02 /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-198-LH-112d-CS-ITS_S116_L001_R1_001.fastq.gz
+-rw-rw-r-- 1 mark mark 7690663 Sep  6 13:02 /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-198-LH-112d-CS-ITS_S116_L001_R2_001.fastq.gz
+Started analysis of LALL-PD-KC2015-198-LH-112d-CS-ITS_S116_L001_R1_001.fastq.gz
+Approx 5% complete for LALL-PD-KC2015-198-LH-112d-CS-ITS_S116_L001_R1_001.fastq.gz
+Approx 10% complete for LALL-PD-KC2015-198-LH-112d-CS-ITS_S116_L001_R1_001.fastq.gz
+Approx 15% complete for LALL-PD-KC2015-198-LH-112d-CS-ITS_S116_L001_R1_001.fastq.gz
+Approx 20% complete for LALL-PD-KC2015-198-LH-112d-CS-ITS_S116_L001_R1_001.fastq.gz
+Approx 25% complete for LALL-PD-KC2015-198-LH-112d-CS-ITS_S116_L001_R1_001.fastq.gz
+Approx 30% complete for LALL-PD-KC2015-198-LH-112d-CS-ITS_S116_L001_R1_001.fastq.gz
+Approx 35% complete for LALL-PD-KC2015-198-LH-112d-CS-ITS_S116_L001_R1_001.fastq.gz
+Started analysis of LALL-PD-KC2015-198-LH-112d-CS-ITS_S116_L001_R2_001.fastq.gz
+Approx 40% complete for LALL-PD-KC2015-198-LH-112d-CS-ITS_S116_L001_R1_001.fastq.gz
+Approx 45% complete for LALL-PD-KC2015-198-LH-112d-CS-ITS_S116_L001_R1_001.fastq.gz
+Approx 5% complete for LALL-PD-KC2015-198-LH-112d-CS-ITS_S116_L001_R2_001.fastq.gz
+Approx 50% complete for LALL-PD-KC2015-198-LH-112d-CS-ITS_S116_L001_R1_001.fastq.gz
+Approx 10% complete for LALL-PD-KC2015-198-LH-112d-CS-ITS_S116_L001_R2_001.fastq.gz
+Approx 55% complete for LALL-PD-KC2015-198-LH-112d-CS-ITS_S116_L001_R1_001.fastq.gz
+Approx 15% complete for LALL-PD-KC2015-198-LH-112d-CS-ITS_S116_L001_R2_001.fastq.gz
+Approx 60% complete for LALL-PD-KC2015-198-LH-112d-CS-ITS_S116_L001_R1_001.fastq.gz
+Approx 20% complete for LALL-PD-KC2015-198-LH-112d-CS-ITS_S116_L001_R2_001.fastq.gz
+Approx 65% complete for LALL-PD-KC2015-198-LH-112d-CS-ITS_S116_L001_R1_001.fastq.gz
+Approx 25% complete for LALL-PD-KC2015-198-LH-112d-CS-ITS_S116_L001_R2_001.fastq.gz
+Approx 70% complete for LALL-PD-KC2015-198-LH-112d-CS-ITS_S116_L001_R1_001.fastq.gz
+Approx 30% complete for LALL-PD-KC2015-198-LH-112d-CS-ITS_S116_L001_R2_001.fastq.gz
+Approx 75% complete for LALL-PD-KC2015-198-LH-112d-CS-ITS_S116_L001_R1_001.fastq.gz
+Approx 35% complete for LALL-PD-KC2015-198-LH-112d-CS-ITS_S116_L001_R2_001.fastq.gz
+Approx 80% complete for LALL-PD-KC2015-198-LH-112d-CS-ITS_S116_L001_R1_001.fastq.gz
+Approx 40% complete for LALL-PD-KC2015-198-LH-112d-CS-ITS_S116_L001_R2_001.fastq.gz
+Approx 85% complete for LALL-PD-KC2015-198-LH-112d-CS-ITS_S116_L001_R1_001.fastq.gz
+Approx 45% complete for LALL-PD-KC2015-198-LH-112d-CS-ITS_S116_L001_R2_001.fastq.gz
+Approx 90% complete for LALL-PD-KC2015-198-LH-112d-CS-ITS_S116_L001_R1_001.fastq.gz
+Approx 50% complete for LALL-PD-KC2015-198-LH-112d-CS-ITS_S116_L001_R2_001.fastq.gz
+Approx 95% complete for LALL-PD-KC2015-198-LH-112d-CS-ITS_S116_L001_R1_001.fastq.gz
+Approx 55% complete for LALL-PD-KC2015-198-LH-112d-CS-ITS_S116_L001_R2_001.fastq.gz
+Analysis complete for LALL-PD-KC2015-198-LH-112d-CS-ITS_S116_L001_R1_001.fastq.gz
+Approx 60% complete for LALL-PD-KC2015-198-LH-112d-CS-ITS_S116_L001_R2_001.fastq.gz
+Approx 65% complete for LALL-PD-KC2015-198-LH-112d-CS-ITS_S116_L001_R2_001.fastq.gz
+Approx 70% complete for LALL-PD-KC2015-198-LH-112d-CS-ITS_S116_L001_R2_001.fastq.gz
+Approx 75% complete for LALL-PD-KC2015-198-LH-112d-CS-ITS_S116_L001_R2_001.fastq.gz
+Approx 80% complete for LALL-PD-KC2015-198-LH-112d-CS-ITS_S116_L001_R2_001.fastq.gz
+Approx 85% complete for LALL-PD-KC2015-198-LH-112d-CS-ITS_S116_L001_R2_001.fastq.gz
+Approx 90% complete for LALL-PD-KC2015-198-LH-112d-CS-ITS_S116_L001_R2_001.fastq.gz
+Approx 95% complete for LALL-PD-KC2015-198-LH-112d-CS-ITS_S116_L001_R2_001.fastq.gz
+Analysis complete for LALL-PD-KC2015-198-LH-112d-CS-ITS_S116_L001_R2_001.fastq.gz
+-rw-rw-r-- 1 mark mark 8086366 Sep  6 13:02 /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-201-LH-LB-112d-CS-ITS_S117_L001_R1_001.fastq.gz
+-rw-rw-r-- 1 mark mark 9331217 Sep  6 13:02 /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-201-LH-LB-112d-CS-ITS_S117_L001_R2_001.fastq.gz
+Started analysis of LALL-PD-KC2015-201-LH-LB-112d-CS-ITS_S117_L001_R1_001.fastq.gz
+Approx 5% complete for LALL-PD-KC2015-201-LH-LB-112d-CS-ITS_S117_L001_R1_001.fastq.gz
+Approx 10% complete for LALL-PD-KC2015-201-LH-LB-112d-CS-ITS_S117_L001_R1_001.fastq.gz
+Approx 15% complete for LALL-PD-KC2015-201-LH-LB-112d-CS-ITS_S117_L001_R1_001.fastq.gz
+Approx 20% complete for LALL-PD-KC2015-201-LH-LB-112d-CS-ITS_S117_L001_R1_001.fastq.gz
+Approx 25% complete for LALL-PD-KC2015-201-LH-LB-112d-CS-ITS_S117_L001_R1_001.fastq.gz
+Approx 30% complete for LALL-PD-KC2015-201-LH-LB-112d-CS-ITS_S117_L001_R1_001.fastq.gz
+Started analysis of LALL-PD-KC2015-201-LH-LB-112d-CS-ITS_S117_L001_R2_001.fastq.gz
+Approx 35% complete for LALL-PD-KC2015-201-LH-LB-112d-CS-ITS_S117_L001_R1_001.fastq.gz
+Approx 5% complete for LALL-PD-KC2015-201-LH-LB-112d-CS-ITS_S117_L001_R2_001.fastq.gz
+Approx 40% complete for LALL-PD-KC2015-201-LH-LB-112d-CS-ITS_S117_L001_R1_001.fastq.gz
+Approx 45% complete for LALL-PD-KC2015-201-LH-LB-112d-CS-ITS_S117_L001_R1_001.fastq.gz
+Approx 10% complete for LALL-PD-KC2015-201-LH-LB-112d-CS-ITS_S117_L001_R2_001.fastq.gz
+Approx 50% complete for LALL-PD-KC2015-201-LH-LB-112d-CS-ITS_S117_L001_R1_001.fastq.gz
+Approx 15% complete for LALL-PD-KC2015-201-LH-LB-112d-CS-ITS_S117_L001_R2_001.fastq.gz
+Approx 55% complete for LALL-PD-KC2015-201-LH-LB-112d-CS-ITS_S117_L001_R1_001.fastq.gz
+Approx 20% complete for LALL-PD-KC2015-201-LH-LB-112d-CS-ITS_S117_L001_R2_001.fastq.gz
+Approx 60% complete for LALL-PD-KC2015-201-LH-LB-112d-CS-ITS_S117_L001_R1_001.fastq.gz
+Approx 25% complete for LALL-PD-KC2015-201-LH-LB-112d-CS-ITS_S117_L001_R2_001.fastq.gz
+Approx 65% complete for LALL-PD-KC2015-201-LH-LB-112d-CS-ITS_S117_L001_R1_001.fastq.gz
+Approx 30% complete for LALL-PD-KC2015-201-LH-LB-112d-CS-ITS_S117_L001_R2_001.fastq.gz
+Approx 70% complete for LALL-PD-KC2015-201-LH-LB-112d-CS-ITS_S117_L001_R1_001.fastq.gz
+Approx 35% complete for LALL-PD-KC2015-201-LH-LB-112d-CS-ITS_S117_L001_R2_001.fastq.gz
+Approx 75% complete for LALL-PD-KC2015-201-LH-LB-112d-CS-ITS_S117_L001_R1_001.fastq.gz
+Approx 40% complete for LALL-PD-KC2015-201-LH-LB-112d-CS-ITS_S117_L001_R2_001.fastq.gz
+Approx 80% complete for LALL-PD-KC2015-201-LH-LB-112d-CS-ITS_S117_L001_R1_001.fastq.gz
+Approx 45% complete for LALL-PD-KC2015-201-LH-LB-112d-CS-ITS_S117_L001_R2_001.fastq.gz
+Approx 85% complete for LALL-PD-KC2015-201-LH-LB-112d-CS-ITS_S117_L001_R1_001.fastq.gz
+Approx 50% complete for LALL-PD-KC2015-201-LH-LB-112d-CS-ITS_S117_L001_R2_001.fastq.gz
+Approx 90% complete for LALL-PD-KC2015-201-LH-LB-112d-CS-ITS_S117_L001_R1_001.fastq.gz
+Approx 55% complete for LALL-PD-KC2015-201-LH-LB-112d-CS-ITS_S117_L001_R2_001.fastq.gz
+Approx 95% complete for LALL-PD-KC2015-201-LH-LB-112d-CS-ITS_S117_L001_R1_001.fastq.gz
+Approx 60% complete for LALL-PD-KC2015-201-LH-LB-112d-CS-ITS_S117_L001_R2_001.fastq.gz
+Analysis complete for LALL-PD-KC2015-201-LH-LB-112d-CS-ITS_S117_L001_R1_001.fastq.gz
+Approx 65% complete for LALL-PD-KC2015-201-LH-LB-112d-CS-ITS_S117_L001_R2_001.fastq.gz
+Approx 70% complete for LALL-PD-KC2015-201-LH-LB-112d-CS-ITS_S117_L001_R2_001.fastq.gz
+Approx 75% complete for LALL-PD-KC2015-201-LH-LB-112d-CS-ITS_S117_L001_R2_001.fastq.gz
+Approx 80% complete for LALL-PD-KC2015-201-LH-LB-112d-CS-ITS_S117_L001_R2_001.fastq.gz
+Approx 85% complete for LALL-PD-KC2015-201-LH-LB-112d-CS-ITS_S117_L001_R2_001.fastq.gz
+Approx 90% complete for LALL-PD-KC2015-201-LH-LB-112d-CS-ITS_S117_L001_R2_001.fastq.gz
+Approx 95% complete for LALL-PD-KC2015-201-LH-LB-112d-CS-ITS_S117_L001_R2_001.fastq.gz
+Analysis complete for LALL-PD-KC2015-201-LH-LB-112d-CS-ITS_S117_L001_R2_001.fastq.gz
+-rw-rw-r-- 1 mark mark 6400906 Sep  6 13:02 /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-202-LH-LB-112d-CS-ITS_S118_L001_R1_001.fastq.gz
+-rw-rw-r-- 1 mark mark 7120208 Sep  6 13:02 /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-202-LH-LB-112d-CS-ITS_S118_L001_R2_001.fastq.gz
+Started analysis of LALL-PD-KC2015-202-LH-LB-112d-CS-ITS_S118_L001_R1_001.fastq.gz
+Approx 5% complete for LALL-PD-KC2015-202-LH-LB-112d-CS-ITS_S118_L001_R1_001.fastq.gz
+Approx 10% complete for LALL-PD-KC2015-202-LH-LB-112d-CS-ITS_S118_L001_R1_001.fastq.gz
+Approx 15% complete for LALL-PD-KC2015-202-LH-LB-112d-CS-ITS_S118_L001_R1_001.fastq.gz
+Approx 20% complete for LALL-PD-KC2015-202-LH-LB-112d-CS-ITS_S118_L001_R1_001.fastq.gz
+Approx 25% complete for LALL-PD-KC2015-202-LH-LB-112d-CS-ITS_S118_L001_R1_001.fastq.gz
+Approx 30% complete for LALL-PD-KC2015-202-LH-LB-112d-CS-ITS_S118_L001_R1_001.fastq.gz
+Approx 35% complete for LALL-PD-KC2015-202-LH-LB-112d-CS-ITS_S118_L001_R1_001.fastq.gz
+Approx 40% complete for LALL-PD-KC2015-202-LH-LB-112d-CS-ITS_S118_L001_R1_001.fastq.gz
+Started analysis of LALL-PD-KC2015-202-LH-LB-112d-CS-ITS_S118_L001_R2_001.fastq.gz
+Approx 45% complete for LALL-PD-KC2015-202-LH-LB-112d-CS-ITS_S118_L001_R1_001.fastq.gz
+Approx 5% complete for LALL-PD-KC2015-202-LH-LB-112d-CS-ITS_S118_L001_R2_001.fastq.gz
+Approx 50% complete for LALL-PD-KC2015-202-LH-LB-112d-CS-ITS_S118_L001_R1_001.fastq.gz
+Approx 10% complete for LALL-PD-KC2015-202-LH-LB-112d-CS-ITS_S118_L001_R2_001.fastq.gz
+Approx 55% complete for LALL-PD-KC2015-202-LH-LB-112d-CS-ITS_S118_L001_R1_001.fastq.gz
+Approx 15% complete for LALL-PD-KC2015-202-LH-LB-112d-CS-ITS_S118_L001_R2_001.fastq.gz
+Approx 60% complete for LALL-PD-KC2015-202-LH-LB-112d-CS-ITS_S118_L001_R1_001.fastq.gz
+Approx 65% complete for LALL-PD-KC2015-202-LH-LB-112d-CS-ITS_S118_L001_R1_001.fastq.gz
+Approx 20% complete for LALL-PD-KC2015-202-LH-LB-112d-CS-ITS_S118_L001_R2_001.fastq.gz
+Approx 70% complete for LALL-PD-KC2015-202-LH-LB-112d-CS-ITS_S118_L001_R1_001.fastq.gz
+Approx 25% complete for LALL-PD-KC2015-202-LH-LB-112d-CS-ITS_S118_L001_R2_001.fastq.gz
+Approx 75% complete for LALL-PD-KC2015-202-LH-LB-112d-CS-ITS_S118_L001_R1_001.fastq.gz
+Approx 30% complete for LALL-PD-KC2015-202-LH-LB-112d-CS-ITS_S118_L001_R2_001.fastq.gz
+Approx 80% complete for LALL-PD-KC2015-202-LH-LB-112d-CS-ITS_S118_L001_R1_001.fastq.gz
+Approx 35% complete for LALL-PD-KC2015-202-LH-LB-112d-CS-ITS_S118_L001_R2_001.fastq.gz
+Approx 85% complete for LALL-PD-KC2015-202-LH-LB-112d-CS-ITS_S118_L001_R1_001.fastq.gz
+Approx 40% complete for LALL-PD-KC2015-202-LH-LB-112d-CS-ITS_S118_L001_R2_001.fastq.gz
+Approx 90% complete for LALL-PD-KC2015-202-LH-LB-112d-CS-ITS_S118_L001_R1_001.fastq.gz
+Approx 45% complete for LALL-PD-KC2015-202-LH-LB-112d-CS-ITS_S118_L001_R2_001.fastq.gz
+Approx 95% complete for LALL-PD-KC2015-202-LH-LB-112d-CS-ITS_S118_L001_R1_001.fastq.gz
+Approx 50% complete for LALL-PD-KC2015-202-LH-LB-112d-CS-ITS_S118_L001_R2_001.fastq.gz
+Analysis complete for LALL-PD-KC2015-202-LH-LB-112d-CS-ITS_S118_L001_R1_001.fastq.gz
+Approx 55% complete for LALL-PD-KC2015-202-LH-LB-112d-CS-ITS_S118_L001_R2_001.fastq.gz
+Approx 60% complete for LALL-PD-KC2015-202-LH-LB-112d-CS-ITS_S118_L001_R2_001.fastq.gz
+Approx 65% complete for LALL-PD-KC2015-202-LH-LB-112d-CS-ITS_S118_L001_R2_001.fastq.gz
+Approx 70% complete for LALL-PD-KC2015-202-LH-LB-112d-CS-ITS_S118_L001_R2_001.fastq.gz
+Approx 75% complete for LALL-PD-KC2015-202-LH-LB-112d-CS-ITS_S118_L001_R2_001.fastq.gz
+Approx 80% complete for LALL-PD-KC2015-202-LH-LB-112d-CS-ITS_S118_L001_R2_001.fastq.gz
+Approx 85% complete for LALL-PD-KC2015-202-LH-LB-112d-CS-ITS_S118_L001_R2_001.fastq.gz
+Approx 90% complete for LALL-PD-KC2015-202-LH-LB-112d-CS-ITS_S118_L001_R2_001.fastq.gz
+Approx 95% complete for LALL-PD-KC2015-202-LH-LB-112d-CS-ITS_S118_L001_R2_001.fastq.gz
+Analysis complete for LALL-PD-KC2015-202-LH-LB-112d-CS-ITS_S118_L001_R2_001.fastq.gz
+-rw-rw-r-- 1 mark mark 8725760 Sep  6 13:02 /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-203-LH-LB-112d-CS-ITS_S119_L001_R1_001.fastq.gz
+-rw-rw-r-- 1 mark mark 10037020 Sep  6 13:02 /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-203-LH-LB-112d-CS-ITS_S119_L001_R2_001.fastq.gz
+Started analysis of LALL-PD-KC2015-203-LH-LB-112d-CS-ITS_S119_L001_R1_001.fastq.gz
+Approx 5% complete for LALL-PD-KC2015-203-LH-LB-112d-CS-ITS_S119_L001_R1_001.fastq.gz
+Approx 10% complete for LALL-PD-KC2015-203-LH-LB-112d-CS-ITS_S119_L001_R1_001.fastq.gz
+Approx 15% complete for LALL-PD-KC2015-203-LH-LB-112d-CS-ITS_S119_L001_R1_001.fastq.gz
+Approx 20% complete for LALL-PD-KC2015-203-LH-LB-112d-CS-ITS_S119_L001_R1_001.fastq.gz
+Approx 25% complete for LALL-PD-KC2015-203-LH-LB-112d-CS-ITS_S119_L001_R1_001.fastq.gz
+Approx 30% complete for LALL-PD-KC2015-203-LH-LB-112d-CS-ITS_S119_L001_R1_001.fastq.gz
+Started analysis of LALL-PD-KC2015-203-LH-LB-112d-CS-ITS_S119_L001_R2_001.fastq.gz
+Approx 35% complete for LALL-PD-KC2015-203-LH-LB-112d-CS-ITS_S119_L001_R1_001.fastq.gz
+Approx 40% complete for LALL-PD-KC2015-203-LH-LB-112d-CS-ITS_S119_L001_R1_001.fastq.gz
+Approx 5% complete for LALL-PD-KC2015-203-LH-LB-112d-CS-ITS_S119_L001_R2_001.fastq.gz
+Approx 45% complete for LALL-PD-KC2015-203-LH-LB-112d-CS-ITS_S119_L001_R1_001.fastq.gz
+Approx 10% complete for LALL-PD-KC2015-203-LH-LB-112d-CS-ITS_S119_L001_R2_001.fastq.gz
+Approx 50% complete for LALL-PD-KC2015-203-LH-LB-112d-CS-ITS_S119_L001_R1_001.fastq.gz
+Approx 15% complete for LALL-PD-KC2015-203-LH-LB-112d-CS-ITS_S119_L001_R2_001.fastq.gz
+Approx 20% complete for LALL-PD-KC2015-203-LH-LB-112d-CS-ITS_S119_L001_R2_001.fastq.gz
+Approx 55% complete for LALL-PD-KC2015-203-LH-LB-112d-CS-ITS_S119_L001_R1_001.fastq.gz
+Approx 60% complete for LALL-PD-KC2015-203-LH-LB-112d-CS-ITS_S119_L001_R1_001.fastq.gz
+Approx 25% complete for LALL-PD-KC2015-203-LH-LB-112d-CS-ITS_S119_L001_R2_001.fastq.gz
+Approx 65% complete for LALL-PD-KC2015-203-LH-LB-112d-CS-ITS_S119_L001_R1_001.fastq.gz
+Approx 30% complete for LALL-PD-KC2015-203-LH-LB-112d-CS-ITS_S119_L001_R2_001.fastq.gz
+Approx 70% complete for LALL-PD-KC2015-203-LH-LB-112d-CS-ITS_S119_L001_R1_001.fastq.gz
+Approx 35% complete for LALL-PD-KC2015-203-LH-LB-112d-CS-ITS_S119_L001_R2_001.fastq.gz
+Approx 75% complete for LALL-PD-KC2015-203-LH-LB-112d-CS-ITS_S119_L001_R1_001.fastq.gz
+Approx 40% complete for LALL-PD-KC2015-203-LH-LB-112d-CS-ITS_S119_L001_R2_001.fastq.gz
+Approx 80% complete for LALL-PD-KC2015-203-LH-LB-112d-CS-ITS_S119_L001_R1_001.fastq.gz
+Approx 45% complete for LALL-PD-KC2015-203-LH-LB-112d-CS-ITS_S119_L001_R2_001.fastq.gz
+Approx 85% complete for LALL-PD-KC2015-203-LH-LB-112d-CS-ITS_S119_L001_R1_001.fastq.gz
+Approx 50% complete for LALL-PD-KC2015-203-LH-LB-112d-CS-ITS_S119_L001_R2_001.fastq.gz
+Approx 90% complete for LALL-PD-KC2015-203-LH-LB-112d-CS-ITS_S119_L001_R1_001.fastq.gz
+Approx 55% complete for LALL-PD-KC2015-203-LH-LB-112d-CS-ITS_S119_L001_R2_001.fastq.gz
+Approx 95% complete for LALL-PD-KC2015-203-LH-LB-112d-CS-ITS_S119_L001_R1_001.fastq.gz
+Analysis complete for LALL-PD-KC2015-203-LH-LB-112d-CS-ITS_S119_L001_R1_001.fastq.gz
+Approx 60% complete for LALL-PD-KC2015-203-LH-LB-112d-CS-ITS_S119_L001_R2_001.fastq.gz
+Approx 65% complete for LALL-PD-KC2015-203-LH-LB-112d-CS-ITS_S119_L001_R2_001.fastq.gz
+Approx 70% complete for LALL-PD-KC2015-203-LH-LB-112d-CS-ITS_S119_L001_R2_001.fastq.gz
+Approx 75% complete for LALL-PD-KC2015-203-LH-LB-112d-CS-ITS_S119_L001_R2_001.fastq.gz
+Approx 80% complete for LALL-PD-KC2015-203-LH-LB-112d-CS-ITS_S119_L001_R2_001.fastq.gz
+Approx 85% complete for LALL-PD-KC2015-203-LH-LB-112d-CS-ITS_S119_L001_R2_001.fastq.gz
+Approx 90% complete for LALL-PD-KC2015-203-LH-LB-112d-CS-ITS_S119_L001_R2_001.fastq.gz
+Approx 95% complete for LALL-PD-KC2015-203-LH-LB-112d-CS-ITS_S119_L001_R2_001.fastq.gz
+Analysis complete for LALL-PD-KC2015-203-LH-LB-112d-CS-ITS_S119_L001_R2_001.fastq.gz
+-rw-rw-r-- 1 mark mark 6489874 Sep  6 13:02 /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-206-LB-112d-CS-ITS_S120_L001_R1_001.fastq.gz
+-rw-rw-r-- 1 mark mark 7646215 Sep  6 13:02 /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-206-LB-112d-CS-ITS_S120_L001_R2_001.fastq.gz
+Started analysis of LALL-PD-KC2015-206-LB-112d-CS-ITS_S120_L001_R1_001.fastq.gz
+Approx 5% complete for LALL-PD-KC2015-206-LB-112d-CS-ITS_S120_L001_R1_001.fastq.gz
+Approx 10% complete for LALL-PD-KC2015-206-LB-112d-CS-ITS_S120_L001_R1_001.fastq.gz
+Approx 15% complete for LALL-PD-KC2015-206-LB-112d-CS-ITS_S120_L001_R1_001.fastq.gz
+Approx 20% complete for LALL-PD-KC2015-206-LB-112d-CS-ITS_S120_L001_R1_001.fastq.gz
+Approx 25% complete for LALL-PD-KC2015-206-LB-112d-CS-ITS_S120_L001_R1_001.fastq.gz
+Approx 30% complete for LALL-PD-KC2015-206-LB-112d-CS-ITS_S120_L001_R1_001.fastq.gz
+Approx 35% complete for LALL-PD-KC2015-206-LB-112d-CS-ITS_S120_L001_R1_001.fastq.gz
+Approx 40% complete for LALL-PD-KC2015-206-LB-112d-CS-ITS_S120_L001_R1_001.fastq.gz
+Started analysis of LALL-PD-KC2015-206-LB-112d-CS-ITS_S120_L001_R2_001.fastq.gz
+Approx 45% complete for LALL-PD-KC2015-206-LB-112d-CS-ITS_S120_L001_R1_001.fastq.gz
+Approx 50% complete for LALL-PD-KC2015-206-LB-112d-CS-ITS_S120_L001_R1_001.fastq.gz
+Approx 5% complete for LALL-PD-KC2015-206-LB-112d-CS-ITS_S120_L001_R2_001.fastq.gz
+Approx 55% complete for LALL-PD-KC2015-206-LB-112d-CS-ITS_S120_L001_R1_001.fastq.gz
+Approx 10% complete for LALL-PD-KC2015-206-LB-112d-CS-ITS_S120_L001_R2_001.fastq.gz
+Approx 15% complete for LALL-PD-KC2015-206-LB-112d-CS-ITS_S120_L001_R2_001.fastq.gz
+Approx 60% complete for LALL-PD-KC2015-206-LB-112d-CS-ITS_S120_L001_R1_001.fastq.gz
+Approx 65% complete for LALL-PD-KC2015-206-LB-112d-CS-ITS_S120_L001_R1_001.fastq.gz
+Approx 20% complete for LALL-PD-KC2015-206-LB-112d-CS-ITS_S120_L001_R2_001.fastq.gz
+Approx 70% complete for LALL-PD-KC2015-206-LB-112d-CS-ITS_S120_L001_R1_001.fastq.gz
+Approx 25% complete for LALL-PD-KC2015-206-LB-112d-CS-ITS_S120_L001_R2_001.fastq.gz
+Approx 75% complete for LALL-PD-KC2015-206-LB-112d-CS-ITS_S120_L001_R1_001.fastq.gz
+Approx 30% complete for LALL-PD-KC2015-206-LB-112d-CS-ITS_S120_L001_R2_001.fastq.gz
+Approx 80% complete for LALL-PD-KC2015-206-LB-112d-CS-ITS_S120_L001_R1_001.fastq.gz
+Approx 35% complete for LALL-PD-KC2015-206-LB-112d-CS-ITS_S120_L001_R2_001.fastq.gz
+Approx 85% complete for LALL-PD-KC2015-206-LB-112d-CS-ITS_S120_L001_R1_001.fastq.gz
+Approx 40% complete for LALL-PD-KC2015-206-LB-112d-CS-ITS_S120_L001_R2_001.fastq.gz
+Approx 90% complete for LALL-PD-KC2015-206-LB-112d-CS-ITS_S120_L001_R1_001.fastq.gz
+Approx 45% complete for LALL-PD-KC2015-206-LB-112d-CS-ITS_S120_L001_R2_001.fastq.gz
+Approx 95% complete for LALL-PD-KC2015-206-LB-112d-CS-ITS_S120_L001_R1_001.fastq.gz
+Approx 50% complete for LALL-PD-KC2015-206-LB-112d-CS-ITS_S120_L001_R2_001.fastq.gz
+Analysis complete for LALL-PD-KC2015-206-LB-112d-CS-ITS_S120_L001_R1_001.fastq.gz
+Approx 55% complete for LALL-PD-KC2015-206-LB-112d-CS-ITS_S120_L001_R2_001.fastq.gz
+Approx 60% complete for LALL-PD-KC2015-206-LB-112d-CS-ITS_S120_L001_R2_001.fastq.gz
+Approx 65% complete for LALL-PD-KC2015-206-LB-112d-CS-ITS_S120_L001_R2_001.fastq.gz
+Approx 70% complete for LALL-PD-KC2015-206-LB-112d-CS-ITS_S120_L001_R2_001.fastq.gz
+Approx 75% complete for LALL-PD-KC2015-206-LB-112d-CS-ITS_S120_L001_R2_001.fastq.gz
+Approx 80% complete for LALL-PD-KC2015-206-LB-112d-CS-ITS_S120_L001_R2_001.fastq.gz
+Approx 85% complete for LALL-PD-KC2015-206-LB-112d-CS-ITS_S120_L001_R2_001.fastq.gz
+Approx 90% complete for LALL-PD-KC2015-206-LB-112d-CS-ITS_S120_L001_R2_001.fastq.gz
+Approx 95% complete for LALL-PD-KC2015-206-LB-112d-CS-ITS_S120_L001_R2_001.fastq.gz
+Analysis complete for LALL-PD-KC2015-206-LB-112d-CS-ITS_S120_L001_R2_001.fastq.gz
+-rw-rw-r-- 1 mark mark 3965845 Sep  6 13:02 /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-207-LB-112d-CS-ITS_S121_L001_R1_001.fastq.gz
+-rw-rw-r-- 1 mark mark 4874009 Sep  6 13:02 /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-207-LB-112d-CS-ITS_S121_L001_R2_001.fastq.gz
+Started analysis of LALL-PD-KC2015-207-LB-112d-CS-ITS_S121_L001_R1_001.fastq.gz
+Approx 5% complete for LALL-PD-KC2015-207-LB-112d-CS-ITS_S121_L001_R1_001.fastq.gz
+Approx 10% complete for LALL-PD-KC2015-207-LB-112d-CS-ITS_S121_L001_R1_001.fastq.gz
+Approx 15% complete for LALL-PD-KC2015-207-LB-112d-CS-ITS_S121_L001_R1_001.fastq.gz
+Approx 20% complete for LALL-PD-KC2015-207-LB-112d-CS-ITS_S121_L001_R1_001.fastq.gz
+Approx 25% complete for LALL-PD-KC2015-207-LB-112d-CS-ITS_S121_L001_R1_001.fastq.gz
+Approx 30% complete for LALL-PD-KC2015-207-LB-112d-CS-ITS_S121_L001_R1_001.fastq.gz
+Approx 35% complete for LALL-PD-KC2015-207-LB-112d-CS-ITS_S121_L001_R1_001.fastq.gz
+Approx 40% complete for LALL-PD-KC2015-207-LB-112d-CS-ITS_S121_L001_R1_001.fastq.gz
+Approx 45% complete for LALL-PD-KC2015-207-LB-112d-CS-ITS_S121_L001_R1_001.fastq.gz
+Approx 50% complete for LALL-PD-KC2015-207-LB-112d-CS-ITS_S121_L001_R1_001.fastq.gz
+Approx 55% complete for LALL-PD-KC2015-207-LB-112d-CS-ITS_S121_L001_R1_001.fastq.gz
+Started analysis of LALL-PD-KC2015-207-LB-112d-CS-ITS_S121_L001_R2_001.fastq.gz
+Approx 60% complete for LALL-PD-KC2015-207-LB-112d-CS-ITS_S121_L001_R1_001.fastq.gz
+Approx 5% complete for LALL-PD-KC2015-207-LB-112d-CS-ITS_S121_L001_R2_001.fastq.gz
+Approx 65% complete for LALL-PD-KC2015-207-LB-112d-CS-ITS_S121_L001_R1_001.fastq.gz
+Approx 10% complete for LALL-PD-KC2015-207-LB-112d-CS-ITS_S121_L001_R2_001.fastq.gz
+Approx 70% complete for LALL-PD-KC2015-207-LB-112d-CS-ITS_S121_L001_R1_001.fastq.gz
+Approx 15% complete for LALL-PD-KC2015-207-LB-112d-CS-ITS_S121_L001_R2_001.fastq.gz
+Approx 75% complete for LALL-PD-KC2015-207-LB-112d-CS-ITS_S121_L001_R1_001.fastq.gz
+Approx 80% complete for LALL-PD-KC2015-207-LB-112d-CS-ITS_S121_L001_R1_001.fastq.gz
+Approx 20% complete for LALL-PD-KC2015-207-LB-112d-CS-ITS_S121_L001_R2_001.fastq.gz
+Approx 85% complete for LALL-PD-KC2015-207-LB-112d-CS-ITS_S121_L001_R1_001.fastq.gz
+Approx 25% complete for LALL-PD-KC2015-207-LB-112d-CS-ITS_S121_L001_R2_001.fastq.gz
+Approx 90% complete for LALL-PD-KC2015-207-LB-112d-CS-ITS_S121_L001_R1_001.fastq.gz
+Approx 30% complete for LALL-PD-KC2015-207-LB-112d-CS-ITS_S121_L001_R2_001.fastq.gz
+Approx 35% complete for LALL-PD-KC2015-207-LB-112d-CS-ITS_S121_L001_R2_001.fastq.gz
+Approx 95% complete for LALL-PD-KC2015-207-LB-112d-CS-ITS_S121_L001_R1_001.fastq.gz
+Analysis complete for LALL-PD-KC2015-207-LB-112d-CS-ITS_S121_L001_R1_001.fastq.gz
+Approx 40% complete for LALL-PD-KC2015-207-LB-112d-CS-ITS_S121_L001_R2_001.fastq.gz
+Approx 45% complete for LALL-PD-KC2015-207-LB-112d-CS-ITS_S121_L001_R2_001.fastq.gz
+Approx 50% complete for LALL-PD-KC2015-207-LB-112d-CS-ITS_S121_L001_R2_001.fastq.gz
+Approx 55% complete for LALL-PD-KC2015-207-LB-112d-CS-ITS_S121_L001_R2_001.fastq.gz
+Approx 60% complete for LALL-PD-KC2015-207-LB-112d-CS-ITS_S121_L001_R2_001.fastq.gz
+Approx 65% complete for LALL-PD-KC2015-207-LB-112d-CS-ITS_S121_L001_R2_001.fastq.gz
+Approx 70% complete for LALL-PD-KC2015-207-LB-112d-CS-ITS_S121_L001_R2_001.fastq.gz
+Approx 75% complete for LALL-PD-KC2015-207-LB-112d-CS-ITS_S121_L001_R2_001.fastq.gz
+Approx 80% complete for LALL-PD-KC2015-207-LB-112d-CS-ITS_S121_L001_R2_001.fastq.gz
+Approx 85% complete for LALL-PD-KC2015-207-LB-112d-CS-ITS_S121_L001_R2_001.fastq.gz
+Approx 90% complete for LALL-PD-KC2015-207-LB-112d-CS-ITS_S121_L001_R2_001.fastq.gz
+Approx 95% complete for LALL-PD-KC2015-207-LB-112d-CS-ITS_S121_L001_R2_001.fastq.gz
+Analysis complete for LALL-PD-KC2015-207-LB-112d-CS-ITS_S121_L001_R2_001.fastq.gz
+-rw-rw-r-- 1 mark mark 5102629 Sep  6 13:03 /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-208-LB-112d-CS-ITS_S122_L001_R1_001.fastq.gz
+-rw-rw-r-- 1 mark mark 6359879 Sep  6 13:03 /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-208-LB-112d-CS-ITS_S122_L001_R2_001.fastq.gz
+Started analysis of LALL-PD-KC2015-208-LB-112d-CS-ITS_S122_L001_R1_001.fastq.gz
+Approx 5% complete for LALL-PD-KC2015-208-LB-112d-CS-ITS_S122_L001_R1_001.fastq.gz
+Approx 10% complete for LALL-PD-KC2015-208-LB-112d-CS-ITS_S122_L001_R1_001.fastq.gz
+Approx 15% complete for LALL-PD-KC2015-208-LB-112d-CS-ITS_S122_L001_R1_001.fastq.gz
+Approx 20% complete for LALL-PD-KC2015-208-LB-112d-CS-ITS_S122_L001_R1_001.fastq.gz
+Approx 25% complete for LALL-PD-KC2015-208-LB-112d-CS-ITS_S122_L001_R1_001.fastq.gz
+Approx 30% complete for LALL-PD-KC2015-208-LB-112d-CS-ITS_S122_L001_R1_001.fastq.gz
+Approx 35% complete for LALL-PD-KC2015-208-LB-112d-CS-ITS_S122_L001_R1_001.fastq.gz
+Approx 40% complete for LALL-PD-KC2015-208-LB-112d-CS-ITS_S122_L001_R1_001.fastq.gz
+Approx 45% complete for LALL-PD-KC2015-208-LB-112d-CS-ITS_S122_L001_R1_001.fastq.gz
+Started analysis of LALL-PD-KC2015-208-LB-112d-CS-ITS_S122_L001_R2_001.fastq.gz
+Approx 50% complete for LALL-PD-KC2015-208-LB-112d-CS-ITS_S122_L001_R1_001.fastq.gz
+Approx 5% complete for LALL-PD-KC2015-208-LB-112d-CS-ITS_S122_L001_R2_001.fastq.gz
+Approx 55% complete for LALL-PD-KC2015-208-LB-112d-CS-ITS_S122_L001_R1_001.fastq.gz
+Approx 10% complete for LALL-PD-KC2015-208-LB-112d-CS-ITS_S122_L001_R2_001.fastq.gz
+Approx 60% complete for LALL-PD-KC2015-208-LB-112d-CS-ITS_S122_L001_R1_001.fastq.gz
+Approx 15% complete for LALL-PD-KC2015-208-LB-112d-CS-ITS_S122_L001_R2_001.fastq.gz
+Approx 65% complete for LALL-PD-KC2015-208-LB-112d-CS-ITS_S122_L001_R1_001.fastq.gz
+Approx 20% complete for LALL-PD-KC2015-208-LB-112d-CS-ITS_S122_L001_R2_001.fastq.gz
+Approx 70% complete for LALL-PD-KC2015-208-LB-112d-CS-ITS_S122_L001_R1_001.fastq.gz
+Approx 25% complete for LALL-PD-KC2015-208-LB-112d-CS-ITS_S122_L001_R2_001.fastq.gz
+Approx 75% complete for LALL-PD-KC2015-208-LB-112d-CS-ITS_S122_L001_R1_001.fastq.gz
+Approx 30% complete for LALL-PD-KC2015-208-LB-112d-CS-ITS_S122_L001_R2_001.fastq.gz
+Approx 80% complete for LALL-PD-KC2015-208-LB-112d-CS-ITS_S122_L001_R1_001.fastq.gz
+Approx 35% complete for LALL-PD-KC2015-208-LB-112d-CS-ITS_S122_L001_R2_001.fastq.gz
+Approx 85% complete for LALL-PD-KC2015-208-LB-112d-CS-ITS_S122_L001_R1_001.fastq.gz
+Approx 40% complete for LALL-PD-KC2015-208-LB-112d-CS-ITS_S122_L001_R2_001.fastq.gz
+Approx 90% complete for LALL-PD-KC2015-208-LB-112d-CS-ITS_S122_L001_R1_001.fastq.gz
+Approx 45% complete for LALL-PD-KC2015-208-LB-112d-CS-ITS_S122_L001_R2_001.fastq.gz
+Approx 95% complete for LALL-PD-KC2015-208-LB-112d-CS-ITS_S122_L001_R1_001.fastq.gz
+Analysis complete for LALL-PD-KC2015-208-LB-112d-CS-ITS_S122_L001_R1_001.fastq.gz
+Approx 50% complete for LALL-PD-KC2015-208-LB-112d-CS-ITS_S122_L001_R2_001.fastq.gz
+Approx 55% complete for LALL-PD-KC2015-208-LB-112d-CS-ITS_S122_L001_R2_001.fastq.gz
+Approx 60% complete for LALL-PD-KC2015-208-LB-112d-CS-ITS_S122_L001_R2_001.fastq.gz
+Approx 65% complete for LALL-PD-KC2015-208-LB-112d-CS-ITS_S122_L001_R2_001.fastq.gz
+Approx 70% complete for LALL-PD-KC2015-208-LB-112d-CS-ITS_S122_L001_R2_001.fastq.gz
+Approx 75% complete for LALL-PD-KC2015-208-LB-112d-CS-ITS_S122_L001_R2_001.fastq.gz
+Approx 80% complete for LALL-PD-KC2015-208-LB-112d-CS-ITS_S122_L001_R2_001.fastq.gz
+Approx 85% complete for LALL-PD-KC2015-208-LB-112d-CS-ITS_S122_L001_R2_001.fastq.gz
+Approx 90% complete for LALL-PD-KC2015-208-LB-112d-CS-ITS_S122_L001_R2_001.fastq.gz
+Approx 95% complete for LALL-PD-KC2015-208-LB-112d-CS-ITS_S122_L001_R2_001.fastq.gz
+Analysis complete for LALL-PD-KC2015-208-LB-112d-CS-ITS_S122_L001_R2_001.fastq.gz
+[WARNING]         multiqc : MultiQC Version v1.2 now available!
+[INFO   ]         multiqc : This is MultiQC v1.1
+[INFO   ]         multiqc : Template    : default
+[INFO   ]         multiqc : Searching '/home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS'
+Searching 162 files..
+[INFO   ]          fastqc : Found 54 reports
+[INFO   ]         multiqc : Compressing plot data
+[INFO   ]         multiqc : Report      : 15_Hil_CS/Fungi/ITS/multiqc_report.html
+[INFO   ]         multiqc : Data        : 15_Hil_CS/Fungi/ITS/multiqc_data
+[INFO   ]         multiqc : MultiQC complete
+Wed Sep 13 20:48:35 EDT 2017 flashing /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-146-Control-0d-CS-ITS_S96_L001_R1_001.fastq.gz and /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-146-Control-0d-CS-ITS_S96_L001_R2_001.fastq.gz
+[FLASH] Starting FLASH v1.2.11
+[FLASH] Fast Length Adjustment of SHort reads
+[FLASH]  
+[FLASH] Input files:
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-146-Control-0d-CS-ITS_S96_L001_R1_001.fastq.gz
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-146-Control-0d-CS-ITS_S96_L001_R2_001.fastq.gz
+[FLASH]  
+[FLASH] Output files:
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//146.extendedFrags.fastq
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//146.notCombined_1.fastq
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//146.notCombined_2.fastq
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//146.hist
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//146.histogram
+[FLASH]  
+[FLASH] Parameters:
+[FLASH]     Min overlap:           50
+[FLASH]     Max overlap:           250
+[FLASH]     Max mismatch density:  0.250000
+[FLASH]     Allow "outie" pairs:   false
+[FLASH]     Cap mismatch quals:    false
+[FLASH]     Combiner threads:      8
+[FLASH]     Input format:          FASTQ, phred_offset=33
+[FLASH]     Output format:         FASTQ, phred_offset=33
+[FLASH]  
+[FLASH] Starting reader and writer threads
+[FLASH] Starting 8 combiner threads
+[FLASH] Processed 25000 read pairs
+[FLASH] Processed 50000 read pairs
+[FLASH] Processed 74658 read pairs
+[FLASH]  
+[FLASH] Read combination statistics:
+[FLASH]     Total pairs:      74658
+[FLASH]     Combined pairs:   70312
+[FLASH]     Uncombined pairs: 4346
+[FLASH]     Percent combined: 94.18%
+[FLASH]  
+[FLASH] Writing histogram files.
+[FLASH]  
+[FLASH] FLASH v1.2.11 complete!
+[FLASH] 0.303 seconds elapsed
+Wed Sep 13 20:48:36 EDT 2017 flashing /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-147-Control-0d-CS-ITS_S97_L001_R1_001.fastq.gz and /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-147-Control-0d-CS-ITS_S97_L001_R2_001.fastq.gz
+[FLASH] Starting FLASH v1.2.11
+[FLASH] Fast Length Adjustment of SHort reads
+[FLASH]  
+[FLASH] Input files:
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-147-Control-0d-CS-ITS_S97_L001_R1_001.fastq.gz
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-147-Control-0d-CS-ITS_S97_L001_R2_001.fastq.gz
+[FLASH]  
+[FLASH] Output files:
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//147.extendedFrags.fastq
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//147.notCombined_1.fastq
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//147.notCombined_2.fastq
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//147.hist
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//147.histogram
+[FLASH]  
+[FLASH] Parameters:
+[FLASH]     Min overlap:           50
+[FLASH]     Max overlap:           250
+[FLASH]     Max mismatch density:  0.250000
+[FLASH]     Allow "outie" pairs:   false
+[FLASH]     Cap mismatch quals:    false
+[FLASH]     Combiner threads:      8
+[FLASH]     Input format:          FASTQ, phred_offset=33
+[FLASH]     Output format:         FASTQ, phred_offset=33
+[FLASH]  
+[FLASH] Starting reader and writer threads
+[FLASH] Starting 8 combiner threads
+[FLASH] Processed 25000 read pairs
+[FLASH] Processed 50000 read pairs
+[FLASH] Processed 52686 read pairs
+[FLASH]  
+[FLASH] Read combination statistics:
+[FLASH]     Total pairs:      52686
+[FLASH]     Combined pairs:   48514
+[FLASH]     Uncombined pairs: 4172
+[FLASH]     Percent combined: 92.08%
+[FLASH]  
+[FLASH] Writing histogram files.
+[FLASH]  
+[FLASH] FLASH v1.2.11 complete!
+[FLASH] 0.213 seconds elapsed
+Wed Sep 13 20:48:36 EDT 2017 flashing /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-148-Control-0d-CS-ITS_S98_L001_R1_001.fastq.gz and /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-148-Control-0d-CS-ITS_S98_L001_R2_001.fastq.gz
+[FLASH] Starting FLASH v1.2.11
+[FLASH] Fast Length Adjustment of SHort reads
+[FLASH]  
+[FLASH] Input files:
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-148-Control-0d-CS-ITS_S98_L001_R1_001.fastq.gz
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-148-Control-0d-CS-ITS_S98_L001_R2_001.fastq.gz
+[FLASH]  
+[FLASH] Output files:
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//148.extendedFrags.fastq
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//148.notCombined_1.fastq
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//148.notCombined_2.fastq
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//148.hist
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//148.histogram
+[FLASH]  
+[FLASH] Parameters:
+[FLASH]     Min overlap:           50
+[FLASH]     Max overlap:           250
+[FLASH]     Max mismatch density:  0.250000
+[FLASH]     Allow "outie" pairs:   false
+[FLASH]     Cap mismatch quals:    false
+[FLASH]     Combiner threads:      8
+[FLASH]     Input format:          FASTQ, phred_offset=33
+[FLASH]     Output format:         FASTQ, phred_offset=33
+[FLASH]  
+[FLASH] Starting reader and writer threads
+[FLASH] Starting 8 combiner threads
+[FLASH] Processed 25000 read pairs
+[FLASH] Processed 50000 read pairs
+[FLASH] Processed 75000 read pairs
+[FLASH] Processed 75622 read pairs
+[FLASH]  
+[FLASH] Read combination statistics:
+[FLASH]     Total pairs:      75622
+[FLASH]     Combined pairs:   69420
+[FLASH]     Uncombined pairs: 6202
+[FLASH]     Percent combined: 91.80%
+[FLASH]  
+[FLASH] Writing histogram files.
+[FLASH]  
+[FLASH] FLASH v1.2.11 complete!
+[FLASH] 0.307 seconds elapsed
+Wed Sep 13 20:48:36 EDT 2017 flashing /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-171-Control-30d-CS-ITS_S99_L001_R1_001.fastq.gz and /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-171-Control-30d-CS-ITS_S99_L001_R2_001.fastq.gz
+[FLASH] Starting FLASH v1.2.11
+[FLASH] Fast Length Adjustment of SHort reads
+[FLASH]  
+[FLASH] Input files:
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-171-Control-30d-CS-ITS_S99_L001_R1_001.fastq.gz
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-171-Control-30d-CS-ITS_S99_L001_R2_001.fastq.gz
+[FLASH]  
+[FLASH] Output files:
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//171.extendedFrags.fastq
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//171.notCombined_1.fastq
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//171.notCombined_2.fastq
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//171.hist
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//171.histogram
+[FLASH]  
+[FLASH] Parameters:
+[FLASH]     Min overlap:           50
+[FLASH]     Max overlap:           250
+[FLASH]     Max mismatch density:  0.250000
+[FLASH]     Allow "outie" pairs:   false
+[FLASH]     Cap mismatch quals:    false
+[FLASH]     Combiner threads:      8
+[FLASH]     Input format:          FASTQ, phred_offset=33
+[FLASH]     Output format:         FASTQ, phred_offset=33
+[FLASH]  
+[FLASH] Starting reader and writer threads
+[FLASH] Starting 8 combiner threads
+[FLASH] Processed 25000 read pairs
+[FLASH] Processed 26869 read pairs
+[FLASH]  
+[FLASH] Read combination statistics:
+[FLASH]     Total pairs:      26869
+[FLASH]     Combined pairs:   16469
+[FLASH]     Uncombined pairs: 10400
+[FLASH]     Percent combined: 61.29%
+[FLASH]  
+[FLASH] Writing histogram files.
+[FLASH]  
+[FLASH] FLASH v1.2.11 complete!
+[FLASH] 0.126 seconds elapsed
+Wed Sep 13 20:48:36 EDT 2017 flashing /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-172-Control-30d-CS-ITS_S100_L001_R1_001.fastq.gz and /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-172-Control-30d-CS-ITS_S100_L001_R2_001.fastq.gz
+[FLASH] Starting FLASH v1.2.11
+[FLASH] Fast Length Adjustment of SHort reads
+[FLASH]  
+[FLASH] Input files:
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-172-Control-30d-CS-ITS_S100_L001_R1_001.fastq.gz
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-172-Control-30d-CS-ITS_S100_L001_R2_001.fastq.gz
+[FLASH]  
+[FLASH] Output files:
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//172.extendedFrags.fastq
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//172.notCombined_1.fastq
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//172.notCombined_2.fastq
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//172.hist
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//172.histogram
+[FLASH]  
+[FLASH] Parameters:
+[FLASH]     Min overlap:           50
+[FLASH]     Max overlap:           250
+[FLASH]     Max mismatch density:  0.250000
+[FLASH]     Allow "outie" pairs:   false
+[FLASH]     Cap mismatch quals:    false
+[FLASH]     Combiner threads:      8
+[FLASH]     Input format:          FASTQ, phred_offset=33
+[FLASH]     Output format:         FASTQ, phred_offset=33
+[FLASH]  
+[FLASH] Starting reader and writer threads
+[FLASH] Starting 8 combiner threads
+[FLASH] Processed 25000 read pairs
+[FLASH] Processed 50000 read pairs
+[FLASH] Processed 68548 read pairs
+[FLASH]  
+[FLASH] Read combination statistics:
+[FLASH]     Total pairs:      68548
+[FLASH]     Combined pairs:   43522
+[FLASH]     Uncombined pairs: 25026
+[FLASH]     Percent combined: 63.49%
+[FLASH]  
+[FLASH] Writing histogram files.
+[FLASH]  
+[FLASH] FLASH v1.2.11 complete!
+[FLASH] 0.284 seconds elapsed
+Wed Sep 13 20:48:37 EDT 2017 flashing /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-173-Control-30d-CS-ITS_S101_L001_R1_001.fastq.gz and /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-173-Control-30d-CS-ITS_S101_L001_R2_001.fastq.gz
+[FLASH] Starting FLASH v1.2.11
+[FLASH] Fast Length Adjustment of SHort reads
+[FLASH]  
+[FLASH] Input files:
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-173-Control-30d-CS-ITS_S101_L001_R1_001.fastq.gz
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-173-Control-30d-CS-ITS_S101_L001_R2_001.fastq.gz
+[FLASH]  
+[FLASH] Output files:
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//173.extendedFrags.fastq
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//173.notCombined_1.fastq
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//173.notCombined_2.fastq
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//173.hist
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//173.histogram
+[FLASH]  
+[FLASH] Parameters:
+[FLASH]     Min overlap:           50
+[FLASH]     Max overlap:           250
+[FLASH]     Max mismatch density:  0.250000
+[FLASH]     Allow "outie" pairs:   false
+[FLASH]     Cap mismatch quals:    false
+[FLASH]     Combiner threads:      8
+[FLASH]     Input format:          FASTQ, phred_offset=33
+[FLASH]     Output format:         FASTQ, phred_offset=33
+[FLASH]  
+[FLASH] Starting reader and writer threads
+[FLASH] Starting 8 combiner threads
+[FLASH] Processed 25000 read pairs
+[FLASH] Processed 50000 read pairs
+[FLASH] Processed 67415 read pairs
+[FLASH]  
+[FLASH] Read combination statistics:
+[FLASH]     Total pairs:      67415
+[FLASH]     Combined pairs:   45638
+[FLASH]     Uncombined pairs: 21777
+[FLASH]     Percent combined: 67.70%
+[FLASH]  
+[FLASH] Writing histogram files.
+[FLASH]  
+[FLASH] FLASH v1.2.11 complete!
+[FLASH] 0.296 seconds elapsed
+Wed Sep 13 20:48:37 EDT 2017 flashing /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-176-LH-30d-CS-ITS_S102_L001_R1_001.fastq.gz and /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-176-LH-30d-CS-ITS_S102_L001_R2_001.fastq.gz
+[FLASH] Starting FLASH v1.2.11
+[FLASH] Fast Length Adjustment of SHort reads
+[FLASH]  
+[FLASH] Input files:
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-176-LH-30d-CS-ITS_S102_L001_R1_001.fastq.gz
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-176-LH-30d-CS-ITS_S102_L001_R2_001.fastq.gz
+[FLASH]  
+[FLASH] Output files:
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//176.extendedFrags.fastq
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//176.notCombined_1.fastq
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//176.notCombined_2.fastq
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//176.hist
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//176.histogram
+[FLASH]  
+[FLASH] Parameters:
+[FLASH]     Min overlap:           50
+[FLASH]     Max overlap:           250
+[FLASH]     Max mismatch density:  0.250000
+[FLASH]     Allow "outie" pairs:   false
+[FLASH]     Cap mismatch quals:    false
+[FLASH]     Combiner threads:      8
+[FLASH]     Input format:          FASTQ, phred_offset=33
+[FLASH]     Output format:         FASTQ, phred_offset=33
+[FLASH]  
+[FLASH] Starting reader and writer threads
+[FLASH] Starting 8 combiner threads
+[FLASH] Processed 25000 read pairs
+[FLASH] Processed 42582 read pairs
+[FLASH]  
+[FLASH] Read combination statistics:
+[FLASH]     Total pairs:      42582
+[FLASH]     Combined pairs:   22885
+[FLASH]     Uncombined pairs: 19697
+[FLASH]     Percent combined: 53.74%
+[FLASH]  
+[FLASH] Writing histogram files.
+[FLASH]  
+[FLASH] FLASH v1.2.11 complete!
+[FLASH] 0.182 seconds elapsed
+Wed Sep 13 20:48:37 EDT 2017 flashing /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-177-LH-30d-CS-ITS_S103_L001_R1_001.fastq.gz and /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-177-LH-30d-CS-ITS_S103_L001_R2_001.fastq.gz
+[FLASH] Starting FLASH v1.2.11
+[FLASH] Fast Length Adjustment of SHort reads
+[FLASH]  
+[FLASH] Input files:
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-177-LH-30d-CS-ITS_S103_L001_R1_001.fastq.gz
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-177-LH-30d-CS-ITS_S103_L001_R2_001.fastq.gz
+[FLASH]  
+[FLASH] Output files:
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//177.extendedFrags.fastq
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//177.notCombined_1.fastq
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//177.notCombined_2.fastq
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//177.hist
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//177.histogram
+[FLASH]  
+[FLASH] Parameters:
+[FLASH]     Min overlap:           50
+[FLASH]     Max overlap:           250
+[FLASH]     Max mismatch density:  0.250000
+[FLASH]     Allow "outie" pairs:   false
+[FLASH]     Cap mismatch quals:    false
+[FLASH]     Combiner threads:      8
+[FLASH]     Input format:          FASTQ, phred_offset=33
+[FLASH]     Output format:         FASTQ, phred_offset=33
+[FLASH]  
+[FLASH] Starting reader and writer threads
+[FLASH] Starting 8 combiner threads
+[FLASH] Processed 25000 read pairs
+[FLASH] Processed 33204 read pairs
+[FLASH]  
+[FLASH] Read combination statistics:
+[FLASH]     Total pairs:      33204
+[FLASH]     Combined pairs:   18579
+[FLASH]     Uncombined pairs: 14625
+[FLASH]     Percent combined: 55.95%
+[FLASH]  
+[FLASH] Writing histogram files.
+[FLASH]  
+[FLASH] FLASH v1.2.11 complete!
+[FLASH] 0.148 seconds elapsed
+Wed Sep 13 20:48:37 EDT 2017 flashing /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-178-LH-30d-CS-ITS-fixed_S104_L001_R1_001.fastq.gz and /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-178-LH-30d-CS-ITS-fixed_S104_L001_R2_001.fastq.gz
+[FLASH] Starting FLASH v1.2.11
+[FLASH] Fast Length Adjustment of SHort reads
+[FLASH]  
+[FLASH] Input files:
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-178-LH-30d-CS-ITS-fixed_S104_L001_R1_001.fastq.gz
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-178-LH-30d-CS-ITS-fixed_S104_L001_R2_001.fastq.gz
+[FLASH]  
+[FLASH] Output files:
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//178.extendedFrags.fastq
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//178.notCombined_1.fastq
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//178.notCombined_2.fastq
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//178.hist
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//178.histogram
+[FLASH]  
+[FLASH] Parameters:
+[FLASH]     Min overlap:           50
+[FLASH]     Max overlap:           250
+[FLASH]     Max mismatch density:  0.250000
+[FLASH]     Allow "outie" pairs:   false
+[FLASH]     Cap mismatch quals:    false
+[FLASH]     Combiner threads:      8
+[FLASH]     Input format:          FASTQ, phred_offset=33
+[FLASH]     Output format:         FASTQ, phred_offset=33
+[FLASH]  
+[FLASH] Starting reader and writer threads
+[FLASH] Starting 8 combiner threads
+[FLASH] Processed 25000 read pairs
+[FLASH] Processed 50000 read pairs
+[FLASH] Processed 50189 read pairs
+[FLASH]  
+[FLASH] Read combination statistics:
+[FLASH]     Total pairs:      50189
+[FLASH]     Combined pairs:   30533
+[FLASH]     Uncombined pairs: 19656
+[FLASH]     Percent combined: 60.84%
+[FLASH]  
+[FLASH] Writing histogram files.
+[FLASH]  
+[FLASH] FLASH v1.2.11 complete!
+[FLASH] 0.196 seconds elapsed
+Wed Sep 13 20:48:38 EDT 2017 flashing /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-181-LH-LB-30d-CS-ITS_S105_L001_R1_001.fastq.gz and /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-181-LH-LB-30d-CS-ITS_S105_L001_R2_001.fastq.gz
+[FLASH] Starting FLASH v1.2.11
+[FLASH] Fast Length Adjustment of SHort reads
+[FLASH]  
+[FLASH] Input files:
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-181-LH-LB-30d-CS-ITS_S105_L001_R1_001.fastq.gz
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-181-LH-LB-30d-CS-ITS_S105_L001_R2_001.fastq.gz
+[FLASH]  
+[FLASH] Output files:
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//181.extendedFrags.fastq
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//181.notCombined_1.fastq
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//181.notCombined_2.fastq
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//181.hist
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//181.histogram
+[FLASH]  
+[FLASH] Parameters:
+[FLASH]     Min overlap:           50
+[FLASH]     Max overlap:           250
+[FLASH]     Max mismatch density:  0.250000
+[FLASH]     Allow "outie" pairs:   false
+[FLASH]     Cap mismatch quals:    false
+[FLASH]     Combiner threads:      8
+[FLASH]     Input format:          FASTQ, phred_offset=33
+[FLASH]     Output format:         FASTQ, phred_offset=33
+[FLASH]  
+[FLASH] Starting reader and writer threads
+[FLASH] Starting 8 combiner threads
+[FLASH] Processed 25000 read pairs
+[FLASH] Processed 50000 read pairs
+[FLASH] Processed 61961 read pairs
+[FLASH]  
+[FLASH] Read combination statistics:
+[FLASH]     Total pairs:      61961
+[FLASH]     Combined pairs:   38679
+[FLASH]     Uncombined pairs: 23282
+[FLASH]     Percent combined: 62.42%
+[FLASH]  
+[FLASH] Writing histogram files.
+[FLASH]  
+[FLASH] FLASH v1.2.11 complete!
+[FLASH] 0.258 seconds elapsed
+Wed Sep 13 20:48:38 EDT 2017 flashing /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-182-LH-LB-30d-CS-ITS_S106_L001_R1_001.fastq.gz and /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-182-LH-LB-30d-CS-ITS_S106_L001_R2_001.fastq.gz
+[FLASH] Starting FLASH v1.2.11
+[FLASH] Fast Length Adjustment of SHort reads
+[FLASH]  
+[FLASH] Input files:
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-182-LH-LB-30d-CS-ITS_S106_L001_R1_001.fastq.gz
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-182-LH-LB-30d-CS-ITS_S106_L001_R2_001.fastq.gz
+[FLASH]  
+[FLASH] Output files:
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//182.extendedFrags.fastq
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//182.notCombined_1.fastq
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//182.notCombined_2.fastq
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//182.hist
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//182.histogram
+[FLASH]  
+[FLASH] Parameters:
+[FLASH]     Min overlap:           50
+[FLASH]     Max overlap:           250
+[FLASH]     Max mismatch density:  0.250000
+[FLASH]     Allow "outie" pairs:   false
+[FLASH]     Cap mismatch quals:    false
+[FLASH]     Combiner threads:      8
+[FLASH]     Input format:          FASTQ, phred_offset=33
+[FLASH]     Output format:         FASTQ, phred_offset=33
+[FLASH]  
+[FLASH] Starting reader and writer threads
+[FLASH] Starting 8 combiner threads
+[FLASH] Processed 25000 read pairs
+[FLASH] Processed 50000 read pairs
+[FLASH] Processed 71291 read pairs
+[FLASH]  
+[FLASH] Read combination statistics:
+[FLASH]     Total pairs:      71291
+[FLASH]     Combined pairs:   50307
+[FLASH]     Uncombined pairs: 20984
+[FLASH]     Percent combined: 70.57%
+[FLASH]  
+[FLASH] Writing histogram files.
+[FLASH]  
+[FLASH] FLASH v1.2.11 complete!
+[FLASH] 0.278 seconds elapsed
+Wed Sep 13 20:48:38 EDT 2017 flashing /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-183-LH-LB-30d-CS-ITS_S107_L001_R1_001.fastq.gz and /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-183-LH-LB-30d-CS-ITS_S107_L001_R2_001.fastq.gz
+[FLASH] Starting FLASH v1.2.11
+[FLASH] Fast Length Adjustment of SHort reads
+[FLASH]  
+[FLASH] Input files:
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-183-LH-LB-30d-CS-ITS_S107_L001_R1_001.fastq.gz
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-183-LH-LB-30d-CS-ITS_S107_L001_R2_001.fastq.gz
+[FLASH]  
+[FLASH] Output files:
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//183.extendedFrags.fastq
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//183.notCombined_1.fastq
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//183.notCombined_2.fastq
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//183.hist
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//183.histogram
+[FLASH]  
+[FLASH] Parameters:
+[FLASH]     Min overlap:           50
+[FLASH]     Max overlap:           250
+[FLASH]     Max mismatch density:  0.250000
+[FLASH]     Allow "outie" pairs:   false
+[FLASH]     Cap mismatch quals:    false
+[FLASH]     Combiner threads:      8
+[FLASH]     Input format:          FASTQ, phred_offset=33
+[FLASH]     Output format:         FASTQ, phred_offset=33
+[FLASH]  
+[FLASH] Starting reader and writer threads
+[FLASH] Starting 8 combiner threads
+[FLASH] Processed 25000 read pairs
+[FLASH] Processed 50000 read pairs
+[FLASH] Processed 71211 read pairs
+[FLASH]  
+[FLASH] Read combination statistics:
+[FLASH]     Total pairs:      71211
+[FLASH]     Combined pairs:   49218
+[FLASH]     Uncombined pairs: 21993
+[FLASH]     Percent combined: 69.12%
+[FLASH]  
+[FLASH] Writing histogram files.
+[FLASH]  
+[FLASH] FLASH v1.2.11 complete!
+[FLASH] 0.281 seconds elapsed
+Wed Sep 13 20:48:38 EDT 2017 flashing /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-186-LB-30d-CS-ITS_S108_L001_R1_001.fastq.gz and /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-186-LB-30d-CS-ITS_S108_L001_R2_001.fastq.gz
+[FLASH] Starting FLASH v1.2.11
+[FLASH] Fast Length Adjustment of SHort reads
+[FLASH]  
+[FLASH] Input files:
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-186-LB-30d-CS-ITS_S108_L001_R1_001.fastq.gz
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-186-LB-30d-CS-ITS_S108_L001_R2_001.fastq.gz
+[FLASH]  
+[FLASH] Output files:
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//186.extendedFrags.fastq
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//186.notCombined_1.fastq
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//186.notCombined_2.fastq
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//186.hist
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//186.histogram
+[FLASH]  
+[FLASH] Parameters:
+[FLASH]     Min overlap:           50
+[FLASH]     Max overlap:           250
+[FLASH]     Max mismatch density:  0.250000
+[FLASH]     Allow "outie" pairs:   false
+[FLASH]     Cap mismatch quals:    false
+[FLASH]     Combiner threads:      8
+[FLASH]     Input format:          FASTQ, phred_offset=33
+[FLASH]     Output format:         FASTQ, phred_offset=33
+[FLASH]  
+[FLASH] Starting reader and writer threads
+[FLASH] Starting 8 combiner threads
+[FLASH] Processed 25000 read pairs
+[FLASH] Processed 50000 read pairs
+[FLASH] Processed 69905 read pairs
+[FLASH]  
+[FLASH] Read combination statistics:
+[FLASH]     Total pairs:      69905
+[FLASH]     Combined pairs:   52657
+[FLASH]     Uncombined pairs: 17248
+[FLASH]     Percent combined: 75.33%
+[FLASH]  
+[FLASH] Writing histogram files.
+[FLASH]  
+[FLASH] FLASH v1.2.11 complete!
+[FLASH] 0.280 seconds elapsed
+Wed Sep 13 20:48:39 EDT 2017 flashing /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-187-LB-30d-CS-ITS_S109_L001_R1_001.fastq.gz and /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-187-LB-30d-CS-ITS_S109_L001_R2_001.fastq.gz
+[FLASH] Starting FLASH v1.2.11
+[FLASH] Fast Length Adjustment of SHort reads
+[FLASH]  
+[FLASH] Input files:
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-187-LB-30d-CS-ITS_S109_L001_R1_001.fastq.gz
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-187-LB-30d-CS-ITS_S109_L001_R2_001.fastq.gz
+[FLASH]  
+[FLASH] Output files:
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//187.extendedFrags.fastq
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//187.notCombined_1.fastq
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//187.notCombined_2.fastq
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//187.hist
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//187.histogram
+[FLASH]  
+[FLASH] Parameters:
+[FLASH]     Min overlap:           50
+[FLASH]     Max overlap:           250
+[FLASH]     Max mismatch density:  0.250000
+[FLASH]     Allow "outie" pairs:   false
+[FLASH]     Cap mismatch quals:    false
+[FLASH]     Combiner threads:      8
+[FLASH]     Input format:          FASTQ, phred_offset=33
+[FLASH]     Output format:         FASTQ, phred_offset=33
+[FLASH]  
+[FLASH] Starting reader and writer threads
+[FLASH] Starting 8 combiner threads
+[FLASH] Processed 25000 read pairs
+[FLASH] Processed 37257 read pairs
+[FLASH]  
+[FLASH] Read combination statistics:
+[FLASH]     Total pairs:      37257
+[FLASH]     Combined pairs:   23202
+[FLASH]     Uncombined pairs: 14055
+[FLASH]     Percent combined: 62.28%
+[FLASH]  
+[FLASH] Writing histogram files.
+[FLASH]  
+[FLASH] FLASH v1.2.11 complete!
+[FLASH] 0.160 seconds elapsed
+Wed Sep 13 20:48:39 EDT 2017 flashing /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-188-LB-30d-CS-ITS_S110_L001_R1_001.fastq.gz and /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-188-LB-30d-CS-ITS_S110_L001_R2_001.fastq.gz
+[FLASH] Starting FLASH v1.2.11
+[FLASH] Fast Length Adjustment of SHort reads
+[FLASH]  
+[FLASH] Input files:
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-188-LB-30d-CS-ITS_S110_L001_R1_001.fastq.gz
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-188-LB-30d-CS-ITS_S110_L001_R2_001.fastq.gz
+[FLASH]  
+[FLASH] Output files:
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//188.extendedFrags.fastq
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//188.notCombined_1.fastq
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//188.notCombined_2.fastq
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//188.hist
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//188.histogram
+[FLASH]  
+[FLASH] Parameters:
+[FLASH]     Min overlap:           50
+[FLASH]     Max overlap:           250
+[FLASH]     Max mismatch density:  0.250000
+[FLASH]     Allow "outie" pairs:   false
+[FLASH]     Cap mismatch quals:    false
+[FLASH]     Combiner threads:      8
+[FLASH]     Input format:          FASTQ, phred_offset=33
+[FLASH]     Output format:         FASTQ, phred_offset=33
+[FLASH]  
+[FLASH] Starting reader and writer threads
+[FLASH] Starting 8 combiner threads
+[FLASH] Processed 25000 read pairs
+[FLASH] Processed 50000 read pairs
+[FLASH] Processed 54856 read pairs
+[FLASH]  
+[FLASH] Read combination statistics:
+[FLASH]     Total pairs:      54856
+[FLASH]     Combined pairs:   36499
+[FLASH]     Uncombined pairs: 18357
+[FLASH]     Percent combined: 66.54%
+[FLASH]  
+[FLASH] Writing histogram files.
+[FLASH]  
+[FLASH] FLASH v1.2.11 complete!
+[FLASH] 0.229 seconds elapsed
+Wed Sep 13 20:48:39 EDT 2017 flashing /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-191-Control-112d-CS-ITS_S111_L001_R1_001.fastq.gz and /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-191-Control-112d-CS-ITS_S111_L001_R2_001.fastq.gz
+[FLASH] Starting FLASH v1.2.11
+[FLASH] Fast Length Adjustment of SHort reads
+[FLASH]  
+[FLASH] Input files:
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-191-Control-112d-CS-ITS_S111_L001_R1_001.fastq.gz
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-191-Control-112d-CS-ITS_S111_L001_R2_001.fastq.gz
+[FLASH]  
+[FLASH] Output files:
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//191.extendedFrags.fastq
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//191.notCombined_1.fastq
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//191.notCombined_2.fastq
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//191.hist
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//191.histogram
+[FLASH]  
+[FLASH] Parameters:
+[FLASH]     Min overlap:           50
+[FLASH]     Max overlap:           250
+[FLASH]     Max mismatch density:  0.250000
+[FLASH]     Allow "outie" pairs:   false
+[FLASH]     Cap mismatch quals:    false
+[FLASH]     Combiner threads:      8
+[FLASH]     Input format:          FASTQ, phred_offset=33
+[FLASH]     Output format:         FASTQ, phred_offset=33
+[FLASH]  
+[FLASH] Starting reader and writer threads
+[FLASH] Starting 8 combiner threads
+[FLASH] Processed 25000 read pairs
+[FLASH] Processed 37510 read pairs
+[FLASH]  
+[FLASH] Read combination statistics:
+[FLASH]     Total pairs:      37510
+[FLASH]     Combined pairs:   23511
+[FLASH]     Uncombined pairs: 13999
+[FLASH]     Percent combined: 62.68%
+[FLASH]  
+[FLASH] Writing histogram files.
+[FLASH]  
+[FLASH] FLASH v1.2.11 complete!
+[FLASH] 0.158 seconds elapsed
+Wed Sep 13 20:48:39 EDT 2017 flashing /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-192-Control-112d-CS-ITS_S112_L001_R1_001.fastq.gz and /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-192-Control-112d-CS-ITS_S112_L001_R2_001.fastq.gz
+[FLASH] Starting FLASH v1.2.11
+[FLASH] Fast Length Adjustment of SHort reads
+[FLASH]  
+[FLASH] Input files:
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-192-Control-112d-CS-ITS_S112_L001_R1_001.fastq.gz
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-192-Control-112d-CS-ITS_S112_L001_R2_001.fastq.gz
+[FLASH]  
+[FLASH] Output files:
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//192.extendedFrags.fastq
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//192.notCombined_1.fastq
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//192.notCombined_2.fastq
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//192.hist
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//192.histogram
+[FLASH]  
+[FLASH] Parameters:
+[FLASH]     Min overlap:           50
+[FLASH]     Max overlap:           250
+[FLASH]     Max mismatch density:  0.250000
+[FLASH]     Allow "outie" pairs:   false
+[FLASH]     Cap mismatch quals:    false
+[FLASH]     Combiner threads:      8
+[FLASH]     Input format:          FASTQ, phred_offset=33
+[FLASH]     Output format:         FASTQ, phred_offset=33
+[FLASH]  
+[FLASH] Starting reader and writer threads
+[FLASH] Starting 8 combiner threads
+[FLASH] Processed 25000 read pairs
+[FLASH] Processed 46953 read pairs
+[FLASH]  
+[FLASH] Read combination statistics:
+[FLASH]     Total pairs:      46953
+[FLASH]     Combined pairs:   39729
+[FLASH]     Uncombined pairs: 7224
+[FLASH]     Percent combined: 84.61%
+[FLASH]  
+[FLASH] Writing histogram files.
+[FLASH]  
+[FLASH] FLASH v1.2.11 complete!
+[FLASH] 0.193 seconds elapsed
+Wed Sep 13 20:48:39 EDT 2017 flashing /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-193-Control-112d-CS-ITS_S113_L001_R1_001.fastq.gz and /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-193-Control-112d-CS-ITS_S113_L001_R2_001.fastq.gz
+[FLASH] Starting FLASH v1.2.11
+[FLASH] Fast Length Adjustment of SHort reads
+[FLASH]  
+[FLASH] Input files:
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-193-Control-112d-CS-ITS_S113_L001_R1_001.fastq.gz
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-193-Control-112d-CS-ITS_S113_L001_R2_001.fastq.gz
+[FLASH]  
+[FLASH] Output files:
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//193.extendedFrags.fastq
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//193.notCombined_1.fastq
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//193.notCombined_2.fastq
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//193.hist
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//193.histogram
+[FLASH]  
+[FLASH] Parameters:
+[FLASH]     Min overlap:           50
+[FLASH]     Max overlap:           250
+[FLASH]     Max mismatch density:  0.250000
+[FLASH]     Allow "outie" pairs:   false
+[FLASH]     Cap mismatch quals:    false
+[FLASH]     Combiner threads:      8
+[FLASH]     Input format:          FASTQ, phred_offset=33
+[FLASH]     Output format:         FASTQ, phred_offset=33
+[FLASH]  
+[FLASH] Starting reader and writer threads
+[FLASH] Starting 8 combiner threads
+[FLASH] Processed 25000 read pairs
+[FLASH] Processed 44509 read pairs
+[FLASH]  
+[FLASH] Read combination statistics:
+[FLASH]     Total pairs:      44509
+[FLASH]     Combined pairs:   32217
+[FLASH]     Uncombined pairs: 12292
+[FLASH]     Percent combined: 72.38%
+[FLASH]  
+[FLASH] Writing histogram files.
+[FLASH]  
+[FLASH] FLASH v1.2.11 complete!
+[FLASH] 0.189 seconds elapsed
+Wed Sep 13 20:48:40 EDT 2017 flashing /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-196-LH-112d-CS-ITS_S114_L001_R1_001.fastq.gz and /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-196-LH-112d-CS-ITS_S114_L001_R2_001.fastq.gz
+[FLASH] Starting FLASH v1.2.11
+[FLASH] Fast Length Adjustment of SHort reads
+[FLASH]  
+[FLASH] Input files:
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-196-LH-112d-CS-ITS_S114_L001_R1_001.fastq.gz
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-196-LH-112d-CS-ITS_S114_L001_R2_001.fastq.gz
+[FLASH]  
+[FLASH] Output files:
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//196.extendedFrags.fastq
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//196.notCombined_1.fastq
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//196.notCombined_2.fastq
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//196.hist
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//196.histogram
+[FLASH]  
+[FLASH] Parameters:
+[FLASH]     Min overlap:           50
+[FLASH]     Max overlap:           250
+[FLASH]     Max mismatch density:  0.250000
+[FLASH]     Allow "outie" pairs:   false
+[FLASH]     Cap mismatch quals:    false
+[FLASH]     Combiner threads:      8
+[FLASH]     Input format:          FASTQ, phred_offset=33
+[FLASH]     Output format:         FASTQ, phred_offset=33
+[FLASH]  
+[FLASH] Starting reader and writer threads
+[FLASH] Starting 8 combiner threads
+[FLASH] Processed 25000 read pairs
+[FLASH] Processed 50000 read pairs
+[FLASH] Processed 51819 read pairs
+[FLASH]  
+[FLASH] Read combination statistics:
+[FLASH]     Total pairs:      51819
+[FLASH]     Combined pairs:   41230
+[FLASH]     Uncombined pairs: 10589
+[FLASH]     Percent combined: 79.57%
+[FLASH]  
+[FLASH] Writing histogram files.
+[FLASH]  
+[FLASH] FLASH v1.2.11 complete!
+[FLASH] 0.219 seconds elapsed
+Wed Sep 13 20:48:40 EDT 2017 flashing /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-197-LH-112d-CS-ITS_S115_L001_R1_001.fastq.gz and /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-197-LH-112d-CS-ITS_S115_L001_R2_001.fastq.gz
+[FLASH] Starting FLASH v1.2.11
+[FLASH] Fast Length Adjustment of SHort reads
+[FLASH]  
+[FLASH] Input files:
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-197-LH-112d-CS-ITS_S115_L001_R1_001.fastq.gz
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-197-LH-112d-CS-ITS_S115_L001_R2_001.fastq.gz
+[FLASH]  
+[FLASH] Output files:
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//197.extendedFrags.fastq
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//197.notCombined_1.fastq
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//197.notCombined_2.fastq
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//197.hist
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//197.histogram
+[FLASH]  
+[FLASH] Parameters:
+[FLASH]     Min overlap:           50
+[FLASH]     Max overlap:           250
+[FLASH]     Max mismatch density:  0.250000
+[FLASH]     Allow "outie" pairs:   false
+[FLASH]     Cap mismatch quals:    false
+[FLASH]     Combiner threads:      8
+[FLASH]     Input format:          FASTQ, phred_offset=33
+[FLASH]     Output format:         FASTQ, phred_offset=33
+[FLASH]  
+[FLASH] Starting reader and writer threads
+[FLASH] Starting 8 combiner threads
+[FLASH] Processed 25000 read pairs
+[FLASH] Processed 35385 read pairs
+[FLASH]  
+[FLASH] Read combination statistics:
+[FLASH]     Total pairs:      35385
+[FLASH]     Combined pairs:   24662
+[FLASH]     Uncombined pairs: 10723
+[FLASH]     Percent combined: 69.70%
+[FLASH]  
+[FLASH] Writing histogram files.
+[FLASH]  
+[FLASH] FLASH v1.2.11 complete!
+[FLASH] 0.150 seconds elapsed
+Wed Sep 13 20:48:40 EDT 2017 flashing /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-198-LH-112d-CS-ITS_S116_L001_R1_001.fastq.gz and /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-198-LH-112d-CS-ITS_S116_L001_R2_001.fastq.gz
+[FLASH] Starting FLASH v1.2.11
+[FLASH] Fast Length Adjustment of SHort reads
+[FLASH]  
+[FLASH] Input files:
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-198-LH-112d-CS-ITS_S116_L001_R1_001.fastq.gz
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-198-LH-112d-CS-ITS_S116_L001_R2_001.fastq.gz
+[FLASH]  
+[FLASH] Output files:
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//198.extendedFrags.fastq
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//198.notCombined_1.fastq
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//198.notCombined_2.fastq
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//198.hist
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//198.histogram
+[FLASH]  
+[FLASH] Parameters:
+[FLASH]     Min overlap:           50
+[FLASH]     Max overlap:           250
+[FLASH]     Max mismatch density:  0.250000
+[FLASH]     Allow "outie" pairs:   false
+[FLASH]     Cap mismatch quals:    false
+[FLASH]     Combiner threads:      8
+[FLASH]     Input format:          FASTQ, phred_offset=33
+[FLASH]     Output format:         FASTQ, phred_offset=33
+[FLASH]  
+[FLASH] Starting reader and writer threads
+[FLASH] Starting 8 combiner threads
+[FLASH] Processed 25000 read pairs
+[FLASH] Processed 49840 read pairs
+[FLASH]  
+[FLASH] Read combination statistics:
+[FLASH]     Total pairs:      49840
+[FLASH]     Combined pairs:   31783
+[FLASH]     Uncombined pairs: 18057
+[FLASH]     Percent combined: 63.77%
+[FLASH]  
+[FLASH] Writing histogram files.
+[FLASH]  
+[FLASH] FLASH v1.2.11 complete!
+[FLASH] 0.225 seconds elapsed
+Wed Sep 13 20:48:40 EDT 2017 flashing /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-201-LH-LB-112d-CS-ITS_S117_L001_R1_001.fastq.gz and /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-201-LH-LB-112d-CS-ITS_S117_L001_R2_001.fastq.gz
+[FLASH] Starting FLASH v1.2.11
+[FLASH] Fast Length Adjustment of SHort reads
+[FLASH]  
+[FLASH] Input files:
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-201-LH-LB-112d-CS-ITS_S117_L001_R1_001.fastq.gz
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-201-LH-LB-112d-CS-ITS_S117_L001_R2_001.fastq.gz
+[FLASH]  
+[FLASH] Output files:
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//201.extendedFrags.fastq
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//201.notCombined_1.fastq
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//201.notCombined_2.fastq
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//201.hist
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//201.histogram
+[FLASH]  
+[FLASH] Parameters:
+[FLASH]     Min overlap:           50
+[FLASH]     Max overlap:           250
+[FLASH]     Max mismatch density:  0.250000
+[FLASH]     Allow "outie" pairs:   false
+[FLASH]     Cap mismatch quals:    false
+[FLASH]     Combiner threads:      8
+[FLASH]     Input format:          FASTQ, phred_offset=33
+[FLASH]     Output format:         FASTQ, phred_offset=33
+[FLASH]  
+[FLASH] Starting reader and writer threads
+[FLASH] Starting 8 combiner threads
+[FLASH] Processed 25000 read pairs
+[FLASH] Processed 50000 read pairs
+[FLASH] Processed 61116 read pairs
+[FLASH]  
+[FLASH] Read combination statistics:
+[FLASH]     Total pairs:      61116
+[FLASH]     Combined pairs:   35952
+[FLASH]     Uncombined pairs: 25164
+[FLASH]     Percent combined: 58.83%
+[FLASH]  
+[FLASH] Writing histogram files.
+[FLASH]  
+[FLASH] FLASH v1.2.11 complete!
+[FLASH] 0.255 seconds elapsed
+Wed Sep 13 20:48:40 EDT 2017 flashing /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-202-LH-LB-112d-CS-ITS_S118_L001_R1_001.fastq.gz and /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-202-LH-LB-112d-CS-ITS_S118_L001_R2_001.fastq.gz
+[FLASH] Starting FLASH v1.2.11
+[FLASH] Fast Length Adjustment of SHort reads
+[FLASH]  
+[FLASH] Input files:
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-202-LH-LB-112d-CS-ITS_S118_L001_R1_001.fastq.gz
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-202-LH-LB-112d-CS-ITS_S118_L001_R2_001.fastq.gz
+[FLASH]  
+[FLASH] Output files:
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//202.extendedFrags.fastq
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//202.notCombined_1.fastq
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//202.notCombined_2.fastq
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//202.hist
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//202.histogram
+[FLASH]  
+[FLASH] Parameters:
+[FLASH]     Min overlap:           50
+[FLASH]     Max overlap:           250
+[FLASH]     Max mismatch density:  0.250000
+[FLASH]     Allow "outie" pairs:   false
+[FLASH]     Cap mismatch quals:    false
+[FLASH]     Combiner threads:      8
+[FLASH]     Input format:          FASTQ, phred_offset=33
+[FLASH]     Output format:         FASTQ, phred_offset=33
+[FLASH]  
+[FLASH] Starting reader and writer threads
+[FLASH] Starting 8 combiner threads
+[FLASH] Processed 25000 read pairs
+[FLASH] Processed 45494 read pairs
+[FLASH]  
+[FLASH] Read combination statistics:
+[FLASH]     Total pairs:      45494
+[FLASH]     Combined pairs:   27153
+[FLASH]     Uncombined pairs: 18341
+[FLASH]     Percent combined: 59.68%
+[FLASH]  
+[FLASH] Writing histogram files.
+[FLASH]  
+[FLASH] FLASH v1.2.11 complete!
+[FLASH] 0.209 seconds elapsed
+Wed Sep 13 20:48:41 EDT 2017 flashing /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-203-LH-LB-112d-CS-ITS_S119_L001_R1_001.fastq.gz and /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-203-LH-LB-112d-CS-ITS_S119_L001_R2_001.fastq.gz
+[FLASH] Starting FLASH v1.2.11
+[FLASH] Fast Length Adjustment of SHort reads
+[FLASH]  
+[FLASH] Input files:
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-203-LH-LB-112d-CS-ITS_S119_L001_R1_001.fastq.gz
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-203-LH-LB-112d-CS-ITS_S119_L001_R2_001.fastq.gz
+[FLASH]  
+[FLASH] Output files:
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//203.extendedFrags.fastq
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//203.notCombined_1.fastq
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//203.notCombined_2.fastq
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//203.hist
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//203.histogram
+[FLASH]  
+[FLASH] Parameters:
+[FLASH]     Min overlap:           50
+[FLASH]     Max overlap:           250
+[FLASH]     Max mismatch density:  0.250000
+[FLASH]     Allow "outie" pairs:   false
+[FLASH]     Cap mismatch quals:    false
+[FLASH]     Combiner threads:      8
+[FLASH]     Input format:          FASTQ, phred_offset=33
+[FLASH]     Output format:         FASTQ, phred_offset=33
+[FLASH]  
+[FLASH] Starting reader and writer threads
+[FLASH] Starting 8 combiner threads
+[FLASH] Processed 25000 read pairs
+[FLASH] Processed 50000 read pairs
+[FLASH] Processed 64994 read pairs
+[FLASH]  
+[FLASH] Read combination statistics:
+[FLASH]     Total pairs:      64994
+[FLASH]     Combined pairs:   50109
+[FLASH]     Uncombined pairs: 14885
+[FLASH]     Percent combined: 77.10%
+[FLASH]  
+[FLASH] Writing histogram files.
+[FLASH]  
+[FLASH] FLASH v1.2.11 complete!
+[FLASH] 0.268 seconds elapsed
+Wed Sep 13 20:48:41 EDT 2017 flashing /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-206-LB-112d-CS-ITS_S120_L001_R1_001.fastq.gz and /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-206-LB-112d-CS-ITS_S120_L001_R2_001.fastq.gz
+[FLASH] Starting FLASH v1.2.11
+[FLASH] Fast Length Adjustment of SHort reads
+[FLASH]  
+[FLASH] Input files:
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-206-LB-112d-CS-ITS_S120_L001_R1_001.fastq.gz
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-206-LB-112d-CS-ITS_S120_L001_R2_001.fastq.gz
+[FLASH]  
+[FLASH] Output files:
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//206.extendedFrags.fastq
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//206.notCombined_1.fastq
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//206.notCombined_2.fastq
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//206.hist
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//206.histogram
+[FLASH]  
+[FLASH] Parameters:
+[FLASH]     Min overlap:           50
+[FLASH]     Max overlap:           250
+[FLASH]     Max mismatch density:  0.250000
+[FLASH]     Allow "outie" pairs:   false
+[FLASH]     Cap mismatch quals:    false
+[FLASH]     Combiner threads:      8
+[FLASH]     Input format:          FASTQ, phred_offset=33
+[FLASH]     Output format:         FASTQ, phred_offset=33
+[FLASH]  
+[FLASH] Starting reader and writer threads
+[FLASH] Starting 8 combiner threads
+[FLASH] Processed 25000 read pairs
+[FLASH] Processed 46530 read pairs
+[FLASH]  
+[FLASH] Read combination statistics:
+[FLASH]     Total pairs:      46530
+[FLASH]     Combined pairs:   35169
+[FLASH]     Uncombined pairs: 11361
+[FLASH]     Percent combined: 75.58%
+[FLASH]  
+[FLASH] Writing histogram files.
+[FLASH]  
+[FLASH] FLASH v1.2.11 complete!
+[FLASH] 0.201 seconds elapsed
+Wed Sep 13 20:48:41 EDT 2017 flashing /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-207-LB-112d-CS-ITS_S121_L001_R1_001.fastq.gz and /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-207-LB-112d-CS-ITS_S121_L001_R2_001.fastq.gz
+[FLASH] Starting FLASH v1.2.11
+[FLASH] Fast Length Adjustment of SHort reads
+[FLASH]  
+[FLASH] Input files:
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-207-LB-112d-CS-ITS_S121_L001_R1_001.fastq.gz
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-207-LB-112d-CS-ITS_S121_L001_R2_001.fastq.gz
+[FLASH]  
+[FLASH] Output files:
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//207.extendedFrags.fastq
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//207.notCombined_1.fastq
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//207.notCombined_2.fastq
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//207.hist
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//207.histogram
+[FLASH]  
+[FLASH] Parameters:
+[FLASH]     Min overlap:           50
+[FLASH]     Max overlap:           250
+[FLASH]     Max mismatch density:  0.250000
+[FLASH]     Allow "outie" pairs:   false
+[FLASH]     Cap mismatch quals:    false
+[FLASH]     Combiner threads:      8
+[FLASH]     Input format:          FASTQ, phred_offset=33
+[FLASH]     Output format:         FASTQ, phred_offset=33
+[FLASH]  
+[FLASH] Starting reader and writer threads
+[FLASH] Starting 8 combiner threads
+[FLASH] Processed 25000 read pairs
+[FLASH] Processed 29897 read pairs
+[FLASH]  
+[FLASH] Read combination statistics:
+[FLASH]     Total pairs:      29897
+[FLASH]     Combined pairs:   23251
+[FLASH]     Uncombined pairs: 6646
+[FLASH]     Percent combined: 77.77%
+[FLASH]  
+[FLASH] Writing histogram files.
+[FLASH]  
+[FLASH] FLASH v1.2.11 complete!
+[FLASH] 0.137 seconds elapsed
+Wed Sep 13 20:48:41 EDT 2017 flashing /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-208-LB-112d-CS-ITS_S122_L001_R1_001.fastq.gz and /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-208-LB-112d-CS-ITS_S122_L001_R2_001.fastq.gz
+[FLASH] Starting FLASH v1.2.11
+[FLASH] Fast Length Adjustment of SHort reads
+[FLASH]  
+[FLASH] Input files:
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-208-LB-112d-CS-ITS_S122_L001_R1_001.fastq.gz
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/LALL-PD-KC2015-208-LB-112d-CS-ITS_S122_L001_R2_001.fastq.gz
+[FLASH]  
+[FLASH] Output files:
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//208.extendedFrags.fastq
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//208.notCombined_1.fastq
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//208.notCombined_2.fastq
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//208.hist
+[FLASH]     /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags//208.histogram
+[FLASH]  
+[FLASH] Parameters:
+[FLASH]     Min overlap:           50
+[FLASH]     Max overlap:           250
+[FLASH]     Max mismatch density:  0.250000
+[FLASH]     Allow "outie" pairs:   false
+[FLASH]     Cap mismatch quals:    false
+[FLASH]     Combiner threads:      8
+[FLASH]     Input format:          FASTQ, phred_offset=33
+[FLASH]     Output format:         FASTQ, phred_offset=33
+[FLASH]  
+[FLASH] Starting reader and writer threads
+[FLASH] Starting 8 combiner threads
+[FLASH] Processed 25000 read pairs
+[FLASH] Processed 39206 read pairs
+[FLASH]  
+[FLASH] Read combination statistics:
+[FLASH]     Total pairs:      39206
+[FLASH]     Combined pairs:   28095
+[FLASH]     Uncombined pairs: 11111
+[FLASH]     Percent combined: 71.66%
+[FLASH]  
+[FLASH] Writing histogram files.
+[FLASH]  
+[FLASH] FLASH v1.2.11 complete!
+[FLASH] 0.174 seconds elapsed
+Started analysis of 146.extendedFrags.fastq
+Approx 5% complete for 146.extendedFrags.fastq
+Approx 10% complete for 146.extendedFrags.fastq
+Approx 15% complete for 146.extendedFrags.fastq
+Approx 20% complete for 146.extendedFrags.fastq
+Approx 25% complete for 146.extendedFrags.fastq
+Approx 30% complete for 146.extendedFrags.fastq
+Approx 35% complete for 146.extendedFrags.fastq
+Started analysis of 147.extendedFrags.fastq
+Approx 40% complete for 146.extendedFrags.fastq
+Approx 5% complete for 147.extendedFrags.fastq
+Approx 10% complete for 147.extendedFrags.fastq
+Approx 45% complete for 146.extendedFrags.fastq
+Approx 15% complete for 147.extendedFrags.fastq
+Approx 50% complete for 146.extendedFrags.fastq
+Approx 20% complete for 147.extendedFrags.fastq
+Approx 55% complete for 146.extendedFrags.fastq
+Approx 25% complete for 147.extendedFrags.fastq
+Approx 30% complete for 147.extendedFrags.fastq
+Approx 60% complete for 146.extendedFrags.fastq
+Approx 35% complete for 147.extendedFrags.fastq
+Approx 65% complete for 146.extendedFrags.fastq
+Approx 40% complete for 147.extendedFrags.fastq
+Approx 70% complete for 146.extendedFrags.fastq
+Approx 45% complete for 147.extendedFrags.fastq
+Approx 75% complete for 146.extendedFrags.fastq
+Approx 50% complete for 147.extendedFrags.fastq
+Approx 80% complete for 146.extendedFrags.fastq
+Approx 55% complete for 147.extendedFrags.fastq
+Started analysis of 148.extendedFrags.fastq
+Approx 85% complete for 146.extendedFrags.fastq
+Approx 60% complete for 147.extendedFrags.fastq
+Approx 5% complete for 148.extendedFrags.fastq
+Approx 65% complete for 147.extendedFrags.fastq
+Approx 10% complete for 148.extendedFrags.fastq
+Approx 90% complete for 146.extendedFrags.fastq
+Approx 70% complete for 147.extendedFrags.fastq
+Approx 95% complete for 146.extendedFrags.fastq
+Approx 15% complete for 148.extendedFrags.fastq
+Approx 75% complete for 147.extendedFrags.fastq
+Analysis complete for 146.extendedFrags.fastq
+Approx 80% complete for 147.extendedFrags.fastq
+Approx 20% complete for 148.extendedFrags.fastq
+Approx 25% complete for 148.extendedFrags.fastq
+Approx 85% complete for 147.extendedFrags.fastq
+Approx 30% complete for 148.extendedFrags.fastq
+Approx 35% complete for 148.extendedFrags.fastq
+Approx 90% complete for 147.extendedFrags.fastq
+Started analysis of 171.extendedFrags.fastq
+Approx 5% complete for 171.extendedFrags.fastq
+Approx 40% complete for 148.extendedFrags.fastq
+Approx 10% complete for 171.extendedFrags.fastq
+Approx 15% complete for 171.extendedFrags.fastq
+Approx 45% complete for 148.extendedFrags.fastq
+Approx 20% complete for 171.extendedFrags.fastq
+Approx 95% complete for 147.extendedFrags.fastq
+Approx 30% complete for 171.extendedFrags.fastq
+Approx 50% complete for 148.extendedFrags.fastq
+Approx 35% complete for 171.extendedFrags.fastq
+Approx 40% complete for 171.extendedFrags.fastq
+Analysis complete for 147.extendedFrags.fastq
+Approx 45% complete for 171.extendedFrags.fastq
+Approx 55% complete for 148.extendedFrags.fastq
+Approx 50% complete for 171.extendedFrags.fastq
+Approx 60% complete for 171.extendedFrags.fastq
+Approx 60% complete for 148.extendedFrags.fastq
+Approx 65% complete for 171.extendedFrags.fastq
+Approx 70% complete for 171.extendedFrags.fastq
+Approx 75% complete for 171.extendedFrags.fastq
+Approx 65% complete for 148.extendedFrags.fastq
+Approx 85% complete for 171.extendedFrags.fastq
+Approx 90% complete for 171.extendedFrags.fastq
+Approx 70% complete for 148.extendedFrags.fastq
+Approx 95% complete for 171.extendedFrags.fastq
+Analysis complete for 171.extendedFrags.fastq
+Started analysis of 172.extendedFrags.fastq
+Approx 75% complete for 148.extendedFrags.fastq
+Approx 5% complete for 172.extendedFrags.fastq
+Approx 80% complete for 148.extendedFrags.fastq
+Approx 10% complete for 172.extendedFrags.fastq
+Approx 85% complete for 148.extendedFrags.fastq
+Approx 15% complete for 172.extendedFrags.fastq
+Approx 20% complete for 172.extendedFrags.fastq
+Approx 90% complete for 148.extendedFrags.fastq
+Approx 25% complete for 172.extendedFrags.fastq
+Approx 95% complete for 148.extendedFrags.fastq
+Approx 30% complete for 172.extendedFrags.fastq
+Analysis complete for 148.extendedFrags.fastq
+Approx 35% complete for 172.extendedFrags.fastq
+Approx 40% complete for 172.extendedFrags.fastq
+Approx 45% complete for 172.extendedFrags.fastq
+Approx 50% complete for 172.extendedFrags.fastq
+Approx 55% complete for 172.extendedFrags.fastq
+Approx 60% complete for 172.extendedFrags.fastq
+Started analysis of 173.extendedFrags.fastq
+Approx 65% complete for 172.extendedFrags.fastq
+Approx 5% complete for 173.extendedFrags.fastq
+Approx 70% complete for 172.extendedFrags.fastq
+Approx 10% complete for 173.extendedFrags.fastq
+Approx 75% complete for 172.extendedFrags.fastq
+Approx 15% complete for 173.extendedFrags.fastq
+Approx 80% complete for 172.extendedFrags.fastq
+Approx 20% complete for 173.extendedFrags.fastq
+Approx 85% complete for 172.extendedFrags.fastq
+Approx 25% complete for 173.extendedFrags.fastq
+Approx 90% complete for 172.extendedFrags.fastq
+Approx 30% complete for 173.extendedFrags.fastq
+Approx 95% complete for 172.extendedFrags.fastq
+Approx 35% complete for 173.extendedFrags.fastq
+Approx 40% complete for 173.extendedFrags.fastq
+Started analysis of 176.extendedFrags.fastq
+Analysis complete for 172.extendedFrags.fastq
+Approx 5% complete for 176.extendedFrags.fastq
+Approx 45% complete for 173.extendedFrags.fastq
+Approx 10% complete for 176.extendedFrags.fastq
+Approx 50% complete for 173.extendedFrags.fastq
+Approx 15% complete for 176.extendedFrags.fastq
+Approx 20% complete for 176.extendedFrags.fastq
+Approx 55% complete for 173.extendedFrags.fastq
+Approx 25% complete for 176.extendedFrags.fastq
+Approx 30% complete for 176.extendedFrags.fastq
+Approx 60% complete for 173.extendedFrags.fastq
+Approx 35% complete for 176.extendedFrags.fastq
+Approx 65% complete for 173.extendedFrags.fastq
+Approx 40% complete for 176.extendedFrags.fastq
+Approx 70% complete for 173.extendedFrags.fastq
+Approx 45% complete for 176.extendedFrags.fastq
+Approx 50% complete for 176.extendedFrags.fastq
+Approx 75% complete for 173.extendedFrags.fastq
+Approx 55% complete for 176.extendedFrags.fastq
+Approx 60% complete for 176.extendedFrags.fastq
+Approx 80% complete for 173.extendedFrags.fastq
+Approx 65% complete for 176.extendedFrags.fastq
+Approx 85% complete for 173.extendedFrags.fastq
+Approx 70% complete for 176.extendedFrags.fastq
+Approx 75% complete for 176.extendedFrags.fastq
+Approx 80% complete for 176.extendedFrags.fastq
+Approx 90% complete for 173.extendedFrags.fastq
+Approx 85% complete for 176.extendedFrags.fastq
+Approx 95% complete for 173.extendedFrags.fastq
+Approx 90% complete for 176.extendedFrags.fastq
+Approx 95% complete for 176.extendedFrags.fastq
+Analysis complete for 173.extendedFrags.fastq
+Analysis complete for 176.extendedFrags.fastq
+Started analysis of 177.extendedFrags.fastq
+Approx 5% complete for 177.extendedFrags.fastq
+Approx 10% complete for 177.extendedFrags.fastq
+Approx 15% complete for 177.extendedFrags.fastq
+Approx 20% complete for 177.extendedFrags.fastq
+Approx 25% complete for 177.extendedFrags.fastq
+Approx 30% complete for 177.extendedFrags.fastq
+Approx 35% complete for 177.extendedFrags.fastq
+Approx 40% complete for 177.extendedFrags.fastq
+Approx 45% complete for 177.extendedFrags.fastq
+Approx 50% complete for 177.extendedFrags.fastq
+Approx 55% complete for 177.extendedFrags.fastq
+Approx 60% complete for 177.extendedFrags.fastq
+Approx 70% complete for 177.extendedFrags.fastq
+Approx 75% complete for 177.extendedFrags.fastq
+Approx 80% complete for 177.extendedFrags.fastq
+Approx 85% complete for 177.extendedFrags.fastq
+Approx 90% complete for 177.extendedFrags.fastq
+Started analysis of 178.extendedFrags.fastq
+Approx 95% complete for 177.extendedFrags.fastq
+Analysis complete for 177.extendedFrags.fastq
+Approx 5% complete for 178.extendedFrags.fastq
+Approx 10% complete for 178.extendedFrags.fastq
+Approx 15% complete for 178.extendedFrags.fastq
+Approx 20% complete for 178.extendedFrags.fastq
+Approx 25% complete for 178.extendedFrags.fastq
+Approx 30% complete for 178.extendedFrags.fastq
+Approx 35% complete for 178.extendedFrags.fastq
+Approx 40% complete for 178.extendedFrags.fastq
+Approx 45% complete for 178.extendedFrags.fastq
+Approx 50% complete for 178.extendedFrags.fastq
+Approx 55% complete for 178.extendedFrags.fastq
+Approx 60% complete for 178.extendedFrags.fastq
+Approx 65% complete for 178.extendedFrags.fastq
+Approx 70% complete for 178.extendedFrags.fastq
+Started analysis of 181.extendedFrags.fastq
+Approx 75% complete for 178.extendedFrags.fastq
+Approx 5% complete for 181.extendedFrags.fastq
+Approx 80% complete for 178.extendedFrags.fastq
+Approx 10% complete for 181.extendedFrags.fastq
+Approx 85% complete for 178.extendedFrags.fastq
+Approx 15% complete for 181.extendedFrags.fastq
+Approx 90% complete for 178.extendedFrags.fastq
+Approx 20% complete for 181.extendedFrags.fastq
+Approx 95% complete for 178.extendedFrags.fastq
+Analysis complete for 178.extendedFrags.fastq
+Approx 25% complete for 181.extendedFrags.fastq
+Approx 30% complete for 181.extendedFrags.fastq
+Approx 35% complete for 181.extendedFrags.fastq
+Approx 40% complete for 181.extendedFrags.fastq
+Approx 45% complete for 181.extendedFrags.fastq
+Approx 50% complete for 181.extendedFrags.fastq
+Started analysis of 182.extendedFrags.fastq
+Approx 55% complete for 181.extendedFrags.fastq
+Approx 5% complete for 182.extendedFrags.fastq
+Approx 60% complete for 181.extendedFrags.fastq
+Approx 65% complete for 181.extendedFrags.fastq
+Approx 10% complete for 182.extendedFrags.fastq
+Approx 70% complete for 181.extendedFrags.fastq
+Approx 15% complete for 182.extendedFrags.fastq
+Approx 75% complete for 181.extendedFrags.fastq
+Approx 20% complete for 182.extendedFrags.fastq
+Approx 80% complete for 181.extendedFrags.fastq
+Approx 25% complete for 182.extendedFrags.fastq
+Approx 85% complete for 181.extendedFrags.fastq
+Approx 90% complete for 181.extendedFrags.fastq
+Approx 30% complete for 182.extendedFrags.fastq
+Approx 35% complete for 182.extendedFrags.fastq
+Approx 95% complete for 181.extendedFrags.fastq
+Analysis complete for 181.extendedFrags.fastq
+Approx 40% complete for 182.extendedFrags.fastq
+Started analysis of 183.extendedFrags.fastq
+Approx 45% complete for 182.extendedFrags.fastq
+Approx 5% complete for 183.extendedFrags.fastq
+Approx 50% complete for 182.extendedFrags.fastq
+Approx 10% complete for 183.extendedFrags.fastq
+Approx 55% complete for 182.extendedFrags.fastq
+Approx 15% complete for 183.extendedFrags.fastq
+Approx 60% complete for 182.extendedFrags.fastq
+Approx 20% complete for 183.extendedFrags.fastq
+Approx 65% complete for 182.extendedFrags.fastq
+Approx 25% complete for 183.extendedFrags.fastq
+Approx 70% complete for 182.extendedFrags.fastq
+Approx 30% complete for 183.extendedFrags.fastq
+Approx 75% complete for 182.extendedFrags.fastq
+Approx 35% complete for 183.extendedFrags.fastq
+Approx 80% complete for 182.extendedFrags.fastq
+Approx 40% complete for 183.extendedFrags.fastq
+Approx 85% complete for 182.extendedFrags.fastq
+Approx 45% complete for 183.extendedFrags.fastq
+Approx 90% complete for 182.extendedFrags.fastq
+Approx 50% complete for 183.extendedFrags.fastq
+Approx 95% complete for 182.extendedFrags.fastq
+Started analysis of 186.extendedFrags.fastq
+Analysis complete for 182.extendedFrags.fastq
+Approx 55% complete for 183.extendedFrags.fastq
+Approx 5% complete for 186.extendedFrags.fastq
+Approx 60% complete for 183.extendedFrags.fastq
+Approx 10% complete for 186.extendedFrags.fastq
+Approx 65% complete for 183.extendedFrags.fastq
+Approx 15% complete for 186.extendedFrags.fastq
+Approx 70% complete for 183.extendedFrags.fastq
+Approx 20% complete for 186.extendedFrags.fastq
+Approx 75% complete for 183.extendedFrags.fastq
+Approx 25% complete for 186.extendedFrags.fastq
+Approx 80% complete for 183.extendedFrags.fastq
+Approx 30% complete for 186.extendedFrags.fastq
+Approx 85% complete for 183.extendedFrags.fastq
+Approx 35% complete for 186.extendedFrags.fastq
+Approx 90% complete for 183.extendedFrags.fastq
+Approx 40% complete for 186.extendedFrags.fastq
+Approx 95% complete for 183.extendedFrags.fastq
+Approx 45% complete for 186.extendedFrags.fastq
+Analysis complete for 183.extendedFrags.fastq
+Approx 50% complete for 186.extendedFrags.fastq
+Started analysis of 187.extendedFrags.fastq
+Approx 55% complete for 186.extendedFrags.fastq
+Approx 5% complete for 187.extendedFrags.fastq
+Approx 10% complete for 187.extendedFrags.fastq
+Approx 60% complete for 186.extendedFrags.fastq
+Approx 15% complete for 187.extendedFrags.fastq
+Approx 20% complete for 187.extendedFrags.fastq
+Approx 65% complete for 186.extendedFrags.fastq
+Approx 25% complete for 187.extendedFrags.fastq
+Approx 70% complete for 186.extendedFrags.fastq
+Approx 30% complete for 187.extendedFrags.fastq
+Approx 35% complete for 187.extendedFrags.fastq
+Approx 75% complete for 186.extendedFrags.fastq
+Approx 40% complete for 187.extendedFrags.fastq
+Approx 45% complete for 187.extendedFrags.fastq
+Approx 80% complete for 186.extendedFrags.fastq
+Approx 50% complete for 187.extendedFrags.fastq
+Approx 55% complete for 187.extendedFrags.fastq
+Approx 85% complete for 186.extendedFrags.fastq
+Approx 60% complete for 187.extendedFrags.fastq
+Approx 90% complete for 186.extendedFrags.fastq
+Approx 65% complete for 187.extendedFrags.fastq
+Approx 70% complete for 187.extendedFrags.fastq
+Approx 95% complete for 186.extendedFrags.fastq
+Approx 75% complete for 187.extendedFrags.fastq
+Analysis complete for 186.extendedFrags.fastq
+Approx 80% complete for 187.extendedFrags.fastq
+Approx 85% complete for 187.extendedFrags.fastq
+Started analysis of 188.extendedFrags.fastq
+Approx 90% complete for 187.extendedFrags.fastq
+Approx 5% complete for 188.extendedFrags.fastq
+Approx 95% complete for 187.extendedFrags.fastq
+Approx 10% complete for 188.extendedFrags.fastq
+Analysis complete for 187.extendedFrags.fastq
+Approx 15% complete for 188.extendedFrags.fastq
+Approx 20% complete for 188.extendedFrags.fastq
+Approx 25% complete for 188.extendedFrags.fastq
+Approx 30% complete for 188.extendedFrags.fastq
+Approx 35% complete for 188.extendedFrags.fastq
+Approx 40% complete for 188.extendedFrags.fastq
+Approx 45% complete for 188.extendedFrags.fastq
+Approx 50% complete for 188.extendedFrags.fastq
+Started analysis of 191.extendedFrags.fastq
+Approx 55% complete for 188.extendedFrags.fastq
+Approx 5% complete for 191.extendedFrags.fastq
+Approx 60% complete for 188.extendedFrags.fastq
+Approx 10% complete for 191.extendedFrags.fastq
+Approx 65% complete for 188.extendedFrags.fastq
+Approx 15% complete for 191.extendedFrags.fastq
+Approx 20% complete for 191.extendedFrags.fastq
+Approx 70% complete for 188.extendedFrags.fastq
+Approx 25% complete for 191.extendedFrags.fastq
+Approx 75% complete for 188.extendedFrags.fastq
+Approx 30% complete for 191.extendedFrags.fastq
+Approx 80% complete for 188.extendedFrags.fastq
+Approx 35% complete for 191.extendedFrags.fastq
+Approx 85% complete for 188.extendedFrags.fastq
+Approx 40% complete for 191.extendedFrags.fastq
+Approx 45% complete for 191.extendedFrags.fastq
+Approx 90% complete for 188.extendedFrags.fastq
+Approx 50% complete for 191.extendedFrags.fastq
+Approx 95% complete for 188.extendedFrags.fastq
+Approx 55% complete for 191.extendedFrags.fastq
+Analysis complete for 188.extendedFrags.fastq
+Approx 60% complete for 191.extendedFrags.fastq
+Approx 65% complete for 191.extendedFrags.fastq
+Approx 70% complete for 191.extendedFrags.fastq
+Approx 75% complete for 191.extendedFrags.fastq
+Approx 80% complete for 191.extendedFrags.fastq
+Started analysis of 192.extendedFrags.fastq
+Approx 85% complete for 191.extendedFrags.fastq
+Approx 5% complete for 192.extendedFrags.fastq
+Approx 90% complete for 191.extendedFrags.fastq
+Approx 10% complete for 192.extendedFrags.fastq
+Approx 95% complete for 191.extendedFrags.fastq
+Analysis complete for 191.extendedFrags.fastq
+Approx 15% complete for 192.extendedFrags.fastq
+Approx 20% complete for 192.extendedFrags.fastq
+Approx 25% complete for 192.extendedFrags.fastq
+Approx 30% complete for 192.extendedFrags.fastq
+Approx 35% complete for 192.extendedFrags.fastq
+Approx 40% complete for 192.extendedFrags.fastq
+Approx 45% complete for 192.extendedFrags.fastq
+Approx 50% complete for 192.extendedFrags.fastq
+Approx 55% complete for 192.extendedFrags.fastq
+Started analysis of 193.extendedFrags.fastq
+Approx 5% complete for 193.extendedFrags.fastq
+Approx 60% complete for 192.extendedFrags.fastq
+Approx 10% complete for 193.extendedFrags.fastq
+Approx 65% complete for 192.extendedFrags.fastq
+Approx 15% complete for 193.extendedFrags.fastq
+Approx 70% complete for 192.extendedFrags.fastq
+Approx 20% complete for 193.extendedFrags.fastq
+Approx 75% complete for 192.extendedFrags.fastq
+Approx 25% complete for 193.extendedFrags.fastq
+Approx 80% complete for 192.extendedFrags.fastq
+Approx 30% complete for 193.extendedFrags.fastq
+Approx 85% complete for 192.extendedFrags.fastq
+Approx 35% complete for 193.extendedFrags.fastq
+Approx 40% complete for 193.extendedFrags.fastq
+Approx 90% complete for 192.extendedFrags.fastq
+Approx 95% complete for 192.extendedFrags.fastq
+Approx 45% complete for 193.extendedFrags.fastq
+Analysis complete for 192.extendedFrags.fastq
+Approx 50% complete for 193.extendedFrags.fastq
+Approx 55% complete for 193.extendedFrags.fastq
+Approx 60% complete for 193.extendedFrags.fastq
+Approx 65% complete for 193.extendedFrags.fastq
+Started analysis of 196.extendedFrags.fastq
+Approx 70% complete for 193.extendedFrags.fastq
+Approx 75% complete for 193.extendedFrags.fastq
+Approx 5% complete for 196.extendedFrags.fastq
+Approx 80% complete for 193.extendedFrags.fastq
+Approx 10% complete for 196.extendedFrags.fastq
+Approx 85% complete for 193.extendedFrags.fastq
+Approx 15% complete for 196.extendedFrags.fastq
+Approx 90% complete for 193.extendedFrags.fastq
+Approx 20% complete for 196.extendedFrags.fastq
+Approx 95% complete for 193.extendedFrags.fastq
+Analysis complete for 193.extendedFrags.fastq
+Approx 25% complete for 196.extendedFrags.fastq
+Approx 30% complete for 196.extendedFrags.fastq
+Approx 35% complete for 196.extendedFrags.fastq
+Approx 40% complete for 196.extendedFrags.fastq
+Approx 45% complete for 196.extendedFrags.fastq
+Approx 50% complete for 196.extendedFrags.fastq
+Approx 55% complete for 196.extendedFrags.fastq
+Started analysis of 197.extendedFrags.fastq
+Approx 60% complete for 196.extendedFrags.fastq
+Approx 5% complete for 197.extendedFrags.fastq
+Approx 65% complete for 196.extendedFrags.fastq
+Approx 10% complete for 197.extendedFrags.fastq
+Approx 70% complete for 196.extendedFrags.fastq
+Approx 15% complete for 197.extendedFrags.fastq
+Approx 20% complete for 197.extendedFrags.fastq
+Approx 75% complete for 196.extendedFrags.fastq
+Approx 25% complete for 197.extendedFrags.fastq
+Approx 80% complete for 196.extendedFrags.fastq
+Approx 30% complete for 197.extendedFrags.fastq
+Approx 85% complete for 196.extendedFrags.fastq
+Approx 35% complete for 197.extendedFrags.fastq
+Approx 40% complete for 197.extendedFrags.fastq
+Approx 90% complete for 196.extendedFrags.fastq
+Approx 45% complete for 197.extendedFrags.fastq
+Approx 95% complete for 196.extendedFrags.fastq
+Approx 50% complete for 197.extendedFrags.fastq
+Analysis complete for 196.extendedFrags.fastq
+Approx 55% complete for 197.extendedFrags.fastq
+Approx 60% complete for 197.extendedFrags.fastq
+Approx 65% complete for 197.extendedFrags.fastq
+Approx 70% complete for 197.extendedFrags.fastq
+Approx 75% complete for 197.extendedFrags.fastq
+Started analysis of 198.extendedFrags.fastq
+Approx 80% complete for 197.extendedFrags.fastq
+Approx 85% complete for 197.extendedFrags.fastq
+Approx 5% complete for 198.extendedFrags.fastq
+Approx 90% complete for 197.extendedFrags.fastq
+Approx 10% complete for 198.extendedFrags.fastq
+Approx 95% complete for 197.extendedFrags.fastq
+Approx 15% complete for 198.extendedFrags.fastq
+Analysis complete for 197.extendedFrags.fastq
+Approx 20% complete for 198.extendedFrags.fastq
+Approx 25% complete for 198.extendedFrags.fastq
+Approx 30% complete for 198.extendedFrags.fastq
+Approx 35% complete for 198.extendedFrags.fastq
+Approx 40% complete for 198.extendedFrags.fastq
+Approx 45% complete for 198.extendedFrags.fastq
+Approx 50% complete for 198.extendedFrags.fastq
+Approx 55% complete for 198.extendedFrags.fastq
+Approx 60% complete for 198.extendedFrags.fastq
+Approx 65% complete for 198.extendedFrags.fastq
+Approx 70% complete for 198.extendedFrags.fastq
+Approx 75% complete for 198.extendedFrags.fastq
+Started analysis of 201.extendedFrags.fastq
+Approx 80% complete for 198.extendedFrags.fastq
+Approx 5% complete for 201.extendedFrags.fastq
+Approx 85% complete for 198.extendedFrags.fastq
+Approx 10% complete for 201.extendedFrags.fastq
+Approx 90% complete for 198.extendedFrags.fastq
+Approx 15% complete for 201.extendedFrags.fastq
+Approx 95% complete for 198.extendedFrags.fastq
+Approx 20% complete for 201.extendedFrags.fastq
+Analysis complete for 198.extendedFrags.fastq
+Approx 25% complete for 201.extendedFrags.fastq
+Approx 30% complete for 201.extendedFrags.fastq
+Approx 35% complete for 201.extendedFrags.fastq
+Approx 40% complete for 201.extendedFrags.fastq
+Approx 45% complete for 201.extendedFrags.fastq
+Approx 50% complete for 201.extendedFrags.fastq
+Approx 55% complete for 201.extendedFrags.fastq
+Approx 60% complete for 201.extendedFrags.fastq
+Started analysis of 202.extendedFrags.fastq
+Approx 65% complete for 201.extendedFrags.fastq
+Approx 5% complete for 202.extendedFrags.fastq
+Approx 70% complete for 201.extendedFrags.fastq
+Approx 10% complete for 202.extendedFrags.fastq
+Approx 75% complete for 201.extendedFrags.fastq
+Approx 15% complete for 202.extendedFrags.fastq
+Approx 80% complete for 201.extendedFrags.fastq
+Approx 20% complete for 202.extendedFrags.fastq
+Approx 25% complete for 202.extendedFrags.fastq
+Approx 85% complete for 201.extendedFrags.fastq
+Approx 30% complete for 202.extendedFrags.fastq
+Approx 90% complete for 201.extendedFrags.fastq
+Approx 35% complete for 202.extendedFrags.fastq
+Approx 95% complete for 201.extendedFrags.fastq
+Approx 40% complete for 202.extendedFrags.fastq
+Analysis complete for 201.extendedFrags.fastq
+Approx 45% complete for 202.extendedFrags.fastq
+Approx 50% complete for 202.extendedFrags.fastq
+Started analysis of 203.extendedFrags.fastq
+Approx 55% complete for 202.extendedFrags.fastq
+Approx 60% complete for 202.extendedFrags.fastq
+Approx 5% complete for 203.extendedFrags.fastq
+Approx 65% complete for 202.extendedFrags.fastq
+Approx 10% complete for 203.extendedFrags.fastq
+Approx 70% complete for 202.extendedFrags.fastq
+Approx 15% complete for 203.extendedFrags.fastq
+Approx 75% complete for 202.extendedFrags.fastq
+Approx 80% complete for 202.extendedFrags.fastq
+Approx 20% complete for 203.extendedFrags.fastq
+Approx 85% complete for 202.extendedFrags.fastq
+Approx 25% complete for 203.extendedFrags.fastq
+Approx 90% complete for 202.extendedFrags.fastq
+Approx 95% complete for 202.extendedFrags.fastq
+Approx 30% complete for 203.extendedFrags.fastq
+Analysis complete for 202.extendedFrags.fastq
+Approx 35% complete for 203.extendedFrags.fastq
+Approx 40% complete for 203.extendedFrags.fastq
+Approx 45% complete for 203.extendedFrags.fastq
+Approx 50% complete for 203.extendedFrags.fastq
+Started analysis of 206.extendedFrags.fastq
+Approx 55% complete for 203.extendedFrags.fastq
+Approx 5% complete for 206.extendedFrags.fastq
+Approx 60% complete for 203.extendedFrags.fastq
+Approx 10% complete for 206.extendedFrags.fastq
+Approx 65% complete for 203.extendedFrags.fastq
+Approx 15% complete for 206.extendedFrags.fastq
+Approx 20% complete for 206.extendedFrags.fastq
+Approx 70% complete for 203.extendedFrags.fastq
+Approx 25% complete for 206.extendedFrags.fastq
+Approx 75% complete for 203.extendedFrags.fastq
+Approx 30% complete for 206.extendedFrags.fastq
+Approx 80% complete for 203.extendedFrags.fastq
+Approx 35% complete for 206.extendedFrags.fastq
+Approx 85% complete for 203.extendedFrags.fastq
+Approx 40% complete for 206.extendedFrags.fastq
+Approx 45% complete for 206.extendedFrags.fastq
+Approx 90% complete for 203.extendedFrags.fastq
+Approx 95% complete for 203.extendedFrags.fastq
+Approx 50% complete for 206.extendedFrags.fastq
+Analysis complete for 203.extendedFrags.fastq
+Approx 55% complete for 206.extendedFrags.fastq
+Approx 60% complete for 206.extendedFrags.fastq
+Started analysis of 207.extendedFrags.fastq
+Approx 65% complete for 206.extendedFrags.fastq
+Approx 5% complete for 207.extendedFrags.fastq
+Approx 10% complete for 207.extendedFrags.fastq
+Approx 70% complete for 206.extendedFrags.fastq
+Approx 15% complete for 207.extendedFrags.fastq
+Approx 20% complete for 207.extendedFrags.fastq
+Approx 75% complete for 206.extendedFrags.fastq
+Approx 25% complete for 207.extendedFrags.fastq
+Approx 30% complete for 207.extendedFrags.fastq
+Approx 80% complete for 206.extendedFrags.fastq
+Approx 85% complete for 206.extendedFrags.fastq
+Approx 35% complete for 207.extendedFrags.fastq
+Approx 90% complete for 206.extendedFrags.fastq
+Approx 40% complete for 207.extendedFrags.fastq
+Approx 45% complete for 207.extendedFrags.fastq
+Approx 95% complete for 206.extendedFrags.fastq
+Approx 50% complete for 207.extendedFrags.fastq
+Analysis complete for 206.extendedFrags.fastq
+Approx 55% complete for 207.extendedFrags.fastq
+Approx 60% complete for 207.extendedFrags.fastq
+Approx 65% complete for 207.extendedFrags.fastq
+Approx 70% complete for 207.extendedFrags.fastq
+Approx 75% complete for 207.extendedFrags.fastq
+Started analysis of 208.extendedFrags.fastq
+Approx 80% complete for 207.extendedFrags.fastq
+Approx 5% complete for 208.extendedFrags.fastq
+Approx 85% complete for 207.extendedFrags.fastq
+Approx 10% complete for 208.extendedFrags.fastq
+Approx 90% complete for 207.extendedFrags.fastq
+Approx 15% complete for 208.extendedFrags.fastq
+Approx 95% complete for 207.extendedFrags.fastq
+Approx 20% complete for 208.extendedFrags.fastq
+Analysis complete for 207.extendedFrags.fastq
+Approx 25% complete for 208.extendedFrags.fastq
+Approx 30% complete for 208.extendedFrags.fastq
+Approx 35% complete for 208.extendedFrags.fastq
+Approx 40% complete for 208.extendedFrags.fastq
+Approx 45% complete for 208.extendedFrags.fastq
+Approx 50% complete for 208.extendedFrags.fastq
+Approx 55% complete for 208.extendedFrags.fastq
+Approx 60% complete for 208.extendedFrags.fastq
+Approx 65% complete for 208.extendedFrags.fastq
+Approx 70% complete for 208.extendedFrags.fastq
+Approx 75% complete for 208.extendedFrags.fastq
+Approx 80% complete for 208.extendedFrags.fastq
+Approx 85% complete for 208.extendedFrags.fastq
+Approx 90% complete for 208.extendedFrags.fastq
+Approx 95% complete for 208.extendedFrags.fastq
+Analysis complete for 208.extendedFrags.fastq
+[WARNING]         multiqc : MultiQC Version v1.2 now available!
+[INFO   ]         multiqc : This is MultiQC v1.1
+[INFO   ]         multiqc : Template    : default
+[INFO   ]         multiqc : Searching '/home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags/'
+Searching 189 files..
+[INFO   ]          fastqc : Found 27 reports
+[INFO   ]         multiqc : Compressing plot data
+[INFO   ]         multiqc : Report      : 15_Hil_CS/Fungi/ITS/extendedFrags/multiqc_report.html
+[INFO   ]         multiqc : Data        : 15_Hil_CS/Fungi/ITS/extendedFrags/multiqc_data
+[INFO   ]         multiqc : MultiQC complete
+splitting 146
+splitting 147
+splitting 148
+splitting 171
+splitting 172
+splitting 173
+splitting 176
+splitting 177
+splitting 178
+Traceback (most recent call last):
+  File "/home/mark/miniconda3/envs/qiime1/bin/split_libraries_fastq.py", line 4, in <module>
+    __import__('pkg_resources').run_script('qiime==1.9.1', 'split_libraries_fastq.py')
+  File "/home/mark/miniconda3/envs/qiime1/lib/python2.7/site-packages/setuptools-27.2.0-py2.7.egg/pkg_resources/__init__.py", line 744, in run_script
+    
+  File "/home/mark/miniconda3/envs/qiime1/lib/python2.7/site-packages/setuptools-27.2.0-py2.7.egg/pkg_resources/__init__.py", line 1499, in run_script
+    
+  File "/home/mark/miniconda3/envs/qiime1/lib/python2.7/site-packages/qiime-1.9.1-py2.7.egg-info/scripts/split_libraries_fastq.py", line 365, in <module>
+    main()
+  File "/home/mark/miniconda3/envs/qiime1/lib/python2.7/site-packages/qiime-1.9.1-py2.7.egg-info/scripts/split_libraries_fastq.py", line 344, in main
+    for fasta_header, sequence, quality, seq_id in seq_generator:
+  File "/home/mark/miniconda3/envs/qiime1/lib/python2.7/site-packages/qiime/split_libraries_fastq.py", line 239, in process_fastq_single_end_read_file_no_barcode
+    phred_offset=phred_offset):
+  File "/home/mark/miniconda3/envs/qiime1/lib/python2.7/site-packages/qiime/split_libraries_fastq.py", line 317, in process_fastq_single_end_read_file
+    parse_fastq(fastq_read_f, strict=False, phred_offset=phred_offset)):
+  File "/home/mark/miniconda3/envs/qiime1/lib/python2.7/site-packages/skbio/parse/sequences/fastq.py", line 174, in parse_fastq
+    seqid)
+skbio.parse.sequences._exception.FastqParseError: Failed qual conversion for seq id: M02509:165:000000000-AP3FL:1:1101:17875:1715#AAGAGGCA. This may be because you passed an incorrect value for phred_offset.
+splitting 181
+splitting 182
+splitting 183
+splitting 186
+splitting 187
+splitting 188
+splitting 191
+splitting 192
+splitting 193
+splitting 196
+splitting 197
+splitting 198
+splitting 201
+splitting 202
+splitting 203
+splitting 206
+splitting 207
+splitting 208
+Num samples: 26
+Num observations: 1221
+Total count: 812897
+Table density (fraction of non-zero values): 0.159
+
+Counts/sample summary:
+ Min: 13663.0
+ Max: 58865.0
+ Median: 29528.000
+ Mean: 31265.269
+ Std. dev.: 12753.612
+ Sample Metadata Categories: None provided
+ Observation Metadata Categories: taxonomy
+
+Counts/sample detail:
+208: 13663.0
+171: 14788.0
+177: 15435.0
+197: 17214.0
+207: 18838.0
+176: 19938.0
+187: 20275.0
+183: 20537.0
+191: 22018.0
+201: 23202.0
+202: 24883.0
+193: 27315.0
+192: 29148.0
+198: 29908.0
+206: 32263.0
+188: 34199.0
+181: 34560.0
+196: 35281.0
+173: 40017.0
+147: 41045.0
+172: 41074.0
+203: 46700.0
+182: 47626.0
+186: 48120.0
+146: 55985.0
+148: 58865.0
+Wed Sep 13 20:54:37 EDT 2017 start core diversity
+/home/mark/miniconda3/envs/qiime1/lib/python2.7/site-packages/skbio/stats/ordination/_principal_coordinate_analysis.py:107: RuntimeWarning: The result contains negative eigenvalues. Please compare their magnitude with the magnitude of some of the largest positive eigenvalues. If the negative ones are smaller, it's probably safe to ignore them, but if they are large in magnitude, the results won't be useful. See the Notes section for more details. The smallest eigenvalue is -0.00867915819412 and the largest is 1.19487787992.
+  RuntimeWarning
+/home/mark/miniconda3/envs/qiime1/lib/python2.7/site-packages/matplotlib/collections.py:590: FutureWarning: elementwise comparison failed; returning scalar instead, but in the future will perform elementwise comparison
+  if self._edgecolors == str('face'):
+/home/mark/miniconda3/envs/qiime1/lib/python2.7/site-packages/matplotlib/collections.py:590: FutureWarning: elementwise comparison failed; returning scalar instead, but in the future will perform elementwise comparison
+  if self._edgecolors == str('face'):
+/home/mark/miniconda3/envs/qiime1/lib/python2.7/site-packages/matplotlib/collections.py:590: FutureWarning: elementwise comparison failed; returning scalar instead, but in the future will perform elementwise comparison
+  if self._edgecolors == str('face'):
+Wed Sep 13 21:01:09 EDT 2017 OTU picking complete

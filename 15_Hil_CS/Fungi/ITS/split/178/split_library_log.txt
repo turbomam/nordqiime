@@ -1,0 +1,2 @@
+Input file paths
+Sequence read filepath: /home/mark/gitstage/uderica/nordqiime/15_Hil_CS/Fungi/ITS/extendedFrags/178.extendedFrags.fastq (md5: 6f88badf2d75f364035d25738dc12ce1)

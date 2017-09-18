@@ -1,0 +1,225 @@
+[2017-09-13 22:22:12,555] multiqc                                            [DEBUG  ]  No MultiQC config found: /usr/local/lib/python2.7/dist-packages/multiqc_config.yaml
+[2017-09-13 22:22:12,556] multiqc                                            [DEBUG  ]  No MultiQC config found: /home/mark/.multiqc_config.yaml
+[2017-09-13 22:22:12,556] multiqc                                            [DEBUG  ]  No MultiQC config found: multiqc_config.yaml
+[2017-09-13 22:22:12,556] multiqc                                            [DEBUG  ]  Loading config settings from: /home/mark/gitstage/uderica/nordqiime/multiqc_config.yaml
+[2017-09-13 22:22:12,557] multiqc                                            [DEBUG  ]  New config 'read_count_prefix': K
+[2017-09-13 22:22:12,557] multiqc                                            [DEBUG  ]  New config 'read_count_multiplier': 0.001
+[2017-09-13 22:22:12,557] multiqc                                            [DEBUG  ]  New config 'read_count_desc': thousands
+[2017-09-13 22:22:12,557] multiqc                                            [DEBUG  ]  Command used: /usr/local/bin/multiqc --config /home/mark/gitstage/uderica/nordqiime/multiqc_config.yaml /home/mark/gitstage/uderica/nordqiime/15_Hil_HMC/Fungi/ITS -o /home/mark/gitstage/uderica/nordqiime/15_Hil_HMC/Fungi/ITS
+[2017-09-13 22:22:13,070] multiqc                                            [WARNING]  MultiQC Version v1.2 now available!
+[2017-09-13 22:22:13,070] multiqc                                            [INFO   ]  This is MultiQC v1.1
+[2017-09-13 22:22:13,070] multiqc                                            [DEBUG  ]  Command     : /usr/local/bin/multiqc --config /home/mark/gitstage/uderica/nordqiime/multiqc_config.yaml /home/mark/gitstage/uderica/nordqiime/15_Hil_HMC/Fungi/ITS -o /home/mark/gitstage/uderica/nordqiime/15_Hil_HMC/Fungi/ITS
+[2017-09-13 22:22:13,071] multiqc                                            [DEBUG  ]  Working dir : /home/mark
+[2017-09-13 22:22:13,071] multiqc                                            [INFO   ]  Template    : default
+[2017-09-13 22:22:13,071] multiqc                                            [INFO   ]  Searching '/home/mark/gitstage/uderica/nordqiime/15_Hil_HMC/Fungi/ITS'
+[2017-09-13 22:22:13,072] multiqc                                            [DEBUG  ]  Analysing modules: custom_content, conpair, peddy, methylQA, qualimap, preseq, quast, qorts, rna_seqc, rseqc, busco, goleft_indexcov, disambiguate, homer, macs2, theta2, snpeff, gatk, htseq, bcftools, featureCounts, picard, prokka, samblaster, samtools, bamtools, jellyfish, bismark, hicup, salmon, kallisto, slamdunk, star, hisat2, tophat, bowtie2, bowtie1, adapterRemoval, cutadapt, flexbar, trimmomatic, skewer, sortmerna, biobloomtools, fastq_screen, fastqc, clusterflow
+[2017-09-13 22:22:13,072] multiqc                                            [DEBUG  ]  Using temporary directory for creating report: /tmp/tmpp2t_ke
+[2017-09-13 22:22:13,114] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-540-LB-10d-HMC-ITS_S135_L001_R2_001_fastqc.html
+[2017-09-13 22:22:13,114] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-547-Control-30d-HMC-ITS_S140_L001_R1_001.fastq.gz
+[2017-09-13 22:22:13,114] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-574-LH-92d-HMC-ITS_S155_L001_R1_001.fastq.gz
+[2017-09-13 22:22:13,116] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-582-LB-92d-HMC-ITS_S161_L001_R2_001.fastq.gz
+[2017-09-13 22:22:13,116] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-574-LH-92d-HMC-ITS_S155_L001_R2_001_fastqc.html
+[2017-09-13 22:22:13,116] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-561-LB-30d-HMC-ITS_S148_L001_R2_001.fastq.gz
+[2017-09-13 22:22:13,116] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-541-LB-10d-HMC-ITS_S136_L001_R2_001.fastq.gz
+[2017-09-13 22:22:13,117] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-561-LB-30d-HMC-ITS_S148_L001_R2_001_fastqc.html
+[2017-09-13 22:22:13,117] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-566-Control-92d-HMC-ITS_S151_L001_R1_001.fastq.gz
+[2017-09-13 22:22:13,118] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-565-Control-92d-HMC-ITS_S150_L001_R2_001_fastqc.html
+[2017-09-13 22:22:13,120] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-577-LH-LB-92d-HMC-ITS_S158_L001_R1_001.fastq.gz
+[2017-09-13 22:22:13,120] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-540-LB-10d-HMC-ITS_S135_L001_R1_001_fastqc.html
+[2017-09-13 22:22:13,120] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-571-LH-92d-HMC-ITS_S154_L001_R1_001_fastqc.html
+[2017-09-13 22:22:13,120] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-566-Control-92d-HMC-ITS_S151_L001_R2_001.fastq.gz
+[2017-09-13 22:22:13,120] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-555-LH-LB-30d-HMC-ITS_S144_L001_R2_001.fastq.gz
+[2017-09-13 22:22:13,121] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-577-LH-LB-92d-HMC-ITS_S158_L001_R1_001_fastqc.html
+[2017-09-13 22:22:13,121] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-567-Control-92d-HMC-ITS_S152_L001_R1_001_fastqc.html
+[2017-09-13 22:22:13,121] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-540-LB-10d-HMC-ITS_S135_L001_R2_001.fastq.gz
+[2017-09-13 22:22:13,121] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-575-LH-LB-92d-HMC-ITS_S156_L001_R2_001.fastq.gz
+[2017-09-13 22:22:13,122] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-540-LB-10d-HMC-ITS_S135_L001_R1_001.fastq.gz
+[2017-09-13 22:22:13,122] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-532-LH-10d-HMC-ITS_S131_L001_R2_001_fastqc.html
+[2017-09-13 22:22:13,122] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-531-LH-10d-HMC-ITS_S130_L001_R2_001.fastq.gz
+[2017-09-13 22:22:13,123] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-571-LH-92d-HMC-ITS_S154_L001_R1_001.fastq.gz
+[2017-09-13 22:22:13,123] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-547-Control-30d-HMC-ITS_S140_L001_R2_001_fastqc.html
+[2017-09-13 22:22:13,123] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-552-LH-30d-HMC-ITS_S143_L001_R1_001_fastqc.html
+[2017-09-13 22:22:13,124] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-581-LB-92d-HMC-ITS_S160_L001_R2_001_fastqc.html
+[2017-09-13 22:22:13,124] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-536-LH-LB-10d-HMC-ITS_S133_L001_R1_001_fastqc.html
+[2017-09-13 22:22:13,124] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-575-LH-LB-92d-HMC-ITS_S156_L001_R2_001_fastqc.html
+[2017-09-13 22:22:13,124] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-582-LB-92d-HMC-ITS_S161_L001_R1_001_fastqc.html
+[2017-09-13 22:22:13,124] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-531-LH-10d-HMC-ITS_S130_L001_R1_001.fastq.gz
+[2017-09-13 22:22:13,124] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-542-LB-10d-HMC-ITS_S137_L001_R2_001_fastqc.html
+[2017-09-13 22:22:13,125] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-552-LH-30d-HMC-ITS_S143_L001_R2_001.fastq.gz
+[2017-09-13 22:22:13,125] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-521-Control-0d-HMC-ITS_S124_L001_R1_001.fastq.gz
+[2017-09-13 22:22:13,125] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-570-LH-92d-HMC-ITS_S153_L001_R2_001.fastq.gz
+[2017-09-13 22:22:13,125] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-557-LH-LB-30d-HMC-ITS_S146_L001_R1_001_fastqc.html
+[2017-09-13 22:22:13,125] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-570-LH-92d-HMC-ITS_S153_L001_R1_001.fastq.gz
+[2017-09-13 22:22:13,127] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-551-LH-30d-HMC-ITS_S142_L001_R1_001_fastqc.html
+[2017-09-13 22:22:13,127] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-526-Control-10d-HMC-ITS_S127_L001_R1_001.fastq.gz
+[2017-09-13 22:22:13,128] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-521-Control-0d-HMC-ITS_S124_L001_R2_001.fastq.gz
+[2017-09-13 22:22:13,128] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-546-Control-30d-HMC-ITS_S139_L001_R2_001.fastq.gz
+[2017-09-13 22:22:13,128] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-537-LH-LB-10d-HMC-ITS_S134_L001_R2_001_fastqc.html
+[2017-09-13 22:22:13,128] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-527-Control-10d-HMC-ITS_S128_L001_R1_001.fastq.gz
+[2017-09-13 22:22:13,128] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-565-Control-92d-HMC-ITS_S150_L001_R1_001_fastqc.html
+[2017-09-13 22:22:13,129] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-581-LB-92d-HMC-ITS_S160_L001_R1_001.fastq.gz
+[2017-09-13 22:22:13,129] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-545-Control-30d-HMC-ITS_S138_L001_R1_001.fastq.gz
+[2017-09-13 22:22:13,130] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-531-LH-10d-HMC-ITS_S130_L001_R2_001_fastqc.html
+[2017-09-13 22:22:13,130] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-545-Control-30d-HMC-ITS_S138_L001_R2_001.fastq.gz
+[2017-09-13 22:22:13,130] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-532-LH-10d-HMC-ITS_S131_L001_R2_001.fastq.gz
+[2017-09-13 22:22:13,131] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-562-LB-30d-HMC-ITS_S149_L001_R1_001.fastq.gz
+[2017-09-13 22:22:13,131] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-550-LH-30d-HMC-ITS_S141_L001_R2_001_fastqc.html
+[2017-09-13 22:22:13,131] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-530-LH-10d-HMC-ITS_S129_L001_R1_001_fastqc.html
+[2017-09-13 22:22:13,131] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-520-Control-0d-HMC-ITS_S123_L001_R2_001_fastqc.html
+[2017-09-13 22:22:13,131] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-525-Control-10d-HMC-ITS_S126_L001_R2_001_fastqc.html
+[2017-09-13 22:22:13,132] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-545-Control-30d-HMC-ITS_S138_L001_R1_001_fastqc.html
+[2017-09-13 22:22:13,132] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-560-LB-30d-HMC-ITS_S147_L001_R2_001.fastq.gz
+[2017-09-13 22:22:13,132] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-580-LB-92d-HMC-ITS_S159_L001_R1_001.fastq.gz
+[2017-09-13 22:22:13,133] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-560-LB-30d-HMC-ITS_S147_L001_R2_001_fastqc.html
+[2017-09-13 22:22:13,134] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-546-Control-30d-HMC-ITS_S139_L001_R1_001_fastqc.html
+[2017-09-13 22:22:13,135] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-566-Control-92d-HMC-ITS_S151_L001_R2_001_fastqc.html
+[2017-09-13 22:22:13,135] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-574-LH-92d-HMC-ITS_S155_L001_R2_001.fastq.gz
+[2017-09-13 22:22:13,135] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-557-LH-LB-30d-HMC-ITS_S146_L001_R2_001.fastq.gz
+[2017-09-13 22:22:13,135] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-542-LB-10d-HMC-ITS_S137_L001_R2_001.fastq.gz
+[2017-09-13 22:22:13,136] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-547-Control-30d-HMC-ITS_S140_L001_R2_001.fastq.gz
+[2017-09-13 22:22:13,136] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-541-LB-10d-HMC-ITS_S136_L001_R1_001_fastqc.html
+[2017-09-13 22:22:13,136] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-575-LH-LB-92d-HMC-ITS_S156_L001_R1_001_fastqc.html
+[2017-09-13 22:22:13,136] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-560-LB-30d-HMC-ITS_S147_L001_R1_001_fastqc.html
+[2017-09-13 22:22:13,136] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-532-LH-10d-HMC-ITS_S131_L001_R1_001.fastq.gz
+[2017-09-13 22:22:13,137] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-522-Control-0d-HMC-ITS_S125_L001_R2_001.fastq.gz
+[2017-09-13 22:22:13,137] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-522-Control-0d-HMC-ITS_S125_L001_R1_001_fastqc.html
+[2017-09-13 22:22:13,138] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-542-LB-10d-HMC-ITS_S137_L001_R1_001.fastq.gz
+[2017-09-13 22:22:13,138] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-526-Control-10d-HMC-ITS_S127_L001_R2_001.fastq.gz
+[2017-09-13 22:22:13,138] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-557-LH-LB-30d-HMC-ITS_S146_L001_R2_001_fastqc.html
+[2017-09-13 22:22:13,138] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-581-LB-92d-HMC-ITS_S160_L001_R1_001_fastqc.html
+[2017-09-13 22:22:13,139] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-551-LH-30d-HMC-ITS_S142_L001_R2_001.fastq.gz
+[2017-09-13 22:22:13,139] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-535-LH-LB-10d-HMC-ITS_S132_L001_R1_001.fastq.gz
+[2017-09-13 22:22:13,139] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-522-Control-0d-HMC-ITS_S125_L001_R2_001_fastqc.html
+[2017-09-13 22:22:13,140] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-536-LH-LB-10d-HMC-ITS_S133_L001_R2_001.fastq.gz
+[2017-09-13 22:22:13,140] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-577-LH-LB-92d-HMC-ITS_S158_L001_R2_001.fastq.gz
+[2017-09-13 22:22:13,141] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-546-Control-30d-HMC-ITS_S139_L001_R2_001_fastqc.html
+[2017-09-13 22:22:13,141] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-535-LH-LB-10d-HMC-ITS_S132_L001_R2_001_fastqc.html
+[2017-09-13 22:22:13,142] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-537-LH-LB-10d-HMC-ITS_S134_L001_R1_001.fastq.gz
+[2017-09-13 22:22:13,142] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-556-LH-LB-30d-HMC-ITS_S145_L001_R2_001_fastqc.html
+[2017-09-13 22:22:13,142] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-552-LH-30d-HMC-ITS_S143_L001_R2_001_fastqc.html
+[2017-09-13 22:22:13,143] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-551-LH-30d-HMC-ITS_S142_L001_R2_001_fastqc.html
+[2017-09-13 22:22:13,144] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-522-Control-0d-HMC-ITS_S125_L001_R1_001.fastq.gz
+[2017-09-13 22:22:13,144] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-576-LH-LB-92d-HMC-ITS_S157_L001_R1_001_fastqc.html
+[2017-09-13 22:22:13,144] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-557-LH-LB-30d-HMC-ITS_S146_L001_R1_001.fastq.gz
+[2017-09-13 22:22:13,144] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-555-LH-LB-30d-HMC-ITS_S144_L001_R2_001_fastqc.html
+[2017-09-13 22:22:13,144] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-556-LH-LB-30d-HMC-ITS_S145_L001_R1_001.fastq.gz
+[2017-09-13 22:22:13,144] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-562-LB-30d-HMC-ITS_S149_L001_R2_001_fastqc.html
+[2017-09-13 22:22:13,144] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-541-LB-10d-HMC-ITS_S136_L001_R1_001.fastq.gz
+[2017-09-13 22:22:13,144] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-556-LH-LB-30d-HMC-ITS_S145_L001_R2_001.fastq.gz
+[2017-09-13 22:22:13,146] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-541-LB-10d-HMC-ITS_S136_L001_R2_001_fastqc.html
+[2017-09-13 22:22:13,146] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-570-LH-92d-HMC-ITS_S153_L001_R1_001_fastqc.html
+[2017-09-13 22:22:13,146] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-535-LH-LB-10d-HMC-ITS_S132_L001_R1_001_fastqc.html
+[2017-09-13 22:22:13,147] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-526-Control-10d-HMC-ITS_S127_L001_R2_001_fastqc.html
+[2017-09-13 22:22:13,147] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-520-Control-0d-HMC-ITS_S123_L001_R1_001_fastqc.html
+[2017-09-13 22:22:13,147] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-530-LH-10d-HMC-ITS_S129_L001_R2_001_fastqc.html
+[2017-09-13 22:22:13,147] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-577-LH-LB-92d-HMC-ITS_S158_L001_R2_001_fastqc.html
+[2017-09-13 22:22:13,147] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-525-Control-10d-HMC-ITS_S126_L001_R1_001.fastq.gz
+[2017-09-13 22:22:13,147] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-536-LH-LB-10d-HMC-ITS_S133_L001_R2_001_fastqc.html
+[2017-09-13 22:22:13,148] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-546-Control-30d-HMC-ITS_S139_L001_R1_001.fastq.gz
+[2017-09-13 22:22:13,148] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-565-Control-92d-HMC-ITS_S150_L001_R1_001.fastq.gz
+[2017-09-13 22:22:13,148] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-567-Control-92d-HMC-ITS_S152_L001_R2_001.fastq.gz
+[2017-09-13 22:22:13,148] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-550-LH-30d-HMC-ITS_S141_L001_R1_001.fastq.gz
+[2017-09-13 22:22:13,149] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-542-LB-10d-HMC-ITS_S137_L001_R1_001_fastqc.html
+[2017-09-13 22:22:13,149] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-576-LH-LB-92d-HMC-ITS_S157_L001_R2_001_fastqc.html
+[2017-09-13 22:22:13,149] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-570-LH-92d-HMC-ITS_S153_L001_R2_001_fastqc.html
+[2017-09-13 22:22:13,150] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-525-Control-10d-HMC-ITS_S126_L001_R1_001_fastqc.html
+[2017-09-13 22:22:13,150] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-561-LB-30d-HMC-ITS_S148_L001_R1_001_fastqc.html
+[2017-09-13 22:22:13,150] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-576-LH-LB-92d-HMC-ITS_S157_L001_R2_001.fastq.gz
+[2017-09-13 22:22:13,151] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-526-Control-10d-HMC-ITS_S127_L001_R1_001_fastqc.html
+[2017-09-13 22:22:13,151] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-566-Control-92d-HMC-ITS_S151_L001_R1_001_fastqc.html
+[2017-09-13 22:22:13,151] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-555-LH-LB-30d-HMC-ITS_S144_L001_R1_001.fastq.gz
+[2017-09-13 22:22:13,151] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-520-Control-0d-HMC-ITS_S123_L001_R2_001.fastq.gz
+[2017-09-13 22:22:13,151] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-581-LB-92d-HMC-ITS_S160_L001_R2_001.fastq.gz
+[2017-09-13 22:22:13,152] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-571-LH-92d-HMC-ITS_S154_L001_R2_001_fastqc.html
+[2017-09-13 22:22:13,152] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-562-LB-30d-HMC-ITS_S149_L001_R2_001.fastq.gz
+[2017-09-13 22:22:13,152] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-531-LH-10d-HMC-ITS_S130_L001_R1_001_fastqc.html
+[2017-09-13 22:22:13,152] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-527-Control-10d-HMC-ITS_S128_L001_R2_001.fastq.gz
+[2017-09-13 22:22:13,152] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-551-LH-30d-HMC-ITS_S142_L001_R1_001.fastq.gz
+[2017-09-13 22:22:13,152] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-565-Control-92d-HMC-ITS_S150_L001_R2_001.fastq.gz
+[2017-09-13 22:22:13,153] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-571-LH-92d-HMC-ITS_S154_L001_R2_001.fastq.gz
+[2017-09-13 22:22:13,154] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-561-LB-30d-HMC-ITS_S148_L001_R1_001.fastq.gz
+[2017-09-13 22:22:13,154] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-532-LH-10d-HMC-ITS_S131_L001_R1_001_fastqc.html
+[2017-09-13 22:22:13,154] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-536-LH-LB-10d-HMC-ITS_S133_L001_R1_001.fastq.gz
+[2017-09-13 22:22:13,154] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-580-LB-92d-HMC-ITS_S159_L001_R2_001.fastq.gz
+[2017-09-13 22:22:13,154] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-525-Control-10d-HMC-ITS_S126_L001_R2_001.fastq.gz
+[2017-09-13 22:22:13,154] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-537-LH-LB-10d-HMC-ITS_S134_L001_R2_001.fastq.gz
+[2017-09-13 22:22:13,154] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-520-Control-0d-HMC-ITS_S123_L001_R1_001.fastq.gz
+[2017-09-13 22:22:13,155] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-537-LH-LB-10d-HMC-ITS_S134_L001_R1_001_fastqc.html
+[2017-09-13 22:22:13,155] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-530-LH-10d-HMC-ITS_S129_L001_R1_001.fastq.gz
+[2017-09-13 22:22:13,155] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-567-Control-92d-HMC-ITS_S152_L001_R2_001_fastqc.html
+[2017-09-13 22:22:13,156] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-582-LB-92d-HMC-ITS_S161_L001_R2_001_fastqc.html
+[2017-09-13 22:22:13,156] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-552-LH-30d-HMC-ITS_S143_L001_R1_001.fastq.gz
+[2017-09-13 22:22:13,156] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-574-LH-92d-HMC-ITS_S155_L001_R1_001_fastqc.html
+[2017-09-13 22:22:13,156] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-575-LH-LB-92d-HMC-ITS_S156_L001_R1_001.fastq.gz
+[2017-09-13 22:22:13,156] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-535-LH-LB-10d-HMC-ITS_S132_L001_R2_001.fastq.gz
+[2017-09-13 22:22:13,156] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-556-LH-LB-30d-HMC-ITS_S145_L001_R1_001_fastqc.html
+[2017-09-13 22:22:13,157] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-567-Control-92d-HMC-ITS_S152_L001_R1_001.fastq.gz
+[2017-09-13 22:22:13,157] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-562-LB-30d-HMC-ITS_S149_L001_R1_001_fastqc.html
+[2017-09-13 22:22:13,157] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-521-Control-0d-HMC-ITS_S124_L001_R1_001_fastqc.html
+[2017-09-13 22:22:13,157] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-580-LB-92d-HMC-ITS_S159_L001_R2_001_fastqc.html
+[2017-09-13 22:22:13,157] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-521-Control-0d-HMC-ITS_S124_L001_R2_001_fastqc.html
+[2017-09-13 22:22:13,157] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-530-LH-10d-HMC-ITS_S129_L001_R2_001.fastq.gz
+[2017-09-13 22:22:13,157] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-550-LH-30d-HMC-ITS_S141_L001_R2_001.fastq.gz
+[2017-09-13 22:22:13,157] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-582-LB-92d-HMC-ITS_S161_L001_R1_001.fastq.gz
+[2017-09-13 22:22:13,157] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-545-Control-30d-HMC-ITS_S138_L001_R2_001_fastqc.html
+[2017-09-13 22:22:13,158] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-580-LB-92d-HMC-ITS_S159_L001_R1_001_fastqc.html
+[2017-09-13 22:22:13,159] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-555-LH-LB-30d-HMC-ITS_S144_L001_R1_001_fastqc.html
+[2017-09-13 22:22:13,159] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-576-LH-LB-92d-HMC-ITS_S157_L001_R1_001.fastq.gz
+[2017-09-13 22:22:13,160] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-560-LB-30d-HMC-ITS_S147_L001_R1_001.fastq.gz
+[2017-09-13 22:22:13,160] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-550-LH-30d-HMC-ITS_S141_L001_R1_001_fastqc.html
+[2017-09-13 22:22:13,160] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: LALL-PD-KC2015-547-Control-30d-HMC-ITS_S140_L001_R1_001_fastqc.html
+[2017-09-13 22:22:13,337] multiqc.modules.custom_content.custom_content      [DEBUG  ]  No custom content found
+[2017-09-13 22:22:13,339] multiqc.modules.conpair.conpair                    [DEBUG  ]  Could not find any reports in ('/home/mark/gitstage/uderica/nordqiime/15_Hil_HMC/Fungi/ITS',)
+[2017-09-13 22:22:13,341] multiqc.modules.peddy.peddy                        [DEBUG  ]  Could not find any reports in ('/home/mark/gitstage/uderica/nordqiime/15_Hil_HMC/Fungi/ITS',)
+[2017-09-13 22:22:13,343] multiqc.modules.methylQA.methylQA                  [DEBUG  ]  Could not find any reports in ('/home/mark/gitstage/uderica/nordqiime/15_Hil_HMC/Fungi/ITS',)
+[2017-09-13 22:22:13,345] multiqc.modules.qualimap.QM_BamQC                  [DEBUG  ]  Using default Qualimap thresholds: 1, 5, 10, 30, 50
+[2017-09-13 22:22:13,345] multiqc.modules.qualimap.qualimap                  [DEBUG  ]  Could not find any reports in ('/home/mark/gitstage/uderica/nordqiime/15_Hil_HMC/Fungi/ITS',)
+[2017-09-13 22:22:13,347] multiqc.modules.preseq.preseq                      [DEBUG  ]  Could not find any preseq data in ('/home/mark/gitstage/uderica/nordqiime/15_Hil_HMC/Fungi/ITS',)
+[2017-09-13 22:22:13,349] multiqc.modules.quast.quast                        [DEBUG  ]  Could not find any reports in ('/home/mark/gitstage/uderica/nordqiime/15_Hil_HMC/Fungi/ITS',)
+[2017-09-13 22:22:13,351] multiqc.modules.qorts.qorts                        [DEBUG  ]  Could not find any QoRTs data in ('/home/mark/gitstage/uderica/nordqiime/15_Hil_HMC/Fungi/ITS',)
+[2017-09-13 22:22:13,353] multiqc.modules.rna_seqc.rna_seqc                  [DEBUG  ]  Could not find any RNA-SeQC data in ('/home/mark/gitstage/uderica/nordqiime/15_Hil_HMC/Fungi/ITS',)
+[2017-09-13 22:22:13,356] multiqc.modules.rseqc.rseqc                        [DEBUG  ]  Could not find any reports in ('/home/mark/gitstage/uderica/nordqiime/15_Hil_HMC/Fungi/ITS',)
+[2017-09-13 22:22:13,357] multiqc.modules.busco.busco                        [DEBUG  ]  Could not find any reports in ('/home/mark/gitstage/uderica/nordqiime/15_Hil_HMC/Fungi/ITS',)
+[2017-09-13 22:22:13,359] multiqc.modules.goleft_indexcov.goleft_indexcov    [DEBUG  ]  Did not find goleft indexcov outputs in ('/home/mark/gitstage/uderica/nordqiime/15_Hil_HMC/Fungi/ITS',)
+[2017-09-13 22:22:13,361] multiqc.modules.disambiguate.disambiguate          [DEBUG  ]  Could not find any data in ('/home/mark/gitstage/uderica/nordqiime/15_Hil_HMC/Fungi/ITS',)
+[2017-09-13 22:22:13,363] multiqc.modules.homer.homer                        [DEBUG  ]  Could not find any reports in ('/home/mark/gitstage/uderica/nordqiime/15_Hil_HMC/Fungi/ITS',)
+[2017-09-13 22:22:13,365] multiqc.modules.macs2.macs2                        [DEBUG  ]  Could not find any MACS2 data in ('/home/mark/gitstage/uderica/nordqiime/15_Hil_HMC/Fungi/ITS',)
+[2017-09-13 22:22:13,367] multiqc.modules.theta2.theta2                      [DEBUG  ]  Could not find any reports in ('/home/mark/gitstage/uderica/nordqiime/15_Hil_HMC/Fungi/ITS',)
+[2017-09-13 22:22:13,369] multiqc.modules.snpeff.snpeff                      [DEBUG  ]  Could not find any data in ('/home/mark/gitstage/uderica/nordqiime/15_Hil_HMC/Fungi/ITS',)
+[2017-09-13 22:22:13,371] multiqc.modules.gatk.gatk                          [DEBUG  ]  Could not find any reports in ('/home/mark/gitstage/uderica/nordqiime/15_Hil_HMC/Fungi/ITS',)
+[2017-09-13 22:22:13,373] multiqc.modules.htseq.htseq                        [DEBUG  ]  Could not find any reports in ('/home/mark/gitstage/uderica/nordqiime/15_Hil_HMC/Fungi/ITS',)
+[2017-09-13 22:22:13,375] multiqc.modules.bcftools.bcftools                  [DEBUG  ]  Could not find any reports in ('/home/mark/gitstage/uderica/nordqiime/15_Hil_HMC/Fungi/ITS',)
+[2017-09-13 22:22:13,377] multiqc.modules.featureCounts.feature_counts       [DEBUG  ]  Could not find any reports in ('/home/mark/gitstage/uderica/nordqiime/15_Hil_HMC/Fungi/ITS',)
+[2017-09-13 22:22:13,380] multiqc.modules.picard.picard                      [DEBUG  ]  Could not find any reports in ('/home/mark/gitstage/uderica/nordqiime/15_Hil_HMC/Fungi/ITS',)
+[2017-09-13 22:22:13,382] multiqc.modules.prokka.prokka                      [DEBUG  ]  Could not find any Prokka data in ('/home/mark/gitstage/uderica/nordqiime/15_Hil_HMC/Fungi/ITS',)
+[2017-09-13 22:22:13,384] multiqc.modules.samblaster.samblaster              [DEBUG  ]  Could not find any data in ('/home/mark/gitstage/uderica/nordqiime/15_Hil_HMC/Fungi/ITS',)
+[2017-09-13 22:22:13,386] multiqc.modules.samtools.samtools                  [DEBUG  ]  Could not find any reports in ('/home/mark/gitstage/uderica/nordqiime/15_Hil_HMC/Fungi/ITS',)
+[2017-09-13 22:22:13,388] multiqc.modules.bamtools.bamtools                  [DEBUG  ]  Could not find any reports in ('/home/mark/gitstage/uderica/nordqiime/15_Hil_HMC/Fungi/ITS',)
+[2017-09-13 22:22:13,389] multiqc.modules.jellyfish.jellyfish                [DEBUG  ]  Could not find any data in ('/home/mark/gitstage/uderica/nordqiime/15_Hil_HMC/Fungi/ITS',)
+[2017-09-13 22:22:13,391] multiqc.modules.bismark.bismark                    [DEBUG  ]  Could not find any reports in ('/home/mark/gitstage/uderica/nordqiime/15_Hil_HMC/Fungi/ITS',)
+[2017-09-13 22:22:13,392] multiqc.modules.hicup.hicup                        [DEBUG  ]  Could not find any HiCUP data in ('/home/mark/gitstage/uderica/nordqiime/15_Hil_HMC/Fungi/ITS',)
+[2017-09-13 22:22:13,394] multiqc.modules.salmon.salmon                      [DEBUG  ]  Could not find any Salmon data in ('/home/mark/gitstage/uderica/nordqiime/15_Hil_HMC/Fungi/ITS',)
+[2017-09-13 22:22:13,395] multiqc.modules.kallisto.kallisto                  [DEBUG  ]  Could not find any reports in ('/home/mark/gitstage/uderica/nordqiime/15_Hil_HMC/Fungi/ITS',)
+[2017-09-13 22:22:13,396] multiqc.modules.slamdunk.slamdunk                  [DEBUG  ]  No slamdunk reports found.
+[2017-09-13 22:22:13,398] multiqc.modules.star.star                          [DEBUG  ]  Could not find any reports in ('/home/mark/gitstage/uderica/nordqiime/15_Hil_HMC/Fungi/ITS',)
+[2017-09-13 22:22:13,399] multiqc.modules.hisat2.hisat2                      [DEBUG  ]  Could not find any reports in ('/home/mark/gitstage/uderica/nordqiime/15_Hil_HMC/Fungi/ITS',)
+[2017-09-13 22:22:13,401] multiqc.modules.tophat.tophat                      [DEBUG  ]  Could not find any reports in ('/home/mark/gitstage/uderica/nordqiime/15_Hil_HMC/Fungi/ITS',)
+[2017-09-13 22:22:13,402] multiqc.modules.bowtie2.bowtie2                    [DEBUG  ]  Could not find any reports in ('/home/mark/gitstage/uderica/nordqiime/15_Hil_HMC/Fungi/ITS',)
+[2017-09-13 22:22:13,404] multiqc.modules.bowtie1.bowtie1                    [DEBUG  ]  Could not find any reports in ('/home/mark/gitstage/uderica/nordqiime/15_Hil_HMC/Fungi/ITS',)
+[2017-09-13 22:22:13,405] multiqc.modules.adapterRemoval.adapterRemoval      [DEBUG  ]  Could not find any reports in ('/home/mark/gitstage/uderica/nordqiime/15_Hil_HMC/Fungi/ITS',)
+[2017-09-13 22:22:13,406] multiqc.modules.cutadapt.cutadapt                  [DEBUG  ]  Could not find any reports in ('/home/mark/gitstage/uderica/nordqiime/15_Hil_HMC/Fungi/ITS',)
+[2017-09-13 22:22:13,408] multiqc.modules.flexbar.flexbar                    [DEBUG  ]  Could not find any Flexbar data in ('/home/mark/gitstage/uderica/nordqiime/15_Hil_HMC/Fungi/ITS',)
+[2017-09-13 22:22:13,409] multiqc.modules.trimmomatic.trimmomatic            [DEBUG  ]  Could not find any Trimmomatic data in ('/home/mark/gitstage/uderica/nordqiime/15_Hil_HMC/Fungi/ITS',)
+[2017-09-13 22:22:13,411] multiqc.modules.skewer.skewer                      [DEBUG  ]  Could not find any data in ('/home/mark/gitstage/uderica/nordqiime/15_Hil_HMC/Fungi/ITS',)
+[2017-09-13 22:22:13,413] multiqc.modules.sortmerna.sortmerna                [DEBUG  ]  Could not find any SortMeRNA data in ('/home/mark/gitstage/uderica/nordqiime/15_Hil_HMC/Fungi/ITS',)
+[2017-09-13 22:22:13,415] multiqc.modules.biobloomtools.biobloomtools        [DEBUG  ]  Could not find any reports in ('/home/mark/gitstage/uderica/nordqiime/15_Hil_HMC/Fungi/ITS',)
+[2017-09-13 22:22:13,416] multiqc.modules.fastq_screen.fastq_screen          [DEBUG  ]  Could not find any reports in ('/home/mark/gitstage/uderica/nordqiime/15_Hil_HMC/Fungi/ITS',)
+[2017-09-13 22:22:16,463] multiqc.modules.fastqc.fastqc                      [INFO   ]  Found 76 reports
+[2017-09-13 22:22:22,126] multiqc.modules.clusterflow.clusterflow            [DEBUG  ]  Could not find any reports in ('/home/mark/gitstage/uderica/nordqiime/15_Hil_HMC/Fungi/ITS',)
+[2017-09-13 22:22:22,218] multiqc                                            [INFO   ]  Compressing plot data
+[2017-09-13 22:22:28,343] multiqc                                            [INFO   ]  Report      : gitstage/uderica/nordqiime/15_Hil_HMC/Fungi/ITS/multiqc_report.html
+[2017-09-13 22:22:28,343] multiqc                                            [INFO   ]  Data        : gitstage/uderica/nordqiime/15_Hil_HMC/Fungi/ITS/multiqc_data
+[2017-09-13 22:22:28,343] multiqc                                            [DEBUG  ]  Moving data file from '/tmp/tmpp2t_ke/multiqc_data/multiqc_general_stats.txt' to '/home/mark/gitstage/uderica/nordqiime/15_Hil_HMC/Fungi/ITS/multiqc_data'
+[2017-09-13 22:22:28,343] multiqc                                            [DEBUG  ]  Moving data file from '/tmp/tmpp2t_ke/multiqc_data/multiqc_sources.txt' to '/home/mark/gitstage/uderica/nordqiime/15_Hil_HMC/Fungi/ITS/multiqc_data'
+[2017-09-13 22:22:28,343] multiqc                                            [DEBUG  ]  Moving data file from '/tmp/tmpp2t_ke/multiqc_data/multiqc_fastqc.txt' to '/home/mark/gitstage/uderica/nordqiime/15_Hil_HMC/Fungi/ITS/multiqc_data'
+[2017-09-13 22:22:28,454] multiqc                                            [INFO   ]  MultiQC complete

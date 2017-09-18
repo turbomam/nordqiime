@@ -1,0 +1,344 @@
+, , Treatment = C/0
+
+     treatment
+day   C LB LH LH + LB
+  0   3  0  0       0
+  30  0  0  0       0
+  112 0  0  0       0
+
+, , Treatment = C/112
+
+     treatment
+day   C LB LH LH + LB
+  0   0  0  0       0
+  30  0  0  0       0
+  112 3  0  0       0
+
+, , Treatment = C/30
+
+     treatment
+day   C LB LH LH + LB
+  0   0  0  0       0
+  30  3  0  0       0
+  112 0  0  0       0
+
+, , Treatment = LB/112
+
+     treatment
+day   C LB LH LH + LB
+  0   0  0  0       0
+  30  0  0  0       0
+  112 0  3  0       0
+
+, , Treatment = LB/30
+
+     treatment
+day   C LB LH LH + LB
+  0   0  0  0       0
+  30  0  3  0       0
+  112 0  0  0       0
+
+, , Treatment = LH/112
+
+     treatment
+day   C LB LH LH + LB
+  0   0  0  0       0
+  30  0  0  0       0
+  112 0  0  3       0
+
+, , Treatment = LH/30
+
+     treatment
+day   C LB LH LH + LB
+  0   0  0  0       0
+  30  0  0  3       0
+  112 0  0  0       0
+
+, , Treatment = LH + LB/112
+
+     treatment
+day   C LB LH LH + LB
+  0   0  0  0       0
+  30  0  0  0       0
+  112 0  0  0       3
+
+, , Treatment = LH + LB/30
+
+     treatment
+day   C LB LH LH + LB
+  0   0  0  0       0
+  30  0  0  0       3
+  112 0  0  0       0
+
+phyloseq-class experiment-level object
+otu_table()   OTU Table:         [ 1221 taxa and 26 samples ]
+sample_data() Sample Data:       [ 26 samples by 8 sample variables ]
+tax_table()   Taxonomy Table:    [ 1221 taxa by 14 taxonomic ranks ]
+Warning messages:
+1: In strsplit(msg, "\n") : input string 1 is invalid in this locale
+2: In parseFunction(i$metadata$taxonomy) :
+  No greengenes prefixes were found. 
+Consider using parse_taxonomy_default() instead if true for all OTUs. 
+Dummy ranks may be included among taxonomic ranks now.
+3: In parseFunction(i$metadata$taxonomy) :
+  No greengenes prefixes were found. 
+Consider using parse_taxonomy_default() instead if true for all OTUs. 
+Dummy ranks may be included among taxonomic ranks now.
+4: In parseFunction(i$metadata$taxonomy) :
+  No greengenes prefixes were found. 
+Consider using parse_taxonomy_default() instead if true for all OTUs. 
+Dummy ranks may be included among taxonomic ranks now.
+5: In parseFunction(i$metadata$taxonomy) :
+  No greengenes prefixes were found. 
+Consider using parse_taxonomy_default() instead if true for all OTUs. 
+Dummy ranks may be included among taxonomic ranks now.
+6: In parseFunction(i$metadata$taxonomy) :
+  No greengenes prefixes were found. 
+Consider using parse_taxonomy_default() instead if true for all OTUs. 
+Dummy ranks may be included among taxonomic ranks now.
+7: In parseFunction(i$metadata$taxonomy) :
+  No greengenes prefixes were found. 
+Consider using parse_taxonomy_default() instead if true for all OTUs. 
+Dummy ranks may be included among taxonomic ranks now.
+8: In parseFunction(i$metadata$taxonomy) :
+  No greengenes prefixes were found. 
+Consider using parse_taxonomy_default() instead if true for all OTUs. 
+Dummy ranks may be included among taxonomic ranks now.
+9: In parseFunction(i$metadata$taxonomy) :
+  No greengenes prefixes were found. 
+Consider using parse_taxonomy_default() instead if true for all OTUs. 
+Dummy ranks may be included among taxonomic ranks now.
+10: In parseFunction(i$metadata$taxonomy) :
+  No greengenes prefixes were found. 
+Consider using parse_taxonomy_default() instead if true for all OTUs. 
+Dummy ranks may be included among taxonomic ranks now.
+
+FALSE 
+ 1212 
+
+FALSE 
+ 1212 
+Error in prune_taxa(!mito.flag, phylo) : 
+  logical argument to taxa is wrong length. Should equal ntaxa(x)
+[1] 1212   26
+Warning message:
+In class(X) <- NULL :
+  Setting class(x) to NULL;   result will no longer be an S4 object
+
+----- ----------- ----------- ----- ------- ------ -------- ------- --------
+                   Treatment   C/0   C/112   C/30   LB/112   LB/30   LH/112 
+
+ day   treatment                                                            
+
+  0        C                    3      0      0       0        0       0    
+
+          LB                    0      0      0       0        0       0    
+
+          LH                    0      0      0       0        0       0    
+
+        LH + LB                 0      0      0       0        0       0    
+
+ 30        C                    0      0      3       0        0       0    
+
+          LB                    0      0      0       0        3       0    
+
+          LH                    0      0      0       0        0       0    
+
+        LH + LB                 0      0      0       0        0       0    
+
+ 112       C                    0      3      0       0        0       0    
+
+          LB                    0      0      0       3        0       0    
+
+          LH                    0      0      0       0        0       3    
+
+        LH + LB                 0      0      0       0        0       0    
+----- ----------- ----------- ----- ------- ------ -------- ------- --------
+
+Table: Table continues below
+
+ 
+------- ------------- ------------
+ LH/30   LH + LB/112   LH + LB/30 
+
+                                  
+
+   0          0            0      
+
+   0          0            0      
+
+   0          0            0      
+
+   0          0            0      
+
+   0          0            0      
+
+   0          0            0      
+
+   2          0            0      
+
+   0          0            3      
+
+   0          0            0      
+
+   0          0            0      
+
+   0          0            0      
+
+   0          3            0      
+------- ------------- ------------
+
+NULL
+NULL
+, , Treatment = C/0
+
+     treatment
+day   C LB LH LH + LB
+  0   3  0  0       0
+  30  0  0  0       0
+  112 0  0  0       0
+
+, , Treatment = C/112
+
+     treatment
+day   C LB LH LH + LB
+  0   0  0  0       0
+  30  0  0  0       0
+  112 3  0  0       0
+
+, , Treatment = C/30
+
+     treatment
+day   C LB LH LH + LB
+  0   0  0  0       0
+  30  3  0  0       0
+  112 0  0  0       0
+
+, , Treatment = LB/112
+
+     treatment
+day   C LB LH LH + LB
+  0   0  0  0       0
+  30  0  0  0       0
+  112 0  3  0       0
+
+, , Treatment = LB/30
+
+     treatment
+day   C LB LH LH + LB
+  0   0  0  0       0
+  30  0  3  0       0
+  112 0  0  0       0
+
+, , Treatment = LH/112
+
+     treatment
+day   C LB LH LH + LB
+  0   0  0  0       0
+  30  0  0  0       0
+  112 0  0  3       0
+
+, , Treatment = LH/30
+
+     treatment
+day   C LB LH LH + LB
+  0   0  0  0       0
+  30  0  0  2       0
+  112 0  0  0       0
+
+, , Treatment = LH + LB/112
+
+     treatment
+day   C LB LH LH + LB
+  0   0  0  0       0
+  30  0  0  0       0
+  112 0  0  0       3
+
+, , Treatment = LH + LB/30
+
+     treatment
+day   C LB LH LH + LB
+  0   0  0  0       0
+  30  0  0  0       3
+  112 0  0  0       0
+
+[1] "15_Hil_CS"
+[1] "Fungi"
+Warning message:
+Removed 78 rows containing missing values (geom_errorbar). 
+DCA
+CCA
+RDA
+NMDS
+Square root transformation
+Wisconsin double standardization
+Run 0 stress 0.1525265 
+Run 1 stress 0.1589104 
+Run 2 stress 0.1379389 
+... New best solution
+... Procrustes: rmse 0.0932834  max resid 0.2545661 
+Run 3 stress 0.1432751 
+Run 4 stress 0.1663655 
+Run 5 stress 0.1379389 
+... New best solution
+... Procrustes: rmse 0.0001514858  max resid 0.000364296 
+... Similar to previous best
+Run 6 stress 0.1412295 
+Run 7 stress 0.1546409 
+Run 8 stress 0.153821 
+Run 9 stress 0.1424131 
+Run 10 stress 0.1395565 
+Run 11 stress 0.1540814 
+Run 12 stress 0.156165 
+Run 13 stress 0.1432746 
+Run 14 stress 0.1511115 
+Run 15 stress 0.1379403 
+... Procrustes: rmse 0.0006019455  max resid 0.001473191 
+... Similar to previous best
+Run 16 stress 0.1424137 
+Run 17 stress 0.1412089 
+Run 18 stress 0.154231 
+Run 19 stress 0.1379392 
+... Procrustes: rmse 0.0002861125  max resid 0.000742126 
+... Similar to previous best
+Run 20 stress 0.1519372 
+*** Solution reached
+MDS
+PCoA
+phyloseq-class experiment-level object
+otu_table()   OTU Table:         [ 1212 taxa and 26 samples ]
+sample_data() Sample Data:       [ 26 samples by 8 sample variables ]
+tax_table()   Taxonomy Table:    [ 1212 taxa by 14 taxonomic ranks ]
+[1] "Treatment"
+[1] "C/0"
+   Group.1     Group.2  distance
+28     C/0      LB/112 0.8888498
+46     C/0      LH/112 0.8533987
+10     C/0       C/112 0.8506316
+64     C/0 LH + LB/112 0.8168096
+55     C/0       LH/30 0.8084282
+73     C/0  LH + LB/30 0.8059173
+19     C/0        C/30 0.7844117
+37     C/0       LB/30 0.7692542
+1      C/0         C/0 0.2894072
+Warning message:
+Transformation introduced infinite values in discrete y-axis 
+phyloseq-class experiment-level object
+otu_table()   OTU Table:         [ 1212 taxa and 26 samples ]
+sample_data() Sample Data:       [ 26 samples by 8 sample variables ]
+tax_table()   Taxonomy Table:    [ 1212 taxa by 14 taxonomic ranks ]
+converting counts to integer mode
+using pre-existing size factors
+estimating dispersions
+gene-wise dispersion estimates
+mean-dispersion relationship
+final dispersion estimates
+fitting model and testing
+ [1] "Intercept"   "C.0"         "C.112"       "C.30"        "LB.112"      "LB.30"       "LH.112"      "LH.30"      
+ [9] "LH...LB.112" "LH...LB.30" 
+                   log2FoldChange       pvalue        padj Kingdom     Phylum           Class             Order
+New.ReferenceOTU23      -7.220633 7.881558e-06 0.009552448   Fungi Ascomycota Saccharomycetes Saccharomycetales
+                           Family   Genus
+New.ReferenceOTU23 Incertae_sedis Candida
+pdf 
+  2 

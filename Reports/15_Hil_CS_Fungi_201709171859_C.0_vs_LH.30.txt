@@ -1,0 +1,2 @@
+"OTU" "baseMean" "log2FoldChange" "lfcSE" "stat" "pvalue" "padj" "Kingdom" "Phylum" "Class" "Order" "Family" "Genus" "Species" "Rank1" "Rank2" "Rank3" "Rank4" "Rank5" "Rank6" "Rank7"
+"New.ReferenceOTU23" 992.813925490858 -7.22063346956675 1.61594123335572 -4.46837627539964 7.88155775717832e-06 0.00955244800170012 "Fungi" "Ascomycota" "Saccharomycetes" "Saccharomycetales" "Incertae_sedis" "Candida" "Candida_humilis" NA NA NA NA NA NA NA

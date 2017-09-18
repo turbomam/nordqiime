@@ -1,0 +1,2 @@
+"OTU" "baseMean" "log2FoldChange" "lfcSE" "stat" "pvalue" "padj" "Kingdom" "Phylum" "Class" "Order" "Family" "Genus" "Species" "Rank1" "Rank2" "Rank3" "Rank4" "Rank5" "Rank6" "Rank7"
+"New.ReferenceOTU18" 792.213136478341 -6.45307182795664 1.6297006599853 -3.95966694154425 7.50543631626764e-05 0.0432313131817016 "Fungi" "Ascomycota" "Saccharomycetes" "Saccharomycetales" "Saccharomycetaceae" "Kazachstania" "Kazachstania_unispora" NA NA NA NA NA NA NA

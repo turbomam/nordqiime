@@ -1,0 +1,284 @@
+, , Treatment = C/0
+
+    treatment
+day  C C-3H C-3H-LATE C-NS S2-3H S2-3H-LATE S2-NS
+  0  4    0         0    0     0          0     0
+  56 0    0         0    0     0          0     0
+
+, , Treatment = C-3H/56
+
+    treatment
+day  C C-3H C-3H-LATE C-NS S2-3H S2-3H-LATE S2-NS
+  0  0    0         0    0     0          0     0
+  56 0    4         0    0     0          0     0
+
+, , Treatment = C-3H-LATE/56
+
+    treatment
+day  C C-3H C-3H-LATE C-NS S2-3H S2-3H-LATE S2-NS
+  0  0    0         0    0     0          0     0
+  56 0    0         4    0     0          0     0
+
+, , Treatment = C-NS/56
+
+    treatment
+day  C C-3H C-3H-LATE C-NS S2-3H S2-3H-LATE S2-NS
+  0  0    0         0    0     0          0     0
+  56 0    0         0    4     0          0     0
+
+, , Treatment = S2-3H/56
+
+    treatment
+day  C C-3H C-3H-LATE C-NS S2-3H S2-3H-LATE S2-NS
+  0  0    0         0    0     0          0     0
+  56 0    0         0    0     4          0     0
+
+, , Treatment = S2-3H-LATE/56
+
+    treatment
+day  C C-3H C-3H-LATE C-NS S2-3H S2-3H-LATE S2-NS
+  0  0    0         0    0     0          0     0
+  56 0    0         0    0     0          4     0
+
+, , Treatment = S2-NS/56
+
+    treatment
+day  C C-3H C-3H-LATE C-NS S2-3H S2-3H-LATE S2-NS
+  0  0    0         0    0     0          0     0
+  56 0    0         0    0     0          0     4
+
+phyloseq-class experiment-level object
+otu_table()   OTU Table:         [ 527 taxa and 28 samples ]
+sample_data() Sample Data:       [ 28 samples by 8 sample variables ]
+tax_table()   Taxonomy Table:    [ 527 taxa by 14 taxonomic ranks ]
+There were 12 warnings (use warnings() to see them)
+
+FALSE 
+  516 
+
+FALSE 
+  516 
+Error in prune_taxa(!mito.flag, phylo) : 
+  logical argument to taxa is wrong length. Should equal ntaxa(x)
+[1] 516  28
+Warning message:
+In class(X) <- NULL :
+  Setting class(x) to NULL;   result will no longer be an S4 object
+
+----- ------------ ----------- ----- --------- -------------- ---------
+                    Treatment   C/0   C-3H/56   C-3H-LATE/56   C-NS/56 
+
+ day   treatment                                                       
+
+  0        C                     4       0           0            0    
+
+          C-3H                   0       0           0            0    
+
+       C-3H-LATE                 0       0           0            0    
+
+          C-NS                   0       0           0            0    
+
+         S2-3H                   0       0           0            0    
+
+       S2-3H-LATE                0       0           0            0    
+
+         S2-NS                   0       0           0            0    
+
+ 56        C                     0       0           0            0    
+
+          C-3H                   0       4           0            0    
+
+       C-3H-LATE                 0       0           4            0    
+
+          C-NS                   0       0           0            4    
+
+         S2-3H                   0       0           0            0    
+
+       S2-3H-LATE                0       0           0            0    
+
+         S2-NS                   0       0           0            0    
+----- ------------ ----------- ----- --------- -------------- ---------
+
+Table: Table continues below
+
+ 
+---------- --------------- ----------
+ S2-3H/56   S2-3H-LATE/56   S2-NS/56 
+
+                                     
+
+    0             0            0     
+
+    0             0            0     
+
+    0             0            0     
+
+    0             0            0     
+
+    0             0            0     
+
+    0             0            0     
+
+    0             0            0     
+
+    0             0            0     
+
+    0             0            0     
+
+    0             0            0     
+
+    0             0            0     
+
+    4             0            0     
+
+    0             4            0     
+
+    0             0            4     
+---------- --------------- ----------
+
+NULL
+NULL
+, , Treatment = C/0
+
+    treatment
+day  C C-3H C-3H-LATE C-NS S2-3H S2-3H-LATE S2-NS
+  0  4    0         0    0     0          0     0
+  56 0    0         0    0     0          0     0
+
+, , Treatment = C-3H/56
+
+    treatment
+day  C C-3H C-3H-LATE C-NS S2-3H S2-3H-LATE S2-NS
+  0  0    0         0    0     0          0     0
+  56 0    4         0    0     0          0     0
+
+, , Treatment = C-3H-LATE/56
+
+    treatment
+day  C C-3H C-3H-LATE C-NS S2-3H S2-3H-LATE S2-NS
+  0  0    0         0    0     0          0     0
+  56 0    0         4    0     0          0     0
+
+, , Treatment = C-NS/56
+
+    treatment
+day  C C-3H C-3H-LATE C-NS S2-3H S2-3H-LATE S2-NS
+  0  0    0         0    0     0          0     0
+  56 0    0         0    4     0          0     0
+
+, , Treatment = S2-3H/56
+
+    treatment
+day  C C-3H C-3H-LATE C-NS S2-3H S2-3H-LATE S2-NS
+  0  0    0         0    0     0          0     0
+  56 0    0         0    0     4          0     0
+
+, , Treatment = S2-3H-LATE/56
+
+    treatment
+day  C C-3H C-3H-LATE C-NS S2-3H S2-3H-LATE S2-NS
+  0  0    0         0    0     0          0     0
+  56 0    0         0    0     0          4     0
+
+, , Treatment = S2-NS/56
+
+    treatment
+day  C C-3H C-3H-LATE C-NS S2-3H S2-3H-LATE S2-NS
+  0  0    0         0    0     0          0     0
+  56 0    0         0    0     0          0     4
+
+[1] "all levels have 4 repeats"
+[1] "Aer_Comp"
+[1] "Fungi"
+Warning message:
+Removed 84 rows containing missing values (geom_errorbar). 
+DCA
+CCA
+RDA
+NMDS
+Square root transformation
+Wisconsin double standardization
+Run 0 stress 0.08898409 
+Run 1 stress 0.0889805 
+... New best solution
+... Procrustes: rmse 0.001014998  max resid 0.00265358 
+... Similar to previous best
+Run 2 stress 0.08952869 
+Run 3 stress 0.08898575 
+... Procrustes: rmse 0.001522895  max resid 0.005148323 
+... Similar to previous best
+Run 4 stress 0.08898491 
+... Procrustes: rmse 0.001287278  max resid 0.003384378 
+... Similar to previous best
+Run 5 stress 0.08898319 
+... Procrustes: rmse 0.0009063855  max resid 0.002283177 
+... Similar to previous best
+Run 6 stress 0.08952782 
+Run 7 stress 0.1254791 
+Run 8 stress 0.0895242 
+Run 9 stress 0.0889846 
+... Procrustes: rmse 0.001235191  max resid 0.003245374 
+... Similar to previous best
+Run 10 stress 0.08898878 
+... Procrustes: rmse 0.001947953  max resid 0.007549388 
+... Similar to previous best
+Run 11 stress 0.1335181 
+Run 12 stress 0.1380008 
+Run 13 stress 0.1364036 
+Run 14 stress 0.08898533 
+... Procrustes: rmse 0.001442642  max resid 0.004228293 
+... Similar to previous best
+Run 15 stress 0.3853214 
+Run 16 stress 0.162333 
+Run 17 stress 0.1369122 
+Run 18 stress 0.08952657 
+Run 19 stress 0.1358495 
+Run 20 stress 0.08898089 
+... Procrustes: rmse 0.0003093117  max resid 0.00126762 
+... Similar to previous best
+*** Solution reached
+MDS
+PCoA
+phyloseq-class experiment-level object
+otu_table()   OTU Table:         [ 516 taxa and 28 samples ]
+sample_data() Sample Data:       [ 28 samples by 8 sample variables ]
+tax_table()   Taxonomy Table:    [ 516 taxa by 14 taxonomic ranks ]
+[1] "Treatment"
+[1] "C/0"
+   Group.1       Group.2  distance
+36     C/0 S2-3H-LATE/56 0.9587149
+15     C/0  C-3H-LATE/56 0.9259260
+29     C/0      S2-3H/56 0.7918886
+43     C/0      S2-NS/56 0.7768988
+8      C/0       C-3H/56 0.7765892
+22     C/0       C-NS/56 0.7753223
+1      C/0           C/0 0.3668548
+Warning message:
+Transformation introduced infinite values in discrete y-axis 
+phyloseq-class experiment-level object
+otu_table()   OTU Table:         [ 516 taxa and 28 samples ]
+sample_data() Sample Data:       [ 28 samples by 8 sample variables ]
+tax_table()   Taxonomy Table:    [ 516 taxa by 14 taxonomic ranks ]
+converting counts to integer mode
+using pre-existing size factors
+estimating dispersions
+gene-wise dispersion estimates
+mean-dispersion relationship
+final dispersion estimates
+fitting model and testing
+[1] "Intercept"     "C.0"           "C.3H.56"       "C.3H.LATE.56"  "C.NS.56"       "S2.3H.56"      "S2.3H.LATE.56"
+[8] "S2.NS.56"     
+         log2FoldChange       pvalue        padj Kingdom        Phylum           Class        Order         Family
+GU174360       6.584056 1.420065e-03 0.041465896   Fungi    Ascomycota Dothideomycetes unidentified   unidentified
+FJ213520      -6.499735 1.365244e-03 0.041465896   Fungi    Ascomycota  Eurotiomycetes   Eurotiales Trichocomaceae
+JN905772       8.327932 3.203493e-05 0.001559033   Fungi    Ascomycota Dothideomycetes unidentified   unidentified
+GU721432       8.453236 2.009259e-05 0.001559033   Fungi    Ascomycota Dothideomycetes unidentified   unidentified
+AM901740       7.292402 2.177789e-05 0.001559033   Fungi Basidiomycota    unidentified unidentified   unidentified
+                Genus
+GU174360 unidentified
+FJ213520     Eurotium
+JN905772 unidentified
+GU721432 unidentified
+AM901740 unidentified
+pdf 
+  2 

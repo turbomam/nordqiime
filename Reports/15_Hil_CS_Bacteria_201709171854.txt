@@ -1,0 +1,650 @@
+, , Treatment = C/0
+
+     treatment
+day   C LB LH LH + LB
+  0   3  0  0       0
+  30  0  0  0       0
+  112 0  0  0       0
+
+, , Treatment = C/112
+
+     treatment
+day   C LB LH LH + LB
+  0   0  0  0       0
+  30  0  0  0       0
+  112 3  0  0       0
+
+, , Treatment = C/30
+
+     treatment
+day   C LB LH LH + LB
+  0   0  0  0       0
+  30  3  0  0       0
+  112 0  0  0       0
+
+, , Treatment = LB/112
+
+     treatment
+day   C LB LH LH + LB
+  0   0  0  0       0
+  30  0  0  0       0
+  112 0  3  0       0
+
+, , Treatment = LB/30
+
+     treatment
+day   C LB LH LH + LB
+  0   0  0  0       0
+  30  0  3  0       0
+  112 0  0  0       0
+
+, , Treatment = LH/112
+
+     treatment
+day   C LB LH LH + LB
+  0   0  0  0       0
+  30  0  0  0       0
+  112 0  0  3       0
+
+, , Treatment = LH/30
+
+     treatment
+day   C LB LH LH + LB
+  0   0  0  0       0
+  30  0  0  3       0
+  112 0  0  0       0
+
+, , Treatment = LH + LB/112
+
+     treatment
+day   C LB LH LH + LB
+  0   0  0  0       0
+  30  0  0  0       0
+  112 0  0  0       3
+
+, , Treatment = LH + LB/30
+
+     treatment
+day   C LB LH LH + LB
+  0   0  0  0       0
+  30  0  0  0       3
+  112 0  0  0       0
+
+phyloseq-class experiment-level object
+otu_table()   OTU Table:         [ 7702 taxa and 27 samples ]
+sample_data() Sample Data:       [ 27 samples by 8 sample variables ]
+tax_table()   Taxonomy Table:    [ 7702 taxa by 14 taxonomic ranks ]
+phy_tree()    Phylogenetic Tree: [ 7702 tips and 7700 internal nodes ]
+There were 50 or more warnings (use warnings() to see the first 50)
+
+FALSE  TRUE 
+ 7535    31 
+
+FALSE  TRUE 
+ 7216    12 
+Error in prune_taxa(!mito.flag, phylo) : 
+  logical argument to taxa is wrong length. Should equal ntaxa(x)
+[1] 7535   27
+Warning message:
+In class(X) <- NULL :
+  Setting class(x) to NULL;   result will no longer be an S4 object
+
+----- ----------- ----------- ----- ------- ------ -------- ------- --------
+                   Treatment   C/0   C/112   C/30   LB/112   LB/30   LH/112 
+
+ day   treatment                                                            
+
+  0        C                    3      0      0       0        0       0    
+
+          LB                    0      0      0       0        0       0    
+
+          LH                    0      0      0       0        0       0    
+
+        LH + LB                 0      0      0       0        0       0    
+
+ 30        C                    0      0      3       0        0       0    
+
+          LB                    0      0      0       0        3       0    
+
+          LH                    0      0      0       0        0       0    
+
+        LH + LB                 0      0      0       0        0       0    
+
+ 112       C                    0      3      0       0        0       0    
+
+          LB                    0      0      0       3        0       0    
+
+          LH                    0      0      0       0        0       3    
+
+        LH + LB                 0      0      0       0        0       0    
+----- ----------- ----------- ----- ------- ------ -------- ------- --------
+
+Table: Table continues below
+
+ 
+------- ------------- ------------
+ LH/30   LH + LB/112   LH + LB/30 
+
+                                  
+
+   0          0            0      
+
+   0          0            0      
+
+   0          0            0      
+
+   0          0            0      
+
+   0          0            0      
+
+   0          0            0      
+
+   3          0            0      
+
+   0          0            3      
+
+   0          0            0      
+
+   0          0            0      
+
+   0          0            0      
+
+   0          3            0      
+------- ------------- ------------
+
+NULL
+NULL
+, , Treatment = C/0
+
+     treatment
+day   C LB LH LH + LB
+  0   3  0  0       0
+  30  0  0  0       0
+  112 0  0  0       0
+
+, , Treatment = C/112
+
+     treatment
+day   C LB LH LH + LB
+  0   0  0  0       0
+  30  0  0  0       0
+  112 3  0  0       0
+
+, , Treatment = C/30
+
+     treatment
+day   C LB LH LH + LB
+  0   0  0  0       0
+  30  3  0  0       0
+  112 0  0  0       0
+
+, , Treatment = LB/112
+
+     treatment
+day   C LB LH LH + LB
+  0   0  0  0       0
+  30  0  0  0       0
+  112 0  3  0       0
+
+, , Treatment = LB/30
+
+     treatment
+day   C LB LH LH + LB
+  0   0  0  0       0
+  30  0  3  0       0
+  112 0  0  0       0
+
+, , Treatment = LH/112
+
+     treatment
+day   C LB LH LH + LB
+  0   0  0  0       0
+  30  0  0  0       0
+  112 0  0  3       0
+
+, , Treatment = LH/30
+
+     treatment
+day   C LB LH LH + LB
+  0   0  0  0       0
+  30  0  0  3       0
+  112 0  0  0       0
+
+, , Treatment = LH + LB/112
+
+     treatment
+day   C LB LH LH + LB
+  0   0  0  0       0
+  30  0  0  0       0
+  112 0  0  0       3
+
+, , Treatment = LH + LB/30
+
+     treatment
+day   C LB LH LH + LB
+  0   0  0  0       0
+  30  0  0  0       3
+  112 0  0  0       0
+
+[1] "all levels have 3 repeats"
+[1] "15_Hil_CS"
+[1] "Bacteria"
+Warning message:
+Removed 81 rows containing missing values (geom_errorbar). 
+DCA
+CCA
+RDA
+NMDS
+Square root transformation
+Wisconsin double standardization
+Run 0 stress 0.03934344 
+Run 1 stress 0.03935072 
+... Procrustes: rmse 0.002429132  max resid 0.01069146 
+Run 2 stress 0.03401649 
+... New best solution
+... Procrustes: rmse 0.07888168  max resid 0.3211598 
+Run 3 stress 0.09614566 
+Run 4 stress 0.3584766 
+Run 5 stress 0.03934873 
+Run 6 stress 0.03401462 
+... New best solution
+... Procrustes: rmse 0.0002652927  max resid 0.0005794308 
+... Similar to previous best
+Run 7 stress 0.03401441 
+... New best solution
+... Procrustes: rmse 3.477314e-05  max resid 8.037521e-05 
+... Similar to previous best
+Run 8 stress 0.04195658 
+Run 9 stress 0.03909413 
+Run 10 stress 0.03909809 
+Run 11 stress 0.04163372 
+Run 12 stress 0.03983725 
+Run 13 stress 0.03934024 
+Run 14 stress 0.03427573 
+... Procrustes: rmse 0.009298027  max resid 0.0421168 
+Run 15 stress 0.03955512 
+Run 16 stress 0.03413259 
+... Procrustes: rmse 0.002873493  max resid 0.01183116 
+Run 17 stress 0.03401488 
+... Procrustes: rmse 7.961394e-05  max resid 0.0001770349 
+... Similar to previous best
+Run 18 stress 0.0340152 
+... Procrustes: rmse 0.0001221642  max resid 0.000265922 
+... Similar to previous best
+Run 19 stress 0.03919165 
+Run 20 stress 0.03935143 
+*** Solution reached
+MDS
+PCoA
+phyloseq-class experiment-level object
+otu_table()   OTU Table:         [ 7535 taxa and 27 samples ]
+sample_data() Sample Data:       [ 27 samples by 8 sample variables ]
+tax_table()   Taxonomy Table:    [ 7535 taxa by 14 taxonomic ranks ]
+phy_tree()    Phylogenetic Tree: [ 7535 tips and 7533 internal nodes ]
+[1] "Treatment"
+[1] "C/0"
+   Group.1     Group.2  distance
+37     C/0       LB/30 0.9129868
+73     C/0  LH + LB/30 0.9114399
+55     C/0       LH/30 0.8951085
+19     C/0        C/30 0.8885100
+10     C/0       C/112 0.8184322
+64     C/0 LH + LB/112 0.8038872
+46     C/0      LH/112 0.7800499
+28     C/0      LB/112 0.7798486
+1      C/0         C/0 0.4497145
+Warning message:
+Transformation introduced infinite values in discrete y-axis 
+phyloseq-class experiment-level object
+otu_table()   OTU Table:         [ 7535 taxa and 27 samples ]
+sample_data() Sample Data:       [ 27 samples by 8 sample variables ]
+tax_table()   Taxonomy Table:    [ 7535 taxa by 14 taxonomic ranks ]
+phy_tree()    Phylogenetic Tree: [ 7535 tips and 7533 internal nodes ]
+converting counts to integer mode
+using pre-existing size factors
+estimating dispersions
+gene-wise dispersion estimates
+mean-dispersion relationship
+final dispersion estimates
+fitting model and testing
+ [1] "Intercept"   "C.0"         "C.112"       "C.30"        "LB.112"     
+ [6] "LB.30"       "LH.112"      "LH.30"       "LH...LB.112" "LH...LB.30" 
+                              log2FoldChange       pvalue         padj  Kingdom
+New.ReferenceOTU26                 -3.651693 1.082491e-02 4.874635e-02 Bacteria
+4429559                            -4.758731 6.458468e-04 4.713025e-03 Bacteria
+4431608                            -4.461172 1.831167e-03 1.142873e-02 Bacteria
+New.ReferenceOTU1                  -7.572683 8.540653e-13 5.524250e-11 Bacteria
+New.ReferenceOTU46                 -4.875398 2.456955e-06 3.461631e-05 Bacteria
+New.CleanUp.ReferenceOTU18310      -5.543514 4.266058e-05 4.367339e-04 Bacteria
+New.CleanUp.ReferenceOTU2866       -4.745117 9.170581e-04 6.428442e-03 Bacteria
+New.ReferenceOTU35                 -4.499428 4.400122e-05 4.472410e-04 Bacteria
+New.ReferenceOTU66                 -4.088334 6.942142e-04 5.014552e-03 Bacteria
+New.CleanUp.ReferenceOTU8981       -3.122127 7.381792e-03 3.597359e-02 Bacteria
+New.CleanUp.ReferenceOTU7583       -4.626071 2.665097e-04 2.154792e-03 Bacteria
+New.CleanUp.ReferenceOTU3452       -5.431511 9.158885e-06 1.143254e-04 Bacteria
+New.CleanUp.ReferenceOTU15117      -5.252084 2.690806e-05 2.991419e-04 Bacteria
+New.ReferenceOTU76                 -2.366740 8.338254e-03 3.968339e-02 Bacteria
+New.CleanUp.ReferenceOTU18462      -4.252816 4.095916e-03 2.241727e-02 Bacteria
+566203                             -6.718010 1.034896e-07 2.337551e-06 Bacteria
+New.CleanUp.ReferenceOTU2023       -5.355521 9.573108e-05 8.535585e-04 Bacteria
+New.ReferenceOTU73                 -6.843320 1.018449e-15 1.035181e-13 Bacteria
+297314                             -4.168592 5.070874e-03 2.672538e-02 Bacteria
+New.CleanUp.ReferenceOTU4686       -4.355551 1.233296e-03 8.162698e-03 Bacteria
+New.CleanUp.ReferenceOTU1442       -5.861470 1.189616e-06 1.880915e-05 Bacteria
+New.CleanUp.ReferenceOTU1072       -3.943157 8.213659e-03 3.922160e-02 Bacteria
+538967                             -6.301581 6.507164e-08 1.584599e-06 Bacteria
+New.CleanUp.ReferenceOTU11180      -6.174405 2.527207e-07 4.994744e-06 Bacteria
+New.ReferenceOTU104                -5.452440 1.094630e-05 1.312404e-04 Bacteria
+New.ReferenceOTU20                 -8.362789 4.559013e-18 7.208307e-16 Bacteria
+744387                             -6.276393 4.777060e-11 2.427770e-09 Bacteria
+New.ReferenceOTU106                -8.015729 2.216386e-10 8.760880e-09 Bacteria
+New.CleanUp.ReferenceOTU4369       -5.964248 4.696039e-06 6.074967e-05 Bacteria
+1107385                            -5.861521 4.683371e-07 8.514646e-06 Bacteria
+New.CleanUp.ReferenceOTU17173      -4.314280 7.640188e-04 5.463310e-03 Bacteria
+New.ReferenceOTU39                 -6.658674 2.311995e-07 4.633760e-06 Bacteria
+New.ReferenceOTU24                 -8.024846 4.006959e-12 2.308578e-10 Bacteria
+New.CleanUp.ReferenceOTU13184      -4.585195 2.730353e-03 1.585834e-02 Bacteria
+New.ReferenceOTU77                 -8.357450 2.427590e-15 2.302974e-13 Bacteria
+New.ReferenceOTU52                 -4.507755 2.065047e-04 1.708466e-03 Bacteria
+New.CleanUp.ReferenceOTU15293      -3.860760 3.688276e-03 2.058203e-02 Bacteria
+New.CleanUp.ReferenceOTU8376       -6.788233 8.677408e-11 4.115984e-09 Bacteria
+New.ReferenceOTU63                 -7.144409 1.231058e-09 4.073944e-08 Bacteria
+New.ReferenceOTU19                 -4.707868 1.213038e-03 8.104008e-03 Bacteria
+46006                              -4.824264 3.866153e-04 3.006303e-03 Bacteria
+New.CleanUp.ReferenceOTU8762       -4.262135 1.819628e-03 1.142873e-02 Bacteria
+New.ReferenceOTU27                 -6.563521 1.081029e-10 4.807200e-09 Bacteria
+New.CleanUp.ReferenceOTU6157       -4.028717 6.466383e-03 3.263001e-02 Bacteria
+New.CleanUp.ReferenceOTU15803      -5.921752 1.921520e-05 2.205099e-04 Bacteria
+604966                             -4.608442 7.852010e-10 2.702752e-08 Bacteria
+New.ReferenceOTU78                 -3.853103 3.847449e-03 2.122062e-02 Bacteria
+New.ReferenceOTU70                 -4.402163 4.810813e-03 2.569322e-02 Bacteria
+New.CleanUp.ReferenceOTU15071      -4.388753 4.486699e-03 2.409273e-02 Bacteria
+New.CleanUp.ReferenceOTU14196      -4.064080 5.606328e-03 2.901020e-02 Bacteria
+794205                             -7.254591 2.494595e-17 3.227099e-15 Bacteria
+New.CleanUp.ReferenceOTU14195      -5.861351 1.082356e-05 1.312404e-04 Bacteria
+New.CleanUp.ReferenceOTU17127      -5.304804 7.632719e-05 7.185965e-04 Bacteria
+New.ReferenceOTU8                  -7.598854 2.324743e-10 8.940834e-09 Bacteria
+New.CleanUp.ReferenceOTU13626      -4.935456 7.675803e-05 7.185965e-04 Bacteria
+New.CleanUp.ReferenceOTU15307      -4.898127 6.721323e-04 4.879818e-03 Bacteria
+New.CleanUp.ReferenceOTU15643      -5.997741 2.858180e-06 3.987442e-05 Bacteria
+New.ReferenceOTU55                 -7.338512 1.662039e-10 6.959877e-09 Bacteria
+540940                             -2.254731 6.287479e-03 3.206840e-02 Bacteria
+New.ReferenceOTU91                 -5.624450 1.709142e-06 2.533447e-05 Bacteria
+4380803                            -3.596323 1.233029e-03 8.162698e-03 Bacteria
+New.CleanUp.ReferenceOTU18586      -4.211533 2.466469e-03 1.468529e-02 Bacteria
+New.CleanUp.ReferenceOTU3205       -4.127734 2.958503e-03 1.697561e-02 Bacteria
+208352                              4.445172 7.782183e-05 7.237939e-04 Bacteria
+386554                              5.219474 2.617164e-03 1.538936e-02 Bacteria
+1062748                             3.313337 5.785139e-04 4.301835e-03 Bacteria
+4298365                             4.510436 8.079651e-03 3.871159e-02 Bacteria
+279325                              4.122988 5.136183e-04 3.908443e-03 Bacteria
+739867                              5.358113 5.352018e-05 5.288834e-04 Bacteria
+749563                              4.673358 3.154909e-06 4.358675e-05 Bacteria
+583016                              4.041232 6.973550e-03 3.421849e-02 Bacteria
+810402                              5.138824 3.217017e-03 1.816593e-02 Bacteria
+899931                              3.793385 1.045410e-03 7.083897e-03 Bacteria
+510360                              4.380557 4.150791e-03 2.263056e-02 Bacteria
+1129906                             4.615203 6.433269e-03 3.257844e-02 Bacteria
+573326                              3.007067 5.221474e-04 3.952211e-03 Bacteria
+4344018                             6.642514 3.416759e-05 3.655675e-04 Bacteria
+2578886                             7.208561 1.555439e-05 1.829247e-04 Bacteria
+New.ReferenceOTU107                 7.993992 3.798618e-06 5.051807e-05 Bacteria
+62965                               3.883419 9.714690e-03 4.502933e-02 Bacteria
+2880504                             8.338304 3.884713e-07 7.273614e-06 Bacteria
+New.CleanUp.ReferenceOTU19238       3.895617 8.957718e-03 4.179290e-02 Bacteria
+New.ReferenceOTU28                  5.892888 7.140822e-04 5.132015e-03 Bacteria
+771274                              8.307143 5.070870e-07 8.908455e-06 Bacteria
+572629                              8.632542 1.174098e-07 2.531427e-06 Bacteria
+New.CleanUp.ReferenceOTU5901        3.951963 8.061378e-03 3.871159e-02 Bacteria
+New.CleanUp.ReferenceOTU18424       3.786630 1.104095e-02 4.956238e-02 Bacteria
+New.CleanUp.ReferenceOTU1282        3.954767 8.023298e-03 3.870221e-02 Bacteria
+New.CleanUp.ReferenceOTU3676        4.052634 6.775689e-03 3.371261e-02 Bacteria
+New.CleanUp.ReferenceOTU18017       3.909716 8.715438e-03 4.079628e-02 Bacteria
+891031                              4.094752 1.353906e-05 1.605507e-04 Bacteria
+268061                              5.888609 1.020597e-05 1.262878e-04 Bacteria
+New.CleanUp.ReferenceOTU15489       4.710168 6.961384e-03 3.421849e-02 Bacteria
+397513                              4.432092 7.311894e-03 3.575541e-02 Bacteria
+851799                              5.241117 1.735109e-03 1.107202e-02 Bacteria
+611146                              5.288608 1.033186e-04 9.131828e-04 Bacteria
+976441                              5.342953 1.762316e-03 1.115218e-02 Bacteria
+1049387                             6.541252 8.594669e-07 1.438849e-05 Bacteria
+246060                              3.467426 1.050114e-02 4.772123e-02 Bacteria
+New.ReferenceOTU105                 5.429000 8.700563e-06 1.095655e-04 Bacteria
+New.CleanUp.ReferenceOTU10303       4.397315 2.870238e-03 1.653583e-02 Bacteria
+1004022                             4.569368 3.907218e-04 3.021723e-03 Bacteria
+1108726                             3.718397 9.454195e-03 4.396509e-02 Bacteria
+1106617                             5.238981 1.082695e-07 2.407305e-06 Bacteria
+704462                              6.357891 1.097513e-05 1.312404e-04 Bacteria
+New.CleanUp.ReferenceOTU6202        6.609933 5.137935e-06 6.586740e-05 Bacteria
+940737                              6.351150 6.476284e-08 1.584599e-06 Bacteria
+931643                              6.415260 3.847999e-09 1.190370e-07 Bacteria
+995978                              4.920002 3.167558e-05 3.440790e-04 Bacteria
+731707                              4.568493 1.446512e-06 2.173920e-05 Bacteria
+838837                              5.037574 3.473430e-06 4.707324e-05 Bacteria
+                                      Phylum               Class              Order
+New.ReferenceOTU26                Firmicutes             Bacilli    Lactobacillales
+4429559                           Firmicutes             Bacilli    Lactobacillales
+4431608                           Firmicutes             Bacilli    Lactobacillales
+New.ReferenceOTU1                 Firmicutes             Bacilli    Lactobacillales
+New.ReferenceOTU46                Firmicutes             Bacilli    Lactobacillales
+New.CleanUp.ReferenceOTU18310     Firmicutes             Bacilli    Lactobacillales
+New.CleanUp.ReferenceOTU2866      Firmicutes             Bacilli    Lactobacillales
+New.ReferenceOTU35            Proteobacteria Gammaproteobacteria  Enterobacteriales
+New.ReferenceOTU66            Proteobacteria Gammaproteobacteria  Enterobacteriales
+New.CleanUp.ReferenceOTU8981  Proteobacteria Gammaproteobacteria  Enterobacteriales
+New.CleanUp.ReferenceOTU7583  Proteobacteria Gammaproteobacteria  Enterobacteriales
+New.CleanUp.ReferenceOTU3452  Proteobacteria Gammaproteobacteria  Enterobacteriales
+New.CleanUp.ReferenceOTU15117 Proteobacteria Gammaproteobacteria  Enterobacteriales
+New.ReferenceOTU76            Proteobacteria Gammaproteobacteria  Enterobacteriales
+New.CleanUp.ReferenceOTU18462     Firmicutes             Bacilli    Lactobacillales
+566203                            Firmicutes             Bacilli    Lactobacillales
+New.CleanUp.ReferenceOTU2023      Firmicutes             Bacilli    Lactobacillales
+New.ReferenceOTU73                Firmicutes             Bacilli    Lactobacillales
+297314                            Firmicutes             Bacilli    Lactobacillales
+New.CleanUp.ReferenceOTU4686      Firmicutes             Bacilli    Lactobacillales
+New.CleanUp.ReferenceOTU1442      Firmicutes             Bacilli    Lactobacillales
+New.CleanUp.ReferenceOTU1072      Firmicutes             Bacilli    Lactobacillales
+538967                            Firmicutes             Bacilli    Lactobacillales
+New.CleanUp.ReferenceOTU11180     Firmicutes             Bacilli    Lactobacillales
+New.ReferenceOTU104               Firmicutes             Bacilli    Lactobacillales
+New.ReferenceOTU20                Firmicutes             Bacilli    Lactobacillales
+744387                            Firmicutes             Bacilli    Lactobacillales
+New.ReferenceOTU106               Firmicutes             Bacilli    Lactobacillales
+New.CleanUp.ReferenceOTU4369      Firmicutes             Bacilli    Lactobacillales
+1107385                           Firmicutes             Bacilli    Lactobacillales
+New.CleanUp.ReferenceOTU17173     Firmicutes             Bacilli    Lactobacillales
+New.ReferenceOTU39                Firmicutes             Bacilli    Lactobacillales
+New.ReferenceOTU24                Firmicutes             Bacilli    Lactobacillales
+New.CleanUp.ReferenceOTU13184     Firmicutes             Bacilli    Lactobacillales
+New.ReferenceOTU77                Firmicutes             Bacilli    Lactobacillales
+New.ReferenceOTU52                Firmicutes             Bacilli    Lactobacillales
+New.CleanUp.ReferenceOTU15293     Firmicutes             Bacilli    Lactobacillales
+New.CleanUp.ReferenceOTU8376      Firmicutes             Bacilli    Lactobacillales
+New.ReferenceOTU63                Firmicutes             Bacilli    Lactobacillales
+New.ReferenceOTU19                Firmicutes             Bacilli    Lactobacillales
+46006                             Firmicutes             Bacilli    Lactobacillales
+New.CleanUp.ReferenceOTU8762      Firmicutes             Bacilli    Lactobacillales
+New.ReferenceOTU27                Firmicutes             Bacilli    Lactobacillales
+New.CleanUp.ReferenceOTU6157      Firmicutes             Bacilli    Lactobacillales
+New.CleanUp.ReferenceOTU15803     Firmicutes             Bacilli    Lactobacillales
+604966                            Firmicutes             Bacilli    Lactobacillales
+New.ReferenceOTU78                Firmicutes             Bacilli    Lactobacillales
+New.ReferenceOTU70                Firmicutes             Bacilli    Lactobacillales
+New.CleanUp.ReferenceOTU15071     Firmicutes             Bacilli    Lactobacillales
+New.CleanUp.ReferenceOTU14196     Firmicutes             Bacilli    Lactobacillales
+794205                            Firmicutes             Bacilli    Lactobacillales
+New.CleanUp.ReferenceOTU14195     Firmicutes             Bacilli    Lactobacillales
+New.CleanUp.ReferenceOTU17127     Firmicutes             Bacilli    Lactobacillales
+New.ReferenceOTU8                 Firmicutes             Bacilli    Lactobacillales
+New.CleanUp.ReferenceOTU13626     Firmicutes             Bacilli    Lactobacillales
+New.CleanUp.ReferenceOTU15307     Firmicutes             Bacilli    Lactobacillales
+New.CleanUp.ReferenceOTU15643     Firmicutes             Bacilli    Lactobacillales
+New.ReferenceOTU55                Firmicutes             Bacilli    Lactobacillales
+540940                            Firmicutes             Bacilli    Lactobacillales
+New.ReferenceOTU91                Firmicutes             Bacilli    Lactobacillales
+4380803                           Firmicutes             Bacilli    Lactobacillales
+New.CleanUp.ReferenceOTU18586     Firmicutes             Bacilli    Lactobacillales
+New.CleanUp.ReferenceOTU3205      Firmicutes             Bacilli    Lactobacillales
+208352                            Firmicutes             Bacilli         Bacillales
+386554                        Actinobacteria      Actinobacteria    Actinomycetales
+1062748                       Actinobacteria      Actinobacteria    Actinomycetales
+4298365                       Actinobacteria      Actinobacteria    Actinomycetales
+279325                        Actinobacteria      Actinobacteria    Actinomycetales
+739867                        Actinobacteria      Actinobacteria    Actinomycetales
+749563                        Actinobacteria      Actinobacteria    Actinomycetales
+583016                        Actinobacteria      Actinobacteria    Actinomycetales
+810402                        Actinobacteria      Actinobacteria    Actinomycetales
+899931                         Bacteroidetes          Cytophagia       Cytophagales
+510360                         Bacteroidetes      Flavobacteriia   Flavobacteriales
+1129906                        Bacteroidetes      Flavobacteriia   Flavobacteriales
+573326                         Bacteroidetes      Flavobacteriia   Flavobacteriales
+4344018                        Bacteroidetes      Flavobacteriia   Flavobacteriales
+2578886                        Bacteroidetes       [Saprospirae]    [Saprospirales]
+New.ReferenceOTU107            Bacteroidetes       [Saprospirae]    [Saprospirales]
+62965                          Bacteroidetes       [Saprospirae]    [Saprospirales]
+2880504                        Bacteroidetes       [Saprospirae]    [Saprospirales]
+New.CleanUp.ReferenceOTU19238  Bacteroidetes       [Saprospirae]    [Saprospirales]
+New.ReferenceOTU28             Bacteroidetes       [Saprospirae]    [Saprospirales]
+771274                         Bacteroidetes       [Saprospirae]    [Saprospirales]
+572629                         Bacteroidetes       [Saprospirae]    [Saprospirales]
+New.CleanUp.ReferenceOTU5901   Bacteroidetes       [Saprospirae]    [Saprospirales]
+New.CleanUp.ReferenceOTU18424  Bacteroidetes       [Saprospirae]    [Saprospirales]
+New.CleanUp.ReferenceOTU1282   Bacteroidetes       [Saprospirae]    [Saprospirales]
+New.CleanUp.ReferenceOTU3676   Bacteroidetes       [Saprospirae]    [Saprospirales]
+New.CleanUp.ReferenceOTU18017  Bacteroidetes       [Saprospirae]    [Saprospirales]
+891031                         Bacteroidetes    Sphingobacteriia Sphingobacteriales
+268061                         Bacteroidetes    Sphingobacteriia Sphingobacteriales
+New.CleanUp.ReferenceOTU15489  Bacteroidetes    Sphingobacteriia Sphingobacteriales
+397513                         Bacteroidetes    Sphingobacteriia Sphingobacteriales
+851799                         Bacteroidetes    Sphingobacteriia Sphingobacteriales
+611146                         Bacteroidetes    Sphingobacteriia Sphingobacteriales
+976441                         Bacteroidetes    Sphingobacteriia Sphingobacteriales
+1049387                       Proteobacteria Gammaproteobacteria    Xanthomonadales
+246060                        Proteobacteria Gammaproteobacteria    Xanthomonadales
+New.ReferenceOTU105           Proteobacteria Gammaproteobacteria  Enterobacteriales
+New.CleanUp.ReferenceOTU10303 Proteobacteria Gammaproteobacteria  Enterobacteriales
+1004022                       Proteobacteria Gammaproteobacteria    Xanthomonadales
+1108726                       Proteobacteria  Betaproteobacteria    Burkholderiales
+1106617                       Proteobacteria  Betaproteobacteria    Burkholderiales
+704462                        Proteobacteria  Betaproteobacteria    Burkholderiales
+New.CleanUp.ReferenceOTU6202  Proteobacteria  Betaproteobacteria    Burkholderiales
+940737                        Proteobacteria  Betaproteobacteria    Burkholderiales
+931643                        Proteobacteria  Betaproteobacteria    Burkholderiales
+995978                        Proteobacteria  Betaproteobacteria    Burkholderiales
+731707                        Proteobacteria  Betaproteobacteria    Burkholderiales
+838837                        Proteobacteria  Betaproteobacteria    Burkholderiales
+                                           Family             Genus
+New.ReferenceOTU26               Lactobacillaceae     Lactobacillus
+4429559                          Lactobacillaceae     Lactobacillus
+4431608                          Lactobacillaceae     Lactobacillus
+New.ReferenceOTU1                Lactobacillaceae     Lactobacillus
+New.ReferenceOTU46               Leuconostocaceae              <NA>
+New.CleanUp.ReferenceOTU18310    Lactobacillaceae       Pediococcus
+New.CleanUp.ReferenceOTU2866     Leuconostocaceae              <NA>
+New.ReferenceOTU35             Enterobacteriaceae          Serratia
+New.ReferenceOTU66             Enterobacteriaceae              <NA>
+New.CleanUp.ReferenceOTU8981   Enterobacteriaceae          Serratia
+New.CleanUp.ReferenceOTU7583   Enterobacteriaceae              <NA>
+New.CleanUp.ReferenceOTU3452   Enterobacteriaceae              <NA>
+New.CleanUp.ReferenceOTU15117  Enterobacteriaceae              <NA>
+New.ReferenceOTU76             Enterobacteriaceae        Salmonella
+New.CleanUp.ReferenceOTU18462                <NA>              <NA>
+566203                           Lactobacillaceae     Lactobacillus
+New.CleanUp.ReferenceOTU2023     Lactobacillaceae     Lactobacillus
+New.ReferenceOTU73               Lactobacillaceae       Pediococcus
+297314                           Lactobacillaceae              <NA>
+New.CleanUp.ReferenceOTU4686     Lactobacillaceae       Pediococcus
+New.CleanUp.ReferenceOTU1442     Lactobacillaceae     Lactobacillus
+New.CleanUp.ReferenceOTU1072     Lactobacillaceae              <NA>
+538967                           Lactobacillaceae     Lactobacillus
+New.CleanUp.ReferenceOTU11180    Lactobacillaceae     Lactobacillus
+New.ReferenceOTU104              Leuconostocaceae              <NA>
+New.ReferenceOTU20               Lactobacillaceae     Lactobacillus
+744387                           Lactobacillaceae     Lactobacillus
+New.ReferenceOTU106              Lactobacillaceae     Lactobacillus
+New.CleanUp.ReferenceOTU4369     Lactobacillaceae     Lactobacillus
+1107385                          Lactobacillaceae     Lactobacillus
+New.CleanUp.ReferenceOTU17173    Lactobacillaceae     Lactobacillus
+New.ReferenceOTU39               Lactobacillaceae     Lactobacillus
+New.ReferenceOTU24               Lactobacillaceae     Lactobacillus
+New.CleanUp.ReferenceOTU13184    Lactobacillaceae     Lactobacillus
+New.ReferenceOTU77               Lactobacillaceae     Lactobacillus
+New.ReferenceOTU52               Lactobacillaceae     Lactobacillus
+New.CleanUp.ReferenceOTU15293    Lactobacillaceae              <NA>
+New.CleanUp.ReferenceOTU8376     Lactobacillaceae     Lactobacillus
+New.ReferenceOTU63               Leuconostocaceae              <NA>
+New.ReferenceOTU19               Leuconostocaceae              <NA>
+46006                            Lactobacillaceae     Lactobacillus
+New.CleanUp.ReferenceOTU8762     Lactobacillaceae              <NA>
+New.ReferenceOTU27               Lactobacillaceae     Lactobacillus
+New.CleanUp.ReferenceOTU6157     Lactobacillaceae     Lactobacillus
+New.CleanUp.ReferenceOTU15803    Lactobacillaceae     Lactobacillus
+604966                           Lactobacillaceae     Lactobacillus
+New.ReferenceOTU78               Streptococcaceae       Lactococcus
+New.ReferenceOTU70               Streptococcaceae       Lactococcus
+New.CleanUp.ReferenceOTU15071    Streptococcaceae       Lactococcus
+New.CleanUp.ReferenceOTU14196    Lactobacillaceae     Lactobacillus
+794205                           Lactobacillaceae     Lactobacillus
+New.CleanUp.ReferenceOTU14195    Leuconostocaceae       Leuconostoc
+New.CleanUp.ReferenceOTU17127    Leuconostocaceae       Leuconostoc
+New.ReferenceOTU8                Leuconostocaceae       Leuconostoc
+New.CleanUp.ReferenceOTU13626    Leuconostocaceae       Leuconostoc
+New.CleanUp.ReferenceOTU15307    Leuconostocaceae       Leuconostoc
+New.CleanUp.ReferenceOTU15643    Leuconostocaceae       Leuconostoc
+New.ReferenceOTU55               Leuconostocaceae       Leuconostoc
+540940                           Leuconostocaceae       Leuconostoc
+New.ReferenceOTU91               Leuconostocaceae       Leuconostoc
+4380803                          Leuconostocaceae       Leuconostoc
+New.CleanUp.ReferenceOTU18586    Leuconostocaceae       Leuconostoc
+New.CleanUp.ReferenceOTU3205     Leuconostocaceae              <NA>
+208352                           Paenibacillaceae     Paenibacillus
+386554                           Mycobacteriaceae     Mycobacterium
+1062748                          Mycobacteriaceae     Mycobacterium
+4298365                                      <NA>              <NA>
+279325                          Microbacteriaceae              <NA>
+739867                          Microbacteriaceae              <NA>
+749563                          Microbacteriaceae              <NA>
+583016                          Microbacteriaceae              <NA>
+810402                          Microbacteriaceae       Leucobacter
+899931                              Cytophagaceae              <NA>
+510360                            [Weeksellaceae]              <NA>
+1129906                           [Weeksellaceae]      Wautersiella
+573326                            [Weeksellaceae]  Chryseobacterium
+4344018                           [Weeksellaceae]  Chryseobacterium
+2578886                          Chitinophagaceae              <NA>
+New.ReferenceOTU107              Chitinophagaceae          Niabella
+62965                            Chitinophagaceae          Niabella
+2880504                          Chitinophagaceae          Niabella
+New.CleanUp.ReferenceOTU19238    Chitinophagaceae          Niabella
+New.ReferenceOTU28               Chitinophagaceae              <NA>
+771274                           Chitinophagaceae              <NA>
+572629                           Chitinophagaceae              <NA>
+New.CleanUp.ReferenceOTU5901     Chitinophagaceae              <NA>
+New.CleanUp.ReferenceOTU18424    Chitinophagaceae              <NA>
+New.CleanUp.ReferenceOTU1282     Chitinophagaceae              <NA>
+New.CleanUp.ReferenceOTU3676     Chitinophagaceae          Niabella
+New.CleanUp.ReferenceOTU18017    Chitinophagaceae              <NA>
+891031                        Sphingobacteriaceae  Sphingobacterium
+268061                        Sphingobacteriaceae  Sphingobacterium
+New.CleanUp.ReferenceOTU15489 Sphingobacteriaceae  Sphingobacterium
+397513                        Sphingobacteriaceae  Sphingobacterium
+851799                        Sphingobacteriaceae  Sphingobacterium
+611146                        Sphingobacteriaceae  Sphingobacterium
+976441                        Sphingobacteriaceae        Pedobacter
+1049387                          Xanthomonadaceae Pseudoxanthomonas
+246060                           Xanthomonadaceae              <NA>
+New.ReferenceOTU105            Enterobacteriaceae              <NA>
+New.CleanUp.ReferenceOTU10303  Enterobacteriaceae              <NA>
+1004022                          Xanthomonadaceae        Luteimonas
+1108726                            Comamonadaceae              <NA>
+1106617                            Comamonadaceae              <NA>
+704462                             Comamonadaceae              <NA>
+New.CleanUp.ReferenceOTU6202       Comamonadaceae              <NA>
+940737                             Comamonadaceae              <NA>
+931643                             Comamonadaceae              <NA>
+995978                             Comamonadaceae              <NA>
+731707                             Comamonadaceae       Hylemonella
+838837                             Comamonadaceae              <NA>
+ [ reached getOption("max.print") -- omitted 206 rows ]
+pdf 
+  2 

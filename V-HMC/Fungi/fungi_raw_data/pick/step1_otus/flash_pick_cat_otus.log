@@ -1,0 +1,175 @@
+OtuPicker parameters:
+Application:uclust
+Similarity:0.97
+chimeras_retention:union
+enable_rev_strand_matching:True
+exact:False
+max_accepts:1
+max_rejects:8
+new_cluster_identifier:denovo
+next_new_cluster_number:1
+optimal:False
+output_dir:/home/mark/gitstage/uderica/nordqiime/V-HMC/Fungi/fungi_raw_data/pick//step1_otus/POTU_FQVk_
+prefilter_identical_sequences:True
+presort_by_abundance:True
+save_uc_files:True
+stable_sort:True
+stepwords:8
+suppress_new_clusters:True
+suppress_sort:True
+word_length:8
+Reference seqs:/home/mark/gitstage/uderica/nordqiime/its_12_11_otus/rep_set/97_otus.fasta
+Num OTUs:147
+Num new OTUs:0
+Num failures:48721
+Result path: /home/mark/gitstage/uderica/nordqiime/V-HMC/Fungi/fungi_raw_data/pick//step1_otus/POTU_FQVk_/POTU_FQVk_.0_otus.txt
+OtuPicker parameters:
+Application:uclust
+Similarity:0.97
+chimeras_retention:union
+enable_rev_strand_matching:True
+exact:False
+max_accepts:1
+max_rejects:8
+new_cluster_identifier:denovo
+next_new_cluster_number:1
+optimal:False
+output_dir:/home/mark/gitstage/uderica/nordqiime/V-HMC/Fungi/fungi_raw_data/pick//step1_otus/POTU_FQVk_
+prefilter_identical_sequences:True
+presort_by_abundance:True
+save_uc_files:True
+stable_sort:True
+stepwords:8
+suppress_new_clusters:True
+suppress_sort:True
+word_length:8
+Reference seqs:/home/mark/gitstage/uderica/nordqiime/its_12_11_otus/rep_set/97_otus.fasta
+Num OTUs:70
+Num new OTUs:0
+Num failures:9777
+Result path: /home/mark/gitstage/uderica/nordqiime/V-HMC/Fungi/fungi_raw_data/pick//step1_otus/POTU_FQVk_/POTU_FQVk_.1_otus.txt
+OtuPicker parameters:
+Application:uclust
+Similarity:0.97
+chimeras_retention:union
+enable_rev_strand_matching:True
+exact:False
+max_accepts:1
+max_rejects:8
+new_cluster_identifier:denovo
+next_new_cluster_number:1
+optimal:False
+output_dir:/home/mark/gitstage/uderica/nordqiime/V-HMC/Fungi/fungi_raw_data/pick//step1_otus/POTU_FQVk_
+prefilter_identical_sequences:True
+presort_by_abundance:True
+save_uc_files:True
+stable_sort:True
+stepwords:8
+suppress_new_clusters:True
+suppress_sort:True
+word_length:8
+Reference seqs:/home/mark/gitstage/uderica/nordqiime/its_12_11_otus/rep_set/97_otus.fasta
+Num OTUs:96
+Num new OTUs:0
+Num failures:15848
+Result path: /home/mark/gitstage/uderica/nordqiime/V-HMC/Fungi/fungi_raw_data/pick//step1_otus/POTU_FQVk_/POTU_FQVk_.2_otus.txt
+OtuPicker parameters:
+Application:uclust
+Similarity:0.97
+chimeras_retention:union
+enable_rev_strand_matching:True
+exact:False
+max_accepts:1
+max_rejects:8
+new_cluster_identifier:denovo
+next_new_cluster_number:1
+optimal:False
+output_dir:/home/mark/gitstage/uderica/nordqiime/V-HMC/Fungi/fungi_raw_data/pick//step1_otus/POTU_FQVk_
+prefilter_identical_sequences:True
+presort_by_abundance:True
+save_uc_files:True
+stable_sort:True
+stepwords:8
+suppress_new_clusters:True
+suppress_sort:True
+word_length:8
+Reference seqs:/home/mark/gitstage/uderica/nordqiime/its_12_11_otus/rep_set/97_otus.fasta
+Num OTUs:111
+Num new OTUs:0
+Num failures:15786
+Result path: /home/mark/gitstage/uderica/nordqiime/V-HMC/Fungi/fungi_raw_data/pick//step1_otus/POTU_FQVk_/POTU_FQVk_.3_otus.txt
+OtuPicker parameters:
+Application:uclust
+Similarity:0.97
+chimeras_retention:union
+enable_rev_strand_matching:True
+exact:False
+max_accepts:1
+max_rejects:8
+new_cluster_identifier:denovo
+next_new_cluster_number:1
+optimal:False
+output_dir:/home/mark/gitstage/uderica/nordqiime/V-HMC/Fungi/fungi_raw_data/pick//step1_otus/POTU_FQVk_
+prefilter_identical_sequences:True
+presort_by_abundance:True
+save_uc_files:True
+stable_sort:True
+stepwords:8
+suppress_new_clusters:True
+suppress_sort:True
+word_length:8
+Reference seqs:/home/mark/gitstage/uderica/nordqiime/its_12_11_otus/rep_set/97_otus.fasta
+Num OTUs:102
+Num new OTUs:0
+Num failures:41171
+Result path: /home/mark/gitstage/uderica/nordqiime/V-HMC/Fungi/fungi_raw_data/pick//step1_otus/POTU_FQVk_/POTU_FQVk_.4_otus.txt
+OtuPicker parameters:
+Application:uclust
+Similarity:0.97
+chimeras_retention:union
+enable_rev_strand_matching:True
+exact:False
+max_accepts:1
+max_rejects:8
+new_cluster_identifier:denovo
+next_new_cluster_number:1
+optimal:False
+output_dir:/home/mark/gitstage/uderica/nordqiime/V-HMC/Fungi/fungi_raw_data/pick//step1_otus/POTU_FQVk_
+prefilter_identical_sequences:True
+presort_by_abundance:True
+save_uc_files:True
+stable_sort:True
+stepwords:8
+suppress_new_clusters:True
+suppress_sort:True
+word_length:8
+Reference seqs:/home/mark/gitstage/uderica/nordqiime/its_12_11_otus/rep_set/97_otus.fasta
+Num OTUs:152
+Num new OTUs:0
+Num failures:8517
+Result path: /home/mark/gitstage/uderica/nordqiime/V-HMC/Fungi/fungi_raw_data/pick//step1_otus/POTU_FQVk_/POTU_FQVk_.5_otus.txt
+OtuPicker parameters:
+Application:uclust
+Similarity:0.97
+chimeras_retention:union
+enable_rev_strand_matching:True
+exact:False
+max_accepts:1
+max_rejects:8
+new_cluster_identifier:denovo
+next_new_cluster_number:1
+optimal:False
+output_dir:/home/mark/gitstage/uderica/nordqiime/V-HMC/Fungi/fungi_raw_data/pick//step1_otus/POTU_FQVk_
+prefilter_identical_sequences:True
+presort_by_abundance:True
+save_uc_files:True
+stable_sort:True
+stepwords:8
+suppress_new_clusters:True
+suppress_sort:True
+word_length:8
+Reference seqs:/home/mark/gitstage/uderica/nordqiime/its_12_11_otus/rep_set/97_otus.fasta
+Num OTUs:115
+Num new OTUs:0
+Num failures:20069
+Result path: /home/mark/gitstage/uderica/nordqiime/V-HMC/Fungi/fungi_raw_data/pick//step1_otus/POTU_FQVk_/POTU_FQVk_.6_otus.txt
